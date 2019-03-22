@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: 'InnerSource Commons Spring Summit 2018 Agenda'
 ---
 
-[[Return to the Spring Summit 2018 page](/InnerSourceCommons/events/isc-spring-2018/)]
+[[Return to the Spring Summit 2018 page](/events/isc-spring-2018/)]
 
 <table class="schedule">
     <tr>
@@ -19,7 +19,7 @@ title: 'InnerSource Commons Spring Summit 2018 Agenda'
     </tr>
     <tr>
         <td class="time">09:00 - 09:45</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#stefan_ferber">Dr. Stefan Ferber</a> <span class="affiliation">(Robert Bosch)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#stefan_ferber">Dr. Stefan Ferber</a> <span class="affiliation">(Robert Bosch)</span></td>
         <td class="title">
             <span class="keynoteTag">Keynote: </span>Teaching Old Dogs New Tricks</span>
                 <span onClick="toggleAbstract('keynote-ferber')" class="abstract-toggle">(<a id="keynote-ferber-link">Show Abstract</a>)</span>
@@ -42,9 +42,9 @@ Now Stefan is proud that Bosch is active contributing to Eclipse Internet of Thi
      <tr>
         <td class="time">10:30 - 10:45</td>
         <td class="author">
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#danese_cooper">Danese Cooper</a> <span class="affiliation">(PayPal)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#jim_jagielski">Jim Jagielski</a><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#georg_gruetter">Georg Grütter</a> <span class="affiliation">(Robert Bosch)</span></td>
+            <a href="/events/isc-spring-2018-speakers#danese_cooper">Danese Cooper</a> <span class="affiliation">(PayPal)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#jim_jagielski">Jim Jagielski</a><br/>
+            <a href="/events/isc-spring-2018-speakers#georg_gruetter">Georg Grütter</a> <span class="affiliation">(Robert Bosch)</span></td>
         <td class="title">Why InnerSource matters
             <span onClick="toggleAbstract('cooper-1')" class="abstract-toggle">(<a id="cooper-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="cooper-1">
@@ -54,7 +54,7 @@ Over the years, we've all seen software development methods come and go. Many of
     </tr>
     <tr >
         <td class="time">10:45 - 11:30</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span></td>
+        <td><a href="/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span></td>
         <td class="title">Growing an InnerSource Program
             <span onClick="toggleAbstract('rutledge-1')" class="abstract-toggle">(<a id="rutledge-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="rutledge-1">
@@ -66,7 +66,7 @@ This presentation shares principles, practical anecdotes, and relatable examples
     </tr>
     <tr>
         <td class="time">11:30 - 12:00</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#sungjin_lee">Sungjin Lee</a> <span class="affiliation">(Samsung)</span></td>
+        <td><a href="/events/isc-spring-2018-speakers#sungjin_lee">Sungjin Lee</a> <span class="affiliation">(Samsung)</span></td>
         <td class="title">Case Study for Edge Platform InnerSource Initiative using EdgeX Foundry Open Source Project.
             <span onClick="toggleAbstract('lee-1')" class="abstract-toggle">(<a id="lee-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="lee-1">
@@ -81,7 +81,7 @@ Company has decided to start an InnerSource initiative in order to foster collab
     </tr>
     <tr>
         <td class="time">13:30 - 14:15</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#dirk_riehle">Prof. Dr. Dirk Riehle</a> <span class="affiliation">(FAU Erlangen)</span></td>
+        <td><a href="/events/isc-spring-2018-speakers#dirk_riehle">Prof. Dr. Dirk Riehle</a> <span class="affiliation">(FAU Erlangen)</span></td>
         <td class="title"><span class="keynoteTag">Keynote: </span>Ten years of InnerSource case studies and our conclusions
             <span onClick="toggleAbstract('riehle-1')" class="abstract-toggle">(<a id="riehle-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="riehle-1">
@@ -94,7 +94,7 @@ In 2006, I introduced inner source to SAP. After becoming a professor, my group 
         <td colspan="2">Poster Sessions</td>
     </tr>
     <tr >
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#adam_baratz">Adam Baratz <span class="affiliation">(Wayfair)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#adam_baratz">Adam Baratz <span class="affiliation">(Wayfair)</span></td>
         <td class="title">Working Groups as Wayfair
             <span onClick="toggleAbstract('baratz-1')" class="abstract-toggle">(<a id="baratz-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="baratz-1">
@@ -103,7 +103,7 @@ Wayfair has a sizable (over 1200 people) engineering organization. It's comprise
         </td>
     </tr>
     <tr >
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#alexander_dais">Alexander Dais <span class="affiliation">(Robert Bosch GmbH)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#alexander_dais">Alexander Dais <span class="affiliation">(Robert Bosch GmbH)</span></td>
         <td class="title">Prototyping in Bosch Internal Open Source
             <span onClick="toggleAbstract('dais-1')" class="abstract-toggle">(<a id="dais-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="dais-1">
@@ -112,7 +112,7 @@ Innersource has a very positive influence on prototyping and predevelopment. A c
         </td> 
     </tr>
     <tr >
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#kristof_van_tomme">Kristof Van Tomme <span class="affiliation">(Pronovix)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#kristof_van_tomme">Kristof Van Tomme <span class="affiliation">(Pronovix)</span></td>
         <td class="title">Innersourcing Developer eXperience: API engagement behind the firewall
             <span onClick="toggleAbstract('vantomme-1')" class="abstract-toggle">(<a id="vantomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="vantomme-1">
@@ -121,7 +121,7 @@ While there are a lot of talks and blogposts about APIs and the importance of an
         </td>
     </tr>
     <tr >
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#georg_gruetter">Georg Gr&uuml;tter <span class="affiliation">(Robert Bosch)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#georg_gruetter">Georg Gr&uuml;tter <span class="affiliation">(Robert Bosch)</span></td>
         <td class="title">Bosch Internal Open Source - Empowering Fellow Engineers with APIs
             <span onClick="toggleAbstract('gruetter-2')" class="abstract-toggle">(<a id="gruetter-2-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gruetter-2">
@@ -130,7 +130,7 @@ FusionX was the first Bosch Internal Open Source Community and has been active f
         </td>
     </tr>
     <tr >
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#shelly_nezri">Shelly Nezri <span class="affiliation">(Elbit Systems Ltd)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#shelly_nezri">Shelly Nezri <span class="affiliation">(Elbit Systems Ltd)</span></td>
         <td class="title">InnerSource Advice Booth
             <span onClick="toggleAbstract('nezri-1')" class="abstract-toggle">(<a id="nezri-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="nezri-1">
@@ -147,7 +147,7 @@ FusionX was the first Bosch Internal Open Source Community and has been active f
     </tr>
     <tr >
         <td class="time">15:45 - 16:15</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#michael_dorner">Michael Dorner</a> <span class="affiliation">(FAU Erlangen></span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#michael_dorner">Michael Dorner</a> <span class="affiliation">(FAU Erlangen></span></td>
         <td class="title">Mine InnerSource best practices from Open Source
              <span onClick="toggleAbstract('dorner-1')" class="abstract-toggle">(<a id="dorner-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="dorner-1">
@@ -157,7 +157,7 @@ In this presentation, we present the research approach and preliminary results f
     </tr>
     <tr >
         <td class="time">16:15 - 17:00</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span></td>
         <td class="title">Defining a metrics strategy and measuring collaboration
             <span onClick="toggleAbstract('izquierdo-1')" class="abstract-toggle">(<a id="izquierdo-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="izquierdo-1">
@@ -182,7 +182,7 @@ Breaking silos and foster collaboration across the several business units is one
     </tr>
     <tr >
         <td class="time">17:00 - 17:30</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#maximilian_capraro">Maximilian Capraro</a> <span class="affiliation">(FAU Erlangen)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#maximilian_capraro">Maximilian Capraro</a> <span class="affiliation">(FAU Erlangen)</span></td>
         <td class="title">The Patch-Flow Method - For Measuring InnerSource Collaboration
             <span onClick="toggleAbstract('capraro-1')" class="abstract-toggle">(<a id="capraro-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="capraro-1">
@@ -215,7 +215,7 @@ Inner source (IS)  enables and requires developers to collaborate more than trad
     </tr>
     <tr >
         <td class="time">09:15 - 10:00</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#lauri_apple">Lauri Apple</a> <span class="affiliation">Workday</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#lauri_apple">Lauri Apple</a> <span class="affiliation">Workday</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Building Trust with Intentional Relationship Design
             <span onClick="toggleAbstract('apple-1')" class="abstract-toggle">(<a id="apple-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="apple-1">
@@ -230,7 +230,7 @@ Disagreements and misunderstandings are common even in the most high-performing 
 
     <tr>
         <td class="time">10:30 - 11:00</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#rekha_joshi">Rekha Joshi</a> <span class="affiliation">(Microsoft)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#rekha_joshi">Rekha Joshi</a> <span class="affiliation">(Microsoft)</span></td>
         <td class="title">Culture Shift With InnerSource
             <span onClick="toggleAbstract('joshi-1')" class="abstract-toggle">(<a id="joshi-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="joshi-1">
@@ -241,7 +241,7 @@ Applying InnerSource with our teams we found out how it is the most powerful way
 
     <tr >
         <td class="time">11:00 - 11:30</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#ori_orenbach">Ori Orenbach</a> <span class="affiliation">(Amdocs)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#ori_orenbach">Ori Orenbach</a> <span class="affiliation">(Amdocs)</span></td>
         <td class="title">Inner Source our Cloud Native Enterprise platform to make a cultural game changer
             <span onClick="toggleAbstract('orenbach-1')" class="abstract-toggle">(<a id="orenbach-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="orenbach-1">
@@ -253,10 +253,10 @@ Developing a technological Cloud Native platform, that brings non functional cap
     <tr >
         <td class="time">11:30 - 12:00</td>
         <td class="author">
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(CA Technologies)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#danese_cooper">Danese Cooper</a> <span class="affiliation">(PayPal)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation">(Robert Bosch)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span>
+            <a href="/events/isc-spring-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(CA Technologies)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#danese_cooper">Danese Cooper</a> <span class="affiliation">(PayPal)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation">(Robert Bosch)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span>
         </td>
         <td class="title">Panel: Setting Your InnerSource Journey Up For Failure
             <span onClick="toggleAbstract('bank-1')" class="abstract-toggle">(<a id="bank-1-link">Show Abstract</a>)</span>
@@ -275,12 +275,12 @@ We’ll discuss some sure fire ways to ensure that you set your InnerSource Jour
     <tr >
         <td class="time">13:30 - 14:00</td>
         <td class="author">
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(CA Technologies)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation">(Robert Bosch)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#klaas_jan_stol">Klaas-Jan Stol</a> <span class="affiliation">(University College Cork)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#tim_yao">Tim Yao</a> <span class="affiliation">(Nokia)</span>
+            <a href="/events/isc-spring-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(CA Technologies)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation">(Robert Bosch)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#klaas_jan_stol">Klaas-Jan Stol</a> <span class="affiliation">(University College Cork)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#tim_yao">Tim Yao</a> <span class="affiliation">(Nokia)</span>
         </td>
         <td class="title">InnerSource Patterns (Part 1): Together we can build the roadmap for success!
             <span onClick="toggleAbstract('bank-2')" class="abstract-toggle">(<a id="bank-2-link">Show Abstract</a>)</span>
@@ -292,7 +292,7 @@ Those of us establishing InnerSource programs encounter similar problems. Develo
 
     <tr >
         <td class="time">14:00 - 14:30</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#tim_yao">Tim Yao</a> <span class="affiliation">(Nokia)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#tim_yao">Tim Yao</a> <span class="affiliation">(Nokia)</span></td>
         <td class="title">Thoughts on an InnerSource Pattern Language
             <span onClick="toggleAbstract('yao-1')" class="abstract-toggle">(<a id="yao-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="yao-1">
@@ -303,8 +303,8 @@ Pattern languages show how patterns fit together to solve classes of problems ar
 
     <tr >
         <td class="time">14:30 - 15:00</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span><br/>
-        <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#jorge_herrera">Jorge Herrera</a> <span class="affiliation">(Entelgy)</span>
+        <td><a href="/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span><br/>
+        <a href="/events/isc-spring-2018-speakers#jorge_herrera">Jorge Herrera</a> <span class="affiliation">(Entelgy)</span>
         </td>
         <td class="title">Are maturity models needed in InnerSource?
             <span onClick="toggleAbstract('izquierdo-2')" class="abstract-toggle">(<a id="izquierdo-2-link">Show Abstract</a>)</span>
@@ -342,7 +342,7 @@ This talk will present some internal discussion around the topic of the maturity
     </tr>
     <tr >
         <td class="time">09:15 - 10:00</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#karsten_gerloff">Karsten Gerloff</a> <span class="affiliation">(Siemens)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#karsten_gerloff">Karsten Gerloff</a> <span class="affiliation">(Siemens)</span></td>
         <td class="title"><span class="keynoteTag">Keynote: </span>Karsten Gerloff: Committing (to) change: The Siemens Software Management System
             <span onClick="toggleAbstract('gerloff-1')" class="abstract-toggle">(<a id="gerloff-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gerloff-1">
@@ -356,7 +356,7 @@ The Siemens Inner Source platform started as a way for one division to maintain 
     </tr>
      <tr>
         <td class="time">10:30 - 11:00</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#robert_hansel">Robert Hansel</a> <span class="affiliation">(Robert Bosch)</span> </td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#robert_hansel">Robert Hansel</a> <span class="affiliation">(Robert Bosch)</span> </td>
         <td class="title">Hack Your Desktop - An InnerSource Approach For The Developer Desktop at Bosch
             <span onClick="toggleAbstract('hansel-1')" class="abstract-toggle">(<a id="hansel-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="hansel-1">
@@ -366,7 +366,7 @@ InnerSource - what we call Bosch Internal Open Source (BIOS) internally - is a g
     </tr>
       <tr >
         <td class="time">11:00 - 12:00</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(CA Technologies)</span></td>
+        <td><a href="/events/isc-spring-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(CA Technologies)</span></td>
         <td class="title">InnerSource Patterns (Part 2): Together we can build the roadmap for success!
             <span onClick="toggleAbstract('bank-3')" class="abstract-toggle">(<a id="bank-3-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bank-3">
@@ -381,7 +381,7 @@ Those of us establishing InnerSource programs encounter similar problems. Develo
     </tr>
     <tr >
         <td class="time">13:15 - 13:45</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#spiros_aktipis">Spiros Aktipis</a> <span class="affiliation">(Nokia)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#spiros_aktipis">Spiros Aktipis</a> <span class="affiliation">(Nokia)</span></td>
         <td class="title">Inner sourcing - Fantastic, Forgettable or a Spiritual pursuit?
             <span onClick="toggleAbstract('aktipis-1')" class="abstract-toggle">(<a id="aktipis-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="aktipis-1">
@@ -392,7 +392,7 @@ Inner sourcing at NOKIA core networks and the people seemed like a match made in
 
     <tr>
         <td class="time">13:45 - 14:15</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#maximilian_capraro">Maximilian Capraro</a> <span class="affiliation">(FAU Erlangen)</span></td>
+        <td><a href="/events/isc-spring-2018-speakers#maximilian_capraro">Maximilian Capraro</a> <span class="affiliation">(FAU Erlangen)</span></td>
         <td class="title">A Classification Framework for InnerSource Projects and Programs
             <span onClick="toggleAbstract('capraro-2')" class="abstract-toggle">(<a id="capraro-2-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="capraro-2">
@@ -402,7 +402,7 @@ In open source, projects often differ significantly from one another. Consequent
     </tr>
     <tr >
         <td class="time">14:15 - 14:45</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#israel_herraiz">Israel Herraiz</a> <span class="affiliation">(BBVA)</span></td>
+        <td><a href="/events/isc-spring-2018-speakers#israel_herraiz">Israel Herraiz</a> <span class="affiliation">(BBVA)</span></td>
         <td class="title">Notebooks are not enough: How InnerSource Can Make Data Science Better
             <span onClick="toggleAbstract('herraiz-1')" class="abstract-toggle">(<a id="herraiz-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="herraiz-1">
@@ -418,8 +418,8 @@ Data scientists are not developers. And yet, they are constantly writing source 
     <tr >
         <td class="time">15:15 - 15:45</td>
         <td class="author">
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#johannes_nicolai">Johannes Nicolai</a> <span class="affiliation">(GitHub)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#marko_berkovic">Marko Berkovic</a> <span class="affiliation">(GitHub)</span></td>
+            <a href="/events/isc-spring-2018-speakers#johannes_nicolai">Johannes Nicolai</a> <span class="affiliation">(GitHub)</span><br/>
+            <a href="/events/isc-spring-2018-speakers#marko_berkovic">Marko Berkovic</a> <span class="affiliation">(GitHub)</span></td>
         <td class="title">Inner Source Success Metrics that satisfy upper management and do not frustrate developers
             <span onClick="toggleAbstract('nicolai-1')" class="abstract-toggle">(<a id="nicolai-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="nicolai-1">
@@ -429,7 +429,7 @@ Everybody can install a software forge, prescribe that "we are doing inner sourc
     </tr>
     <tr >
         <td class="time">15:45 - 16:30</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span></td>
+        <td class="author"><a href="/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span></td>
         <td class="title">An Oriole for InnerSource
             <span onClick="toggleAbstract('rutledge-2')" class="abstract-toggle">(<a id="rutledge-2-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="rutledge-2">

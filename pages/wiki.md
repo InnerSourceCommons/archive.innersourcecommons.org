@@ -4,5 +4,5 @@ show_meta: false
 title: 'InnerSource Commons Wiki'       
 permalink: "/wiki/"
 redirect_to: 
-    - https://github.com/paypal/InnerSourceCommons/wiki
+    - https://github.com/InnerSourceCommons/innersourcecommons.org/wiki
 ---

@@ -4,5 +4,5 @@ show_meta: false
 title: 'InnerSource'
 permalink: "/learningpath/"
 redirect_to: 
-    - http://paypal.github.io/InnerSourceCommons/resources/learningpath/
+    - https://innersourcecommons.org/resources/learningpath/
 ---

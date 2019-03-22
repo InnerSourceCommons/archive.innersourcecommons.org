@@ -4,7 +4,7 @@ title: 'Adopting InnerSource - Principles and Case Studies'
 permalink: '/resources/books/adoptinginnersource/'
 ---
 
-[![Adopting Inner Source](/InnerSourceCommons/assets/img/AdoptingInnerSource.jpg){: .alignright}](/InnerSourceCommons/assets/files/AdoptingInnerSource.pdf)
+[![Adopting Inner Source](/assets/img/AdoptingInnerSource.jpg){: .alignright}](/assets/files/AdoptingInnerSource.pdf)
 
 InnerSource is a software development strategy rapidly spreading throughout large corporations - and it is also more. At its essence, InnerSource enables software developers to contribute to the efforts of other teams, fostering transparency and openness to contributions from others. But beyond that, InnerSource represents a collaborative and empowering way of involving employees in making and implementing decisions throughout the corporation. It embodies a philosophy of human relations, an approach to rewards and motivations, and a loose, adaptable set of tools and practices. 
 

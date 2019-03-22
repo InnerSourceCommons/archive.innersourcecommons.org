@@ -9,19 +9,19 @@ title: 'InnerSource Commons Fall Summit 2018'
 ### Event
 That's an official wrap on the InnerSource Commons Fall Summit! Thanks to all attendees and speakers for making this summit so productive and fun!
 
-<a href="/InnerSourceCommons/assets/img/isc.s7-group-photo.JPG"><img alt="ISC.S7 Crowd" width="600" src="/InnerSourceCommons/assets/img/isc.s7-group-photo.JPG"/></a>
+<a href="/assets/img/isc.s7-group-photo.JPG"><img alt="ISC.S7 Crowd" width="600" src="/assets/img/isc.s7-group-photo.JPG"/></a>
 
 Please watch the site home page for details on the upcoming 2019 Spring (April) and Fall summits!
 
 ### Agenda and Speakers
-The Fall Summit [agenda](/InnerSourceCommons/events/isc-fall-2018-agenda) included an exciting lineup of [sessions](/InnerSourceCommons/events/isc-fall-2018-agenda) and [speakers](/InnerSourceCommons/events/isc-fall-2018-speakers)! 
+The Fall Summit [agenda](/events/isc-fall-2018-agenda) included an exciting lineup of [sessions](/events/isc-fall-2018-agenda) and [speakers](/events/isc-fall-2018-speakers)! 
 
 
 ### Our Keynote Speakers
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Otto Berkes" width="200" src="/InnerSourceCommons/assets/img/Otto Berkes.jpg"/>
+        <img alt="Otto Berkes" width="200" src="/assets/img/Otto Berkes.jpg"/>
     </div>
 
 <b>Otto Berkes, Executive Vice President and Chief Technology Officer at CA Technologies</b>
@@ -42,7 +42,7 @@ An advocate of diversity, he is a member of the University of Vermont’s STEM l
 <div style="clear:both;"></div>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Mary Lynn Manns" width="200" src="/InnerSourceCommons/assets/img/Mary Lynn Manns_July2015.jpg"/>
+        <img alt="Mary Lynn Manns" width="200" src="/assets/img/Mary Lynn Manns_July2015.jpg"/>
     </div>
 <b>Dr. Mary Lynn Manns, Professor at UNC Asheville and Author</b>
 
@@ -54,7 +54,7 @@ Dr. Mary Lynn Manns is a professor in the Department of Management at UNC Ashevi
 <div style="clear:both;"></div>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Russell Rutledge" width="200" src="/InnerSourceCommons/assets/img/Russell Rutledge.jpeg"/>
+        <img alt="Russell Rutledge" width="200" src="/assets/img/Russell Rutledge.jpeg"/>
     </div>
 <b>Russell R. Rutledge, Community Core Team Lead, Nike</b>
     
@@ -67,7 +67,7 @@ Russ Rutledge is the lead for Nike's Community Core team—a startup within the 
 <div style="clear:both;"></div>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Nigel Simpson" width="200" src="/InnerSourceCommons/assets/img/nigelsimpson.jpg"/>
+        <img alt="Nigel Simpson" width="200" src="/assets/img/nigelsimpson.jpg"/>
     </div>
 <b>Nigel Simpson, Director of Tech Strategy & Research at The Walt Disney Company</b>
 
@@ -94,11 +94,11 @@ The InnerSource Commons ([InnerSourceCommons.org](http://innersourcecommons.org)
 
 This Summit was hosted by [CA Technologies](https://www.ca.com/us.html) at their facility at 1 Computer Associates Plaza, Islandia, NY, 11749.
 
-<img alt="CA Islandia" width="600" src="/InnerSourceCommons/assets/img/ca_islandia.jpg"/>
+<img alt="CA Islandia" width="600" src="/assets/img/ca_islandia.jpg"/>
 
-### [Code of Conduct](/InnerSourceCommons/events/conduct/)
+### [Code of Conduct](/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/InnerSourceCommons/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
 
 InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 

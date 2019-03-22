@@ -2,13 +2,13 @@
 layout: page-fullwidth
 title: 'InnerSource Commons Spring Summit 2019 Speakers'
 ---
-[[Return to the Spring Summit 2019 page](/InnerSourceCommons/events/isc-spring-2019/)]
+[[Return to the Spring Summit 2019 page](/events/isc-spring-2019/)]
 
 <a name="max_campraro">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-      <img alt="Max Campraro" width="200" src="/InnerSourceCommons/assets/img/Max_Capraro.png"/>
+      <img alt="Max Campraro" width="200" src="/assets/img/Max_Capraro.png"/>
     </div>
     <b>Max Capraro</b></a>
     <p>
@@ -21,7 +21,7 @@ Maximilian Capraro is a researcher and doctoral candidate at the Open Source Res
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-      <img alt="Eoin Conneely" width="200" src="/InnerSourceCommons/assets/img/Eoin-Cooneely.jpg"/>
+      <img alt="Eoin Conneely" width="200" src="/assets/img/Eoin-Cooneely.jpg"/>
     </div>
     <b>Eoin Conneely</b></a>
     <p>
@@ -35,7 +35,7 @@ Eoin Conneely is the Head of the Application Development Platform Program to ena
 <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Danese Cooper" width="200" src="/InnerSourceCommons/assets/img/Danese_Cooper.jpg"/>
+        <img alt="Danese Cooper" width="200" src="/assets/img/Danese_Cooper.jpg"/>
     </div>
     <b>Danese Cooper</b></a>
     <p>
@@ -48,7 +48,7 @@ Ms. Danese Cooper has been the Head of Open Source Software at PayPal, Inc. sinc
 <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Daniel Izquierdo Cortázar" width="200" src="/InnerSourceCommons/assets/img/Daniel_Izquierdo.jpg"/>
+       <img alt="Daniel Izquierdo Cortázar" width="200" src="/assets/img/Daniel_Izquierdo.jpg"/>
     </div>
     <b>Daniel Izquierdo Cortázar</b></a>
     <p>
@@ -61,7 +61,7 @@ Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a
 <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-    <img alt="Hong Dang" width="200" src="/InnerSourceCommons/assets/img/Hong_Dang.png"/>
+    <img alt="Hong Dang" width="200" src="/assets/img/Hong_Dang.png"/>
     </div>
     <b>Hong Dang</b></a>
     <p>
@@ -74,7 +74,7 @@ Hong Phuc Dang is currently the InnerSource driver at Zalando where she acts as 
 <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-    <img alt="Brian Fitzgerald" width="200" src="/InnerSourceCommons/assets/img/Brian-Fitzgerald.jpg"/>
+    <img alt="Brian Fitzgerald" width="200" src="/assets/img/Brian-Fitzgerald.jpg"/>
     </div>
     <b>Brian Fitzgerald</b></a>
     <p>
@@ -87,7 +87,7 @@ Professor Brian Fitzgerald is Director of Lero – the Irish Software Research C
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Thomas Froment" width="200" src="/InnerSourceCommons/assets/img/Thomas_Froment.jpg"/>
+     <img alt="Thomas Froment" width="200" src="/assets/img/Thomas_Froment.jpg"/>
     </div>
     <b>Thomas Froment</b></a>
     <p>
@@ -100,7 +100,7 @@ Thomas Froment is the lead of Thales Inner Source Software Community – aiming 
 <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-      <img alt="Wolfgang Gehring" width="200" src="/InnerSourceCommons/assets/img/Wolfgang_Gehring.jpg"/>
+      <img alt="Wolfgang Gehring" width="200" src="/assets/img/Wolfgang_Gehring.jpg"/>
     </div>
     <b>Wolfgang Gehring</b></a>
     <p>
@@ -114,7 +114,7 @@ As Senior Scrum Master and Agile Coach, Dr. Wolfgang Gehring sees one of his mai
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Georg Gruetter" width="200" src="/InnerSourceCommons/assets/img/Georg Gruetter.jpg"/>
+       <img alt="Georg Gruetter" width="200" src="/assets/img/Georg Gruetter.jpg"/>
     </div>
     <b>Georg Gruetter</b></a>
     <p>
@@ -128,7 +128,7 @@ Georg is a software developer with over 30 years of professional experience. He 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Malcolm Herbert" width="200" src="/InnerSourceCommons/assets/img/Malcolm_Herbert.png"/>
+       <img alt="Malcolm Herbert" width="200" src="/assets/img/Malcolm_Herbert.png"/>
     </div>
     <b>Malcolm Herbert</b></a>
     <p>
@@ -141,7 +141,7 @@ Chief Technologist at Red Hat Consulting, where I've worked for 18 years. Advoca
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Jorge Herrera" width="200" src="/InnerSourceCommons/assets/img/jorge-herrera.jpg"/>
+     <img alt="Jorge Herrera" width="200" src="/assets/img/jorge-herrera.jpg"/>
     </div>
     <b>Jorge Herrera</b></a>
     <p>
@@ -155,7 +155,7 @@ Jorge Herrera is an agility enthusiast, currently working as Technical Manager f
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="John Landy" width="200" src="/InnerSourceCommons/assets/img/John-Lundy.jpg"/>   
+     <img alt="John Landy" width="200" src="/assets/img/John-Lundy.jpg"/>   
     </div>
     <b>John Landy</b></a>
     <p>
@@ -169,7 +169,7 @@ John Landy is a leader in Systems and Technology at Ericsson. In his 20-year car
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-      <img alt="Tobie Langel" width="200" src="/InnerSourceCommons/assets/img/Tobie_Langel.jpg"/>
+      <img alt="Tobie Langel" width="200" src="/assets/img/Tobie_Langel.jpg"/>
     </div>
     <b>Tobie Langel</b></a>
     <p>
@@ -182,7 +182,7 @@ Tobie Langel is the founder of UnlockOpen, a boutique consulting firm that helps
   <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Olivier Liechti" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+     <img alt="Olivier Liechti" width="200" src="/assets/img/Picture Pending.png"/>
     </div>
     <b>Olivier Liechti</b></a>
     <p>
@@ -195,7 +195,7 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
   <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Kevin Newman" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+       <img alt="Kevin Newman" width="200" src="/assets/img/Picture Pending.png"/>
     </div>
     <b>Kevin Newman</b></a>
     <p>
@@ -207,7 +207,7 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Shelly Nezri" width="200" src="/InnerSourceCommons/assets/img/Shelly_Nezri.jpeg"/>
+       <img alt="Shelly Nezri" width="200" src="/assets/img/Shelly_Nezri.jpeg"/>
     </div>
     <b>Shelly Nezri</b></a>
     <p>
@@ -221,7 +221,7 @@ Shelly Nezri is a software engineer at Elbit Systems and the company’s InnerSo
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Katrina Novakovic" width="200" src="/InnerSourceCommons/assets/img/Katrina_Novakovic.jpg"/>
+       <img alt="Katrina Novakovic" width="200" src="/assets/img/Katrina_Novakovic.jpg"/>
     </div>
     <b>Katrina Novakovic</b></a>
     <p>
@@ -234,7 +234,7 @@ Katrina joined Red Hat, the world's leading provider of enterprise open source s
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Ben van 't ende" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+       <img alt="Ben van 't ende" width="200" src="/assets/img/Picture Pending.png"/>
     </div>
     <b>Ben van 't ende</b></a>
     <p>
@@ -249,7 +249,7 @@ Ben is partner and collaboration strategist at Age of Peers. With Age of Peers B
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-  <img alt="Johannes Tigges" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+  <img alt="Johannes Tigges" width="200" src="/assets/img/Picture Pending.png"/>
     </div>
     <b>Johannes Tigges</b></a>
     <p>
@@ -263,7 +263,7 @@ Johannes is an Open Source and Inner Source enthusiast currently working for HER
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Kristof Van Tomme" width="200" src="/InnerSourceCommons/assets/img/Kristof Van Tomme.png"/>
+     <img alt="Kristof Van Tomme" width="200" src="/assets/img/Kristof Van Tomme.png"/>
     </div>
     <b>Kristof Van Tomme</b></a>
     <p>

@@ -9,9 +9,9 @@ git config --global user.name "travis-ci"
 rm -rf ./_site
 
 # Clone into subdir so that htmlproofer understands the relative links
-git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG} ./_site/InnerSourceCommons 
+git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG} ./_site
 
-bundle exec jekyll build -d ./_site/InnerSourceCommons
+bundle exec jekyll build -d ./_site
 bundle exec htmlproofer ./_site --disable-external --allow-hash-href
 
 if [ $TRAVIS_PULL_REQUEST != "false" ]; then
@@ -21,7 +21,7 @@ if [ $TRAVIS_PULL_REQUEST != "false" ]; then
 fi
     
 # If we get here push build live
-cd _site/InnerSourceCommons
+cd _site
 git add --all .
 git commit -m "Automated travis build $TRAVIS_BUILD_NUMBER"
 git push --quiet origin gh-pages

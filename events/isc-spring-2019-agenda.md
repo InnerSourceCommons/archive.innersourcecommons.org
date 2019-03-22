@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: 'InnerSource Commons Spring Summit 2019 Agenda'
 ---
-[[Return to the Spring Summit 2019 page](/InnerSourceCommons/events/isc-spring-2019/)]
+[[Return to the Spring Summit 2019 page](/events/isc-spring-2019/)]
 
 <table class="schedule">
     <tr>
@@ -22,9 +22,9 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
    <tr>
         <td class="time">09:20 - 10:20</td>
          <td class="author">
-            <a href="/InnerSourceCommons/events/isc-spring-2019-speakers#john_landy">John Landy</a><span class="affiliation"> (Ericsson)
+            <a href="/events/isc-spring-2019-speakers#john_landy">John Landy</a><span class="affiliation"> (Ericsson)
             </span><br/>
-        <a href="/InnerSourceCommons/events/isc-spring-2019-speakers#eoin_conneely">Eoin Conneelly</a><span class="affiliation"> (Ericsson)</span>
+        <a href="/events/isc-spring-2019-speakers#eoin_conneely">Eoin Conneelly</a><span class="affiliation"> (Ericsson)</span>
 
    <td class="title">
             <span class="keynoteTag">Keynote:</span></span>
@@ -43,7 +43,7 @@ Details appearing shortly
   <tr>
         <td class="time">11:00 - 11:30</td>
         <td class="author">
-<a href="/InnerSourceCommons/events/isc-spring-2019-speakers#georg_gruetter">Georg Gruetter</a> <span class="affiliation">(Robert Bosch)</span></td>
+<a href="/events/isc-spring-2019-speakers#georg_gruetter">Georg Gruetter</a> <span class="affiliation">(Robert Bosch)</span></td>
 
 <td class="title">A Decade of InnerSource at Bosch
 <span onClick="toggleAbstract('gruetter-1')" class="abstract-toggle">(<a id="gruetter-1-link">Show Abstract</a>)</span>
@@ -55,7 +55,7 @@ I will share the story of InnerSource at Bosch, which started about a decade ago
     
     <tr >
         <td class="time">11:35 - 12:05</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#thomas_froment">Thomas Froment</a> <span class="affiliation"> (Thales)</span></td>
+        <td><a href="/events/isc-spring-2019-speakers#thomas_froment">Thomas Froment</a> <span class="affiliation"> (Thales)</span></td>
         <td class="title">How we implement Inner Source community in Thales?
             <span onClick="toggleAbstract('froment-1')" class="abstract-toggle">(<a id="froment-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="froment-1">
@@ -66,7 +66,7 @@ Thales Inner Source Software (TISS) Community is born from the Thales Digital Tr
 <tr>
 
         <td class="time">12:10 - 12:40</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers">Ben van 't Ende</a> <span class="affiliation"> (Age of Peers)</span></td>
+        <td><a href="/events/isc-spring-2019-speakers">Ben van 't Ende</a> <span class="affiliation"> (Age of Peers)</span></td>
         <td class="title">Detox your Inner Source
             <span onClick="toggleAbstract('ende-1')" class="abstract-toggle">(<a id="ende-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="ende-1">
@@ -82,7 +82,7 @@ Collaborative practices are adopted naturally by participants in today’s open 
 
  <tr>
         <td class="time">13:50 - 14:50</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#katrina_novakovic">Katrina Novakovic</a> <span class="affiliation"> (Redhat)</span></td>
+        <td><a href="/events/isc-spring-2019-speakers#katrina_novakovic">Katrina Novakovic</a> <span class="affiliation"> (Redhat)</span></td>
 
    <td class="title">Workshop: Most organisations are Better than they Think 
             <span onClick="toggleAbstract('novakovic-1')" class="abstract-toggle">(<a id="novakovic-1-link">Show Abstract</a>)</span>
@@ -102,7 +102,7 @@ Red Hat, the world's leading provider of Open Source Enterprise solutions, has o
 <tr >
        <td class="time">14:55 - 15:25</td>
 
-   <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#hong_dang">Hong Dang</a><span class="affiliation"> (Zalando)</span></td>
+   <td class="author"><a href="/events/isc-spring-2019-speakers#hong_dang">Hong Dang</a><span class="affiliation"> (Zalando)</span></td>
         <td class="title">Open Source within the walls: The Case of a German fashion Platform
             <span onClick="toggleAbstract('dong-1')" class="abstract-toggle">(<a id="dong-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="dong-1">
@@ -119,7 +119,7 @@ This presentation covers InnerSource Discovery Phase at Zalando and best practic
 
   <tr >
         <td class="time">16:00 - 16:30</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#shelly_nezri">Shelly Nezri</a> <span class="affiliation"> (Elbit Systems Ltd.)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#shelly_nezri">Shelly Nezri</a> <span class="affiliation"> (Elbit Systems Ltd.)</span></td>
         <td class="title">Gamification as a means of cultural change and an InnerSource engagement booster
             <span onClick="toggleAbstract('nezri-1')" class="abstract-toggle">(<a id="nezri-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="nezri-1">
@@ -131,7 +131,7 @@ When Elbit Systems launched its InnerSource program, it decided to drive cultura
 <tr >
         <td class="time">16:35 - 17:05</td>
 
-   <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation">(Daimler)</span></td>
+   <td class="author"><a href="/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation">(Daimler)</span></td>
         <td class="title">Case Study: Daimler’s Path Towards Inner Source
             <span onClick="toggleAbstract('gehring-1')" class="abstract-toggle">(<a id="gehring-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gehring-1">
@@ -183,7 +183,7 @@ Details appearing shortly
 
  <tr>
         <td class="time">10:55 - 11:25</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
 <td class="title"> Thoughts on adopting InnerSource and/or Agile
             <span onClick="toggleAbstract('cortázar-1')" class="abstract-toggle">(<a id="cortázar-1-link">Show Abstract</a>)</span>
 <div style="display:none" class="abstract" id="cortázar-1">
@@ -195,7 +195,7 @@ One of the main questions that any company willing to try InnerSource is how thi
 
    <tr >
         <td class="time">11:30 - 12:00</td>
-<td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#olivier_liechti">Olivier Liechti</a> <span class="affiliation">(Avalia Systems)</span></td>
+<td class="author"><a href="/events/isc-spring-2019-speakers#olivier_liechti">Olivier Liechti</a> <span class="affiliation">(Avalia Systems)</span></td>
         <td class="title"> Agile transformation at Softplan: guiding teams with data-driven experiments
             <span onClick="toggleAbstract('liechti-1')" class="abstract-toggle">(<a id="liechti-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="liechti-1">
@@ -211,7 +211,7 @@ How do you bring a legacy Enterprise Resource Planning (ERP) to "The Cloud", wit
 
 <tr>
         <td class="time">13:05 - 14:30</td>
-            <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span>
+            <td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span>
         <td class="title"> Workshop: Dealing with common InnerSource Issues through Developer Portals
             <span onClick="toggleAbstract('van_tomme-1')" class="abstract-toggle">(<a id="van_tomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="van_tomme-1">
@@ -226,7 +226,7 @@ During the last InnerSource Commons and Patterns sessions, there have been a set
 
 <tr >
         <td class="time">15:05 - 15:35</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#malcolm_herbert">Malcolm Herbert</a> <span class="affiliation">(Red Hat)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#malcolm_herbert">Malcolm Herbert</a> <span class="affiliation">(Red Hat)</span></td>
         <td class="title"> Why Inner Source when you can Open Source
             <span onClick="toggleAbstract('herbert-1')" class="abstract-toggle">(<a id="herbert-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="herbert-1">
@@ -237,7 +237,7 @@ Over the last 10 years, Red Hat Consulting has offered services around open sour
 
 <tr >
         <td class="time">15:40 - 16:10</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#kevin_newman">Kevin Newman 
+        <td class="author"><a href="/events/isc-spring-2019-speakers#kevin_newman">Kevin Newman 
 </a></span></td>
         <td class="title"> How to fail implementing InnerSource
             <span onClick="toggleAbstract('newman-1')" class="abstract-toggle">(<a id="newman-1-link">Show Abstract</a>)</span>
@@ -252,8 +252,8 @@ An informal, but hopefully informative, presentation on the challenges of implem
 
 <tr >
         <td class="time">16:15 - 16:45</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#max_campraro"> Max Capraro <br>
-            <a href="/InnerSourceCommons/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges
+        <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro <br>
+            <a href="/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges
 </span></td>
         <td class="title"> The Inner Source Learning Path
             <span onClick="toggleAbstract('campraro-1')" class="abstract-toggle">(<a id="campraro-1-link">Show Abstract</a>)</span>
@@ -293,7 +293,7 @@ Inner source is the application of open source methodologies to internally-devel
  
 <tr >
         <td class="time">09:15 - 10:15</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#brian_fitzgerald">Brian Fitzgerald</a> <span class="affiliation">(Director of Lero, University of Limerick)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#brian_fitzgerald">Brian Fitzgerald</a> <span class="affiliation">(Director of Lero, University of Limerick)</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Crowdsourcing Software Development: Silver Bullet or Lead Balloon
             <span onClick="toggleAbstract('fitzgerald-1')" class="abstract-toggle">(<a id="fitzgerald-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="fitzgerald-1">
@@ -311,18 +311,18 @@ Crowdsourcing is emerging as an alternative outsourcing strategy which is gainin
         <td class="time">10:50 - 11:20</td>
 
         <td class="author">
-<a href="/InnerSourceCommons/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
+<a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
 <td class="title">Metrics and KPIs for an InnerSource Office 
      <span onClick="toggleAbstract('cortázar-2')" class="abstract-toggle">(<a id="cortázar-2-link">Show Abstract</a>)</span>
 <div style="display:none" class="abstract" id="cortázar-2">
 
-Metrics are an important part of the InnerSource journey. The InnerSource Commons has been a great place for discussion around the topic. Specifically the InnerSource Patterns community delivered a pattern focused on first steps with metrics [1] where no specific metrics are detailed, but this gives a starting point to discuss when, how and what to measure. This talk aims at detailing these set of metrics and KPIs for further discussion across the community. This is based on work in progress in the GrimoireLab/CHAOSS community, a Linux Foundation Project. The proposed set of metrics are split into three main areas: Activity, Community and Process. [1] https://github.com/paypal/InnerSourcePatterns/blob/master/introducing-metrics-in-innersource.md
+Metrics are an important part of the InnerSource journey. The InnerSource Commons has been a great place for discussion around the topic. Specifically the InnerSource Patterns community delivered a pattern focused on first steps with metrics [1] where no specific metrics are detailed, but this gives a starting point to discuss when, how and what to measure. This talk aims at detailing these set of metrics and KPIs for further discussion across the community. This is based on work in progress in the GrimoireLab/CHAOSS community, a Linux Foundation Project. The proposed set of metrics are split into three main areas: Activity, Community and Process. [1] https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/introducing-metrics-in-innersource.md
 </div>
         </td>
     </tr>
 <tr >
         <td class="time">11:25 - 11:55</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#tobie_langel">Tobie Langel</a> <span class="affiliation">(UnlockOpen)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#tobie_langel">Tobie Langel</a> <span class="affiliation">(UnlockOpen)</span></td>
         <td class="title">Making the Business Case for Contributing to Open Source
             <span onClick="toggleAbstract(‘langel-1')" class="abstract-toggle">(<a id="langel-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="orenbach-1">
@@ -338,7 +338,7 @@ Details appearing shortly
 
    <tr >
         <td class="time">13:00 - 13:45</td>    
-<td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span>
+<td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span>
 <td class="title">7 cultural insights to help you reinvent your organization            
 <span onClick="toggleAbstract('VanTomme-1')" class="abstract-toggle">(<a id="VanTomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="VanTomme-2">
@@ -349,7 +349,7 @@ Culture is hard to describe, and even harder to emulate. So how do you even star
 
    <tr >
         <td class="time">13:50 - 14:30</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#danese_cooper">Danese Cooper</a> 
+        <td class="author"><a href="/events/isc-spring-2019-speakers#danese_cooper">Danese Cooper</a> 
 </td>
         <td class="title">Governance Meeting
             <span onClick="toggleAbstract('cooper-1')" class="abstract-toggle"><a id="cooper-1-link"></a></span>

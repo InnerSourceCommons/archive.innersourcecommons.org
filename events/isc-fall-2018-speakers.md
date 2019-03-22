@@ -3,13 +3,13 @@ layout: page-fullwidth
 title: 'InnerSource Commons Fall Summit 2018 Speakers'
 ---
 
-[[Return to the Fall Summit 2018 page](/InnerSourceCommons/events/isc-fall-2018/)]
+[[Return to the Fall Summit 2018 page](/events/isc-fall-2018/)]
 
 <a name="erin_bank">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Erin Bank" width="200" src="/InnerSourceCommons/assets/img/Erin Bank.png"/>
+        <img alt="Erin Bank" width="200" src="/assets/img/Erin Bank.png"/>
      </div>
     <b>Erin Bank</b></a>
     <p>
@@ -22,7 +22,7 @@ Erin Bank has more than 20 years of experience building and executing transforma
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Silona Bonewald" width="200" src="/InnerSourceCommons/assets/img/Silona Bonewald.png"/>
+        <img alt="Silona Bonewald" width="200" src="/assets/img/Silona Bonewald.png"/>
     </div>
     <b>Silona Bonewald</b></a>
     <p>
@@ -42,7 +42,7 @@ In addition, I open sourced the unified search tool <a href="https://github.com/
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Noah Cawley" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+        <img alt="Noah Cawley" width="200" src="/assets/img/Picture Pending.png"/>
     </div>
     <b>Noah Cawley</b></a>
     <p>
@@ -55,7 +55,7 @@ I am a software engineer at Nike where I work to support collaborative efforts w
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Billy Foss" width="200" src="/InnerSourceCommons/assets/img/Billy Foss.jpg"/>
+        <img alt="Billy Foss" width="200" src="/assets/img/Billy Foss.jpg"/>
     </div>
     <b>Billy Foss</b></a>
     <p>
@@ -68,7 +68,7 @@ Billy Foss works in the world between development and operations. As part of bri
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Georg Gr&uuml;tter" width="200" src="/InnerSourceCommons/assets/img/Georg Gruetter.jpg"/>
+        <img alt="Georg Gr&uuml;tter" width="200" src="/assets/img/Georg Gruetter.jpg"/>
     </div>
     <b>Georg Gr&uuml;tter</b></a>
     <p>
@@ -81,7 +81,7 @@ Georg Gr&uuml;tter is a Senior Expert at Bosch Corporate Research and a founding
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Andre Hagemeier" width="200" src="/InnerSourceCommons/assets/img/Andre Hagemeier.png"/>
+        <img alt="Andre Hagemeier" width="200" src="/assets/img/Andre Hagemeier.png"/>
     </div>
     <b>Andre Hagemeier</b></a>
     <p>
@@ -94,7 +94,7 @@ Andre Hagemeier is the Head of Development Platforms EU at Wayfair, where he tri
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Robert Hansel" width="200" src="/InnerSourceCommons/assets/img/Robert Hansel.png"/>
+        <img alt="Robert Hansel" width="200" src="/assets/img/Robert Hansel.png"/>
     </div>
     <b>Robert Hansel</b></a>
     <p>
@@ -107,7 +107,7 @@ Robert Hansel is a founding member of the Social Coding Initiative at Bosch, in 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Raimund Hook" width="200" src="/InnerSourceCommons/assets/img/Raimund Hook.jpg"/>
+        <img alt="Raimund Hook" width="200" src="/assets/img/Raimund Hook.jpg"/>
      </div>
     <b>Raimund Hook</b></a>
     <p>
@@ -121,7 +121,7 @@ A passionate believer in Automation, Raimund believes that there is a solution f
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Jim Jagielski" width="200" src="/InnerSourceCommons/assets/img/Jim Jagielski.png"/>
+        <img alt="Jim Jagielski" width="200" src="/assets/img/Jim Jagielski.png"/>
      </div>
     <b>Jim Jagielski</b></a>
     <p>
@@ -134,7 +134,7 @@ Jim Jagielski is a well-known and acknowledged expert and visionary in Open Sour
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Daniel Izquierdo" width="200" src="/InnerSourceCommons/assets/img/Daniel_Izquierdo.jpg"/>
+        <img alt="Daniel Izquierdo" width="200" src="/assets/img/Daniel_Izquierdo.jpg"/>
     </div>
     <b>Daniel Izquierdo</b></a>
     <p>
@@ -147,7 +147,7 @@ Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Stephen McCall" width="200" src="/InnerSourceCommons/assets/img/Stephen McCall.png"/>
+        <img alt="Stephen McCall" width="200" src="/assets/img/Stephen McCall.png"/>
     </div>
     <b>Stephen McCall</b></a>
     <p>
@@ -160,7 +160,7 @@ Stephen McCall is currently the InnerSource Governance Architect within the Ente
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="David McKenna" width="200" src="/InnerSourceCommons/assets/img/David McKenna.jpg"/>
+        <img alt="David McKenna" width="200" src="/assets/img/David McKenna.jpg"/>
     </div>
     <b>David McKenna</b></a>
     <p>
@@ -173,7 +173,7 @@ Dave McKenna is an Agile Coach who has worked in the information technology fiel
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="David Mittman" width="200" src="/InnerSourceCommons/assets/img/David Mittman.png"/>
+        <img alt="David Mittman" width="200" src="/assets/img/David Mittman.png"/>
     </div>
     <b>David Mittman</b></a>
     <p>
@@ -186,7 +186,7 @@ David Mittman has been developing software for over 35 years, and is currently M
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Loren Sanz" width="200" src="/InnerSourceCommons/assets/img/Loren Sanz.png"/>
+        <img alt="Loren Sanz" width="200" src="/assets/img/Loren Sanz.png"/>
     </div>
     <b> Loren Sanz </b></a>
     <p>
@@ -199,7 +199,7 @@ Loren Sanz is a gregarious engineer on Nike's Community Core team - a startup wi
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Kristof Van Tomme" width="200" src="/InnerSourceCommons/assets/img/Kristof Van Tomme.png"/>
+        <img alt="Kristof Van Tomme" width="200" src="/assets/img/Kristof Van Tomme.png"/>
     </div>
     <b>Kristof Van Tomme</b></a>
     <p>
@@ -212,7 +212,7 @@ Kristof Van Tomme is an open source strategist and architect. He is the CEO and 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Kanchana Welagedara" width="200" src="/InnerSourceCommons/assets/img/Kanchana Welagedara.jpg"/>
+        <img alt="Kanchana Welagedara" width="200" src="/assets/img/Kanchana Welagedara.jpg"/>
     </div>
     <b>Kanchana Welagedara</b></a>
     <p>
@@ -228,7 +228,7 @@ A long-time open source enthusiast and community contributor, Kanchana Welagedar
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Otto Berkes" width="200" src="/InnerSourceCommons/assets/img/Otto Berkes.jpg"/>
+        <img alt="Otto Berkes" width="200" src="/assets/img/Otto Berkes.jpg"/>
     </div>
     <b>Otto Berkes</b></a>
     <p>
@@ -251,7 +251,7 @@ Otto earned a bachelor’s degree in physics from Middlebury College in Vermont 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt=" Mary Lynn Manns" width="200" src="/InnerSourceCommons/assets/img/Mary Lynn Manns_July2015.jpg"/>
+        <img alt=" Mary Lynn Manns" width="200" src="/assets/img/Mary Lynn Manns_July2015.jpg"/>
     </div>
     <b>Mary Lynn Manns</b></a>
     <p>
@@ -264,7 +264,7 @@ Dr. Mary Lynn Manns is a professor in the Department of Management at UNC Ashevi
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Russell Rutledge" width="200" src="/InnerSourceCommons/assets/img/Russell Rutledge.jpeg"/>
+        <img alt="Russell Rutledge" width="200" src="/assets/img/Russell Rutledge.jpeg"/>
     </div>
     <b> Russell R. Rutledge </b></a>
     <p>
@@ -276,7 +276,7 @@ Russ Rutledge is the lead for Nike's Community Core team—a startup within the 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Nigel Simpson" width="200" src="/InnerSourceCommons/assets/img/nigelsimpson.jpg"/>
+        <img alt="Nigel Simpson" width="200" src="/assets/img/nigelsimpson.jpg"/>
     </div>
     <b> Nigel Simpson</b></a>
     <p>
@@ -302,7 +302,7 @@ Nigel graduated from Imperial College, London with a degree in Computing Science
 Due to a conflict, the following speaker is unable to attend.
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Nithya Ruff" width="200" src="/InnerSourceCommons/assets/img/Nithya Ruff.png"/>
+        <img alt="Nithya Ruff" width="200" src="/assets/img/Nithya Ruff.png"/>
     </div>
     <b>Nithya Ruff</b></a>
     <p>

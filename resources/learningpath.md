@@ -19,7 +19,7 @@ Once finished, the first edition of the Inner Source Learning Path will cover th
 
 We invite you to help us finishing the Inner Source Learning Paths. Checkout the [README.md of the Learning Path Repository](https://github.com/InnerSourceCommons/InnerSourceLearningPath/) or join our Slack channel via the signup link in the left bar of this website and ask to join the [#learning-path] _Slack_ channel.
 
-[InnerSource Commons]: http://www.innersourcecommons.org/
+[InnerSource Commons]: https://www.innersourcecommons.org/
 [#learning-path]: https://paypalflow.slack.com/messages/CARTU4XV2
 [Trusted Committer]: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599
 [Introduction]: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504

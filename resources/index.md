@@ -13,11 +13,11 @@ Academic papers, news articles, blogs
   * [Understanding the InnerSource Checklist]({{ site.baseurl }}/checklist/)
   * [Adopting InnerSource - Principles and Case Studies](books/adoptinginnersource)
 
-### [InnerSource Commons Wiki](https://github.com/paypal/InnerSourceCommons/wiki)
+### [InnerSource Commons Wiki](https://github.com/InnerSourceCommons/innersourcecommons.org/wiki)
 
 Checklists, definitions, and all the other random, uncategorized stuff
 
-### [Events](/InnerSourceCommons/events/)
+### [Events](/events/)
 
 Meet up with other folks working to implement InnerSource in their organizations
 

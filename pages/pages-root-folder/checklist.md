@@ -5,7 +5,7 @@ permalink: '/checklist/'
 ---
 Do you want your day job to be more like your work on a favorite Open Source Project? Do your teams need to reduce technical debt?   Do you want to break down the silos between your people and allow more collaboration and reuse?
 
-[![Understanding the InnerSource Checklist](/InnerSourceCommons/assets/img/InnerSourceChecklistCover.png){: .alignright}](/InnerSourceCommons/assets/files/InnerSourceChecklist.pdf)
+[![Understanding the InnerSource Checklist](/assets/img/InnerSourceChecklistCover.png){: .alignright}](/assets/files/InnerSourceChecklist.pdf)
 
 Come learn more about an innersource checklist developed at PayPal.  Hear more about our success stories with InnerSource and how we are codifying our practices to help more teams at PayPal and beyond.
 

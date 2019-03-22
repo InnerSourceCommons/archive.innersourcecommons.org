@@ -3,7 +3,7 @@ layout: page
 title: 'InnerSource Commons Spring Summit 2019 CFP'
 ---
 
-[Return to the Spring Summit 2019 page](/InnerSourceCommons/events/isc-spring-2019/)
+[Return to the Spring Summit 2019 page](/events/isc-spring-2019/)
 
 *Change link to point to new CFP*
 

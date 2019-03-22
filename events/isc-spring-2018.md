@@ -9,7 +9,7 @@ title: 'InnerSource Commons Spring Summit 2018'
 The ISC.S6 is a wrap! Thanks to all attendees for making this summit such an
 engaging and interesting one! 
 
-<a href="/InnerSourceCommons/assets/img/isc.s6-group-photo.jpg"><img alt="ISC.S6 Crowd" width="600" src="/InnerSourceCommons/assets/img/isc.s6-group-photo.jpg"/></a>
+<a href="/assets/img/isc.s6-group-photo.jpg"><img alt="ISC.S6 Crowd" width="600" src="/assets/img/isc.s6-group-photo.jpg"/></a>
 
 We have published the first videos on the InnerSource Commons YouTube channel:
 
@@ -20,13 +20,13 @@ Creative Commons license (CC BY).
 
 ### Agenda and speakers
 
-See the [agenda](/InnerSourceCommons/events/isc-spring-2018-agenda) and see all [our speakers](/InnerSourceCommons/events/isc-spring-2018-speakers)
+See the [agenda](/events/isc-spring-2018-agenda) and see all [our speakers](/events/isc-spring-2018-speakers)
 
 ### Our Keynote Speakers
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Dr. Stefan Ferber" width="200" src="/InnerSourceCommons/assets/img/stefan-ferber.png"/>
+        <img alt="Dr. Stefan Ferber" width="200" src="/assets/img/stefan-ferber.png"/>
     </div>
 
 <b>Dr. Stefan Ferber</b>
@@ -77,7 +77,7 @@ In 2006, I introduced inner source to SAP. After becoming a professor, my group 
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Lauri Apple" width="200" src="/InnerSourceCommons/assets/img/lauri-apple.jpg"/>
+        <img alt="Lauri Apple" width="200" src="/assets/img/lauri-apple.jpg"/>
     </div>
 
 <b>Lauri Apple</b>
@@ -99,7 +99,7 @@ Disagreements and misunderstandings are common even in the most high-performing 
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Karsten Gerloff" width="200" src="/InnerSourceCommons/assets/img/karsten-gerloff.jpg"/>
+        <img alt="Karsten Gerloff" width="200" src="/assets/img/karsten-gerloff.jpg"/>
     </div>
 
 <b>Karsten Gerloff</b>
@@ -145,7 +145,7 @@ Robert-Bosch-Campus 1<br/>
 71272 Renningen<br/>
 Germany<br/>
 
-<img alt="Renningen" width="600" src="/InnerSourceCommons/assets/img/renningen.png"/>
+<img alt="Renningen" width="600" src="/assets/img/renningen.png"/>
 
 ### Food
 
@@ -156,9 +156,9 @@ Morning snack, lunch and afternoon snack will be provided to Summit attendees ea
 - **May 16th**: Bosch will host a summit dinner on May 16th close to the venue.
 - **May 17th**: We'll visit the Bosch semiconductor fab in Reutlingen. **Note:** we can only accomodate 50 visitors! We'll prioritize external guests over Bosch employees and we'll go in the order of registrations.
 
-### [Code of Conduct](/InnerSourceCommons/events/conduct/)
+### [Code of Conduct](/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/InnerSourceCommons/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
 
 InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 

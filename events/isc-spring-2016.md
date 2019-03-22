@@ -60,7 +60,7 @@ Looking forward to seeing you there!
 
 ### Hosts
 
-[![Tech At Bloomberg](/InnerSourceCommons/assets/img/bloomberg.jpg)](http://www.techatbloomberg.com/) [![PayPal InnerSource](/InnerSourceCommons/assets/img/paypal.png)](https://paypal.github.io)
+[![Tech At Bloomberg](/assets/img/bloomberg.jpg)](http://www.techatbloomberg.com/) [![PayPal InnerSource](/assets/img/paypal.png)](https://paypal.github.io)
 
 
 

@@ -3,13 +3,13 @@ layout: page-fullwidth
 title: 'InnerSource Commons Spring Summit 2018 Speakers'
 ---
 
-[[Return to the Spring Summit 2018 page](/InnerSourceCommons/events/isc-spring-2018/)]
+[[Return to the Spring Summit 2018 page](/events/isc-spring-2018/)]
 
 <a name="lauri_apple">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Lauri Apple" width="200" src="/InnerSourceCommons/assets/img/lauri-apple.jpg"/>
+        <img alt="Lauri Apple" width="200" src="/assets/img/lauri-apple.jpg"/>
     </div>
 
     <b>Lauri Apple</b></a>
@@ -26,7 +26,7 @@ Based in Dublin, Ireland, Lauri Apple is senior program manager with Workday's p
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Spiros Aktipis" width="200" src="/InnerSourceCommons/assets/img/spiros_aktipis.png"/>
+        <img alt="Spiros Aktipis" width="200" src="/assets/img/spiros_aktipis.png"/>
     </div>
 
     <b>Spiros Aktipis</b></a>
@@ -43,7 +43,7 @@ Having in total 16 years’ of experience in the telecommunications industry spe
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Erin Bank" width="200" src="/InnerSourceCommons/assets/img/erin-bank.png"/>
+        <img alt="Erin Bank" width="200" src="/assets/img/erin-bank.png"/>
     </div>
 
     <b>Erin Bank</b></a>
@@ -56,7 +56,7 @@ Erin Bank has 20 years of experience in engineering program management and techn
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Adam Baratz" width="200" src="/InnerSourceCommons/assets/img/adam-barratz.jpg"/>
+        <img alt="Adam Baratz" width="200" src="/assets/img/adam-barratz.jpg"/>
     </div>
 
     <b>Adam Baratz</b>
@@ -115,7 +115,7 @@ Ms. Danese Cooper has been the Head of Open Source Software at PayPal, Inc. sinc
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Alexander Dais" width="200" src="/InnerSourceCommons/assets/img/alexander-dais.jpg"/>
+        <img alt="Alexander Dais" width="200" src="/assets/img/alexander-dais.jpg"/>
     </div>
 
     <b>Alexander Dais</b>
@@ -147,7 +147,7 @@ Michael Dorner, M.Sc., is a researcher and a PhD candidate at the Professorship 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Stefan Ferber" width="200" src="/InnerSourceCommons/assets/img/stefan-ferber.png"/>
+        <img alt="Stefan Ferber" width="200" src="/assets/img/stefan-ferber.png"/>
     </div>
 
     <b>Stefan Ferber</b>
@@ -164,7 +164,7 @@ Dr. Ferber holds an undergraduate degree and a Ph.D. in computer science from th
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Karsten Gerloff" width="200" src="/InnerSourceCommons/assets/img/karsten-gerloff.jpg"/>
+        <img alt="Karsten Gerloff" width="200" src="/assets/img/karsten-gerloff.jpg"/>
     </div>
                 
     <b>Karsten Gerloff</b>
@@ -179,7 +179,7 @@ Having worked at the intersection of technology, policy and law for more than a 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Georg Grütter" width="200" src="/InnerSourceCommons/assets/img/georg-gruetter.jpg"/>
+        <img alt="Georg Grütter" width="200" src="/assets/img/georg-gruetter.jpg"/>
     </div>
 
     <b>Georg Gr&uuml;tter</b>
@@ -211,7 +211,7 @@ Robert is a founding member of the Social Coding Initiative at Bosch, in which h
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Israel Herraiz" width="200" src="/InnerSourceCommons/assets/img/israel_herraiz.jpg"/>
+        <img alt="Israel Herraiz" width="200" src="/assets/img/israel_herraiz.jpg"/>
     </div>
 
     <b>Israel Herraiz</b>
@@ -227,7 +227,7 @@ Israel Herraiz is a senior data scientist at BBVA Data & Analytics and director 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Jorge Herrera" width="200" src="/InnerSourceCommons/assets/img/jorge_herrera.jpg"/>
+        <img alt="Jorge Herrera" width="200" src="/assets/img/jorge_herrera.jpg"/>
     </div>
 
     <b>Jorge Herrera</b>
@@ -275,7 +275,7 @@ m Jagielski is a well known and acknowledged expert and visionary in Open Source
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Rekha Joshi" width="200" src="/InnerSourceCommons/assets/img/rekha-joshi.jpg"/>
+        <img alt="Rekha Joshi" width="200" src="/assets/img/rekha-joshi.jpg"/>
     </div>
 
     <b>Rekha Joshi</b>
@@ -291,7 +291,7 @@ Rekha Joshi is a Principal Engineer for Cloud and AI Platforms at Microsoft, whe
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Sungjin Lee" width="200" src="/InnerSourceCommons/assets/img/profile-pic-placeholder.png"/>
+        <img alt="Sungjin Lee" width="200" src="/assets/img/profile-pic-placeholder.png"/>
     </div>
 
     <b>Sungjin Lee</b>
@@ -307,7 +307,7 @@ Sungjin is the Program Manager for Open Source Technology in Samsung Research. H
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Shelly Nezri" width="200" src="/InnerSourceCommons/assets/img/profile-pic-shellynezri.jpg"/>
+        <img alt="Shelly Nezri" width="200" src="/assets/img/profile-pic-shellynezri.jpg"/>
     </div>
 
     <b>Shelly Nezri</b>
@@ -371,7 +371,7 @@ Prof. Dr. Dirk Riehle, M.B.A., is the Professor of Open Source Software at the F
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Russ Rutledge" width="200" src="/InnerSourceCommons/assets/img/russ-rutledge.jpeg"/>
+        <img alt="Russ Rutledge" width="200" src="/assets/img/russ-rutledge.jpeg"/>
     </div>
 
     <b>Russ Rutledge</b>

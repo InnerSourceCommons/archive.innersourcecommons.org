@@ -1,5 +1,5 @@
 - name: GitHub
-  url: http://github.com/paypal/InnerSourceCommons
+  url: http://github.com/InnerSourceCommons/innersourcecommons.org
   class: icon-github
   title: Code und mehr...
 
@@ -8,10 +8,10 @@
 #   class: icon-youtube
 #   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
-- name: Twitter
-  url: http://twitter.com/PayPalFLOW
-  class: icon-twitter
-  title: "PayPal FLOW on Twitter"
+# - name: Twitter
+# url: http://twitter.com/PayPalFLOW
+# class: icon-twitter
+# title: "PayPal FLOW on Twitter"
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/

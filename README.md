@@ -13,7 +13,7 @@ TODO: Add contributing guidelines.
 
 ## git command line tips
 
-* Do this once when you've checked out your fork of the main ISC repo: git remote add upstream https://github.com/paypal/InnerSourceCommons.git
+* Do this once when you've checked out your fork of the main ISC repo: git remote add upstream https://github.com/InnerSourceCommons/innersourcecommons.org.git
 * Do this to rebase the fork with the main ISC repo: 
     - git fetch upstream
     - git checkout master
@@ -31,5 +31,3 @@ TODO: Add contributing guidelines.
 * Install bundler gem
 * Run 'bundle install'
 * Run 'jekyll build -s &lt;master branch location&gt; -d &lt;gh-pages location&gt;'
-    - *Note that most of the local links refer to /InnerSourceCommons, so you probably want to direct the gh-pages location to a directory that ends in /InnerSourceCommons*
-* Copy README.md from &lt;master branch location&gt; to &lt;gh-pages location&gt;

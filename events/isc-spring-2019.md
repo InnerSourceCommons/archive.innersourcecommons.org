@@ -17,23 +17,23 @@ Please visit our [Registration Page](https://innersourcesummit2019.brownpapertic
 We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Lorraine Morgan for more details (Lorraine.morgan@nuigalway.ie).
 
 ### Agenda and Speakers
-The Summit agenda is available [here](http://paypal.github.io/InnerSourceCommons/events/isc-spring-2019-agenda/) and you can also check out our speakers [here](http://paypal.github.io/InnerSourceCommons/events/isc-spring-2019-speakers/) 
+The Summit agenda is available [here](https://innersourcecommons.org/events/isc-spring-2019-agenda/) and you can also check out our speakers [here](https://innersourcecommons.org/events/isc-spring-2019-speakers/) 
 
 We are delighted to welcome John Landy and Eoin Conneely (Ericsson) and Professor Brian Fitzgerald (Lero – the Irish Software Research Centre) as our keynote speakers.
 
-<img alt="John Landy photo" src="/InnerSourceCommons/assets/img/John-Lundy.jpg" width="200" align="right"/>
+<img alt="John Landy photo" src="/assets/img/John-Lundy.jpg" width="200" align="right"/>
 
 **John Landy**
 
 John Landy is a leader in Systems and Technology at Ericsson.  In his 20-year career at Ericsson, John has held a number of technical leadership roles, including head product owner for the Community-Developed Software project, which introduced Inner Source software development to the Ericsson. As well as participating in numerous industry and academic events in Ireland,  John has spoken at OSCON and gave a keynote address at the 2017 Inner Source Commons Fall Summit.  He also contributed to the O’Reilly 2018 publication “Adopting Inner Source”. John holds a Bachelor of Science in Computer Systems from the University of Limerick. 
 
-<img alt="Eoin Conneely photo" src="/InnerSourceCommons/assets/img/Eoin-Cooneely.jpg" width="200" align="right"/>
+<img alt="Eoin Conneely photo" src="/assets/img/Eoin-Cooneely.jpg" width="200" align="right"/>
 
 **Eoin Conneely**
 
 Eoin Conneely is the Head of the Application Development Platform Program to enable cloud native application development & Head of Strategy Implementation for PDU OSS. Prior to this role, Eoin amassed over 25 years’ experience with Ericsson (LM Ericsson Limited), and also holds extensive professional experience in software and Agile S/W development. Eoin earned his Bachelor of Engineering Electronic (1989-1993) from National University of Ireland, Galway
 
-<img alt="Brian Fitzgerald photo" src="/InnerSourceCommons/assets/img/Brian-Fitzgerald.jpg" width="200" align="right"/>
+<img alt="Brian Fitzgerald photo" src="/assets/img/Brian-Fitzgerald.jpg" width="200" align="right"/>
 
 **Professor Brian Fitzgerald**
 
@@ -93,9 +93,9 @@ Other Hotels & Hostels in Galway City:
 * [Snoozles Hostel Galway](https://www.snoozleshostelgalway.ie/) 
 * [The Nest Boutique Hostel](http://www.thenestaccommodation.com/) 
 
-### [Code of Conduct](/InnerSourceCommons/events/conduct/)
+### [Code of Conduct](/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/InnerSourceCommons/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
 
 InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 

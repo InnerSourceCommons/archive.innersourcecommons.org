@@ -5,15 +5,15 @@ title: 'InnerSource Commons Fall Summit 2017'
 
 ### September 27-29 Wed-Fri in Chicago (Naperville, IL), USA
 
-Fifty nine people representing twenty two companies and institutions were present for the InnerSource Commons Fall Summit 2017 in Naperville, IL, USA.  Naperville is a western suburb of Chicago, about 45 minutes from the Loop. Attendees enjoyed [a great slate of speakers](/InnerSourceCommons/events/isc-fall-2017-speakers) and [a solid line-up of presentations and workshops](/InnerSourceCommons/events/isc-fall-2017-agenda).
+Fifty nine people representing twenty two companies and institutions were present for the InnerSource Commons Fall Summit 2017 in Naperville, IL, USA.  Naperville is a western suburb of Chicago, about 45 minutes from the Loop. Attendees enjoyed [a great slate of speakers](/events/isc-fall-2017-speakers) and [a solid line-up of presentations and workshops](/events/isc-fall-2017-agenda).
 
-<a href="/InnerSourceCommons/assets/img/DSC_2564_02_large.jpg"><img alt="thumbnail group photo" src="/InnerSourceCommons/assets/img/DSC_2564_02_small.jpg"/></a>
+<a href="/assets/img/DSC_2564_02_large.jpg"><img alt="thumbnail group photo" src="/assets/img/DSC_2564_02_small.jpg"/></a>
 
 ### Agenda
 
-See [the detailed three-day agenda](/InnerSourceCommons/events/isc-fall-2017-agenda)
+See [the detailed three-day agenda](/events/isc-fall-2017-agenda)
 
-<a href="/InnerSourceCommons/events/isc-fall-2017-agenda"><img alt="thumbnail image of agenda" width="400" src="/InnerSourceCommons/assets/img/fallsummit2017_agenda_thumbnail.png"/></a>
+<a href="/events/isc-fall-2017-agenda"><img alt="thumbnail image of agenda" width="400" src="/assets/img/fallsummit2017_agenda_thumbnail.png"/></a>
 
 ### Keynote Speakers
 **[Dr. Vijay Gurbani from Bell Labs](https://insight.nokia.com/users/vijay-gurbani)** 
@@ -32,7 +32,7 @@ John Landy is Lead Product Owner for a group championing inner source community 
 
 ### Who are the Speakers?
 
-See [the list of speakers](/InnerSourceCommons/events/isc-fall-2017-speakers)
+See [the list of speakers](/events/isc-fall-2017-speakers)
 
 ### What is InnerSource?
 InnerSource takes the lessons learned from developing open source software and applies them to the way companies develop software internally. As developers have become accustomed to working on world class open source software, there is a strong desire to bring those practices back inside the firewall and apply them to software that companies may be reluctant to release. For companies building mostly closed source software, InnerSource can be a great tool to help break down silos, encourage internal collaboration, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
@@ -54,9 +54,9 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 This Summit is hosted by [Nokia](http://www.nokia.com/en_int) at their facility at [1960 W. Lucent Lane, Naperville, IL 60563-1594](https://goo.gl/maps/cYHJb2jLb1m). The venue spaces there reserved for the Fall Summit include a flexible, large auditorium, four break-out rooms and an on-site cafeteria. 
 
-<img alt="Nokia is 31 miles from Midway, 25 miles from O'Hare" width="600" src="/InnerSourceCommons/assets/img/nokia_ihn_main.jpg"/>
+<img alt="Nokia is 31 miles from Midway, 25 miles from O'Hare" width="600" src="/assets/img/nokia_ihn_main.jpg"/>
 
-<img alt="The Nokia auditorium can accommodate 200 people" width="600" src="/InnerSourceCommons/assets/img/ihn_auditorium.jpg"/>
+<img alt="The Nokia auditorium can accommodate 200 people" width="600" src="/assets/img/ihn_auditorium.jpg"/>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2751.9032152777704!2d-88.11954235407396!3d41.81149452573095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1496771749678" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -135,20 +135,20 @@ The [city of Naperville](http://www.naperville.il.us/) is a suburb of Chicago, l
 Downtown Naperville features [its own riverwalk](http://www.naperville.il.us/enjoy-naperville/naperville-riverwalk/), [created in 1981 to celebrate the city's Sesquicentennial](http://www.napervilleparks.org/the-riverwalk) (150th anniversary). The park features covered bridges, relaxing fountains and distinctive shepherd's crook lights. 
 
 
-<img alt="The Naperville Riverwalk features a covered bridge" width="600" src="/InnerSourceCommons/assets/img/naperville_riverwalk_4755340966_fc7390571a_z_brian_jelonek.jpg"/>
+<img alt="The Naperville Riverwalk features a covered bridge" width="600" src="/assets/img/naperville_riverwalk_4755340966_fc7390571a_z_brian_jelonek.jpg"/>
 <p style="font-size: 8pt; font-style: italic;">Photo by <a href="https://www.flickr.com/photos/jelonekphotography/4755340966/">Brian Jelonek</a></p>
-<img alt="The Naperville Riverwalk is a pleasant place to walk" width="600" src="/InnerSourceCommons/assets/img/naperville_riverwalk_4754699889_719ac628ba_z_brian_jelonek.jpg"/>
+<img alt="The Naperville Riverwalk is a pleasant place to walk" width="600" src="/assets/img/naperville_riverwalk_4754699889_719ac628ba_z_brian_jelonek.jpg"/>
 <p style="font-size: 8pt; font-style: italic;">Photo by <a href="https://www.flickr.com/photos/jelonekphotography/4754699889/">Brian Jelonek</a></p>
-<img alt="The Riverwalk is near an iconic bell tower" width="600" src="/InnerSourceCommons/assets/img/naperville_riverwalk_4754409033_9389f267ca_z_brian_jelonek.jpg"/>
+<img alt="The Riverwalk is near an iconic bell tower" width="600" src="/assets/img/naperville_riverwalk_4754409033_9389f267ca_z_brian_jelonek.jpg"/>
 <p style="font-size: 8pt; font-style: italic;">Photo by <a href="https://www.flickr.com/photos/jelonekphotography/4754409033/">Brian Jelonek</a></p>
 
 Only a 40 minute drive to the east, Chicago has [many worthwhile attractions](http://www.planetware.com/tourist-attractions-/chicago-us-il-chi.htm) for those who are looking for something to do outside of the Fall Summit.
 
 There are [many good restaurants in the Naperville area](https://www.tripadvisor.com/Restaurants-g36422-zfp16-Naperville_Illinois.html). See [this list of restaurants](https://docs.google.com/document/d/170wNcDTrsMCvsaW9j6PU_av33GjYUe-sN-4LfxdWmzw/edit).
 
-### [Code of Conduct](/InnerSourceCommons/events/conduct/)
+### [Code of Conduct](/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/InnerSourceCommons/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
 
 InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 

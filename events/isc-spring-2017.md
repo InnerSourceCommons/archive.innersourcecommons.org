@@ -20,9 +20,9 @@ Registration is already open! Please use the [EBU registration process](https://
 A first version of the [schedule](https://tech.ebu.ch/files/live/sites/tech/files/shared/events/innersource17/isc_programme_v1_0.docx.pdf) is available.
 
 
-### [Code of Conduct](/InnerSourceCommons/events/conduct/)
+### [Code of Conduct](/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/InnerSourceCommons/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
 
 
 InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.

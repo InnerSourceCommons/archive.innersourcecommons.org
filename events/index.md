@@ -32,4 +32,4 @@ title: 'Upcoming InnerSource Events'
     - InnerSource Commons Summit 1 - London, England, April 21-22 2016
 
 ## Help us inform the ISC members!
-Know of additional InnerSource events? Send us a [pull request](https://github.com/paypal/InnerSourceCommons/pulls) or open an [issue](https://github.com/paypal/InnerSourceCommons/issues).
+Know of additional InnerSource events? Send us a [pull request](https://github.com/InnerSourceCommons/innersourcecommons.org/pulls) or open an [issue](https://github.com/InnerSourceCommons/innersourcecommons.org/issues).
