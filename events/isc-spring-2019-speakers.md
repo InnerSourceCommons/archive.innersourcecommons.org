@@ -195,7 +195,7 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
   <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Kevin Newman" width="200" src="/assets/img/Picture Pending.png"/>
+       <img alt="Kevin Newman" width="200" src="/assets/img/kevin_newman.jpg"/>
     </div>
     <b>Kevin Newman</b>
     <p>
@@ -249,7 +249,7 @@ Ben is partner and collaboration strategist at Age of Peers. With Age of Peers B
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-  <img alt="Johannes Tigges" width="200" src="/assets/img/Picture Pending.png"/>
+  <img alt="Johannes Tigges" width="200" src="/assets/img/portrait-tigges.jpg"/>
     </div>
     <b>Johannes Tigges</b>
     <p>
