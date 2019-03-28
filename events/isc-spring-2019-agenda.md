@@ -5,6 +5,7 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
 [[Return to the Spring Summit 2019 page](/events/isc-spring-2019/)]
 
 
+
 <table class="schedule">
     <tr>
         <td colspan="3">
@@ -189,7 +190,7 @@ One of the main questions that any company willing to try InnerSource is how thi
     </tr>
 
 
-   <tr>
+    <tr>
         <td class="time">11:30 - 12:00</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#olivier_liechti">Olivier Liechti</a> <span class="affiliation">(Avalia Systems)</span></td>
         <td class="title"> Agile transformation at Softplan: guiding teams with data-driven experiments
@@ -207,7 +208,7 @@ How do you bring a legacy Enterprise Resource Planning (ERP) to "The Cloud", wit
 
     <tr>
         <td class="time">13:05 - 14:30</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span>
+        <td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span></td>
         <td class="title"> Workshop: Dealing with common InnerSource Issues through Developer Portals
             <span onClick="toggleAbstract('van_tomme-1')" class="abstract-toggle">(<a id="van_tomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="van_tomme-1">
@@ -239,14 +240,14 @@ Over the last 10 years, Red Hat Consulting has offered services around open sour
             <span onClick="toggleAbstract('newman-1')" class="abstract-toggle">(<a id="newman-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="newman-1">
 An informal, but hopefully informative, presentation on the challenges of implementing InnerSource at a medium-sized, non-technical company. Harvard Business Publishing’s mission is to improve the practice of management in a changing world, and our areas of focus are in publishing and learning pedagogies. We thoughtfully recognize that while we are not a “technology” company, we treat software engineering as a core competency that can make or break our strategy. Adopting InnerSource was seen as a key component in our long term plans but fell far short of our expectations. We’d like to share our experience not as an any inherent indictment of InnerSource but as cautionary tale of intent and aspiration versus every day and unexciting, but very real, constraints. 
-        </div>
+            </div>
         </td>
     </tr>
 
     <tr>
         <td class="time">16:15 - 16:45</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro <br>
-            <a href="/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges
+        <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro</a><br/>
+            <a href="/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges</a>
         </td>
         <td class="title"> The Inner Source Learning Path
             <span onClick="toggleAbstract('campraro-1')" class="abstract-toggle">(<a id="campraro-1-link">Show Abstract</a>)</span>
@@ -266,6 +267,7 @@ Inner source is the application of open source methodologies to internally-devel
         <td colspan="2">Social Event</td>
     </tr>
 </table>    
+
 
 <table class="schedule">
     <tr>
@@ -324,7 +326,7 @@ Details appearing shortly
         <td colspan="2">Lunch</td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">13:00 - 13:45</td>    
         <td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span></td>
         <td class="title">7 cultural insights to help you reinvent your organization            
@@ -335,7 +337,7 @@ Culture is hard to describe, and even harder to emulate. So how do you even star
         </td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">13:50 - 14:30</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#danese_cooper">Danese Cooper</a></td>
         <td class="title">Governance Meeting
