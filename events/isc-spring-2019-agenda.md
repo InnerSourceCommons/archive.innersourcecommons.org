@@ -132,7 +132,7 @@ When Elbit Systems launched its InnerSource program, it decided to drive cultura
 
     <tr>
         <td class="time">16:35 - 17:05</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation">(Daimler)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation"> (Daimler)</span></td>
         <td class="title">Case Study: Daimler’s Path Towards Inner Source
             <span onClick="toggleAbstract('gehring-1')" class="abstract-toggle">(<a id="gehring-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gehring-1">
@@ -245,9 +245,9 @@ An informal, but hopefully informative, presentation on the challenges of implem
 
     <tr>
         <td class="time">16:15 - 16:45</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro</span></a><span class="affiliation"> (Friedrich-Alexander-University)</span>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro</a><span class="affiliation"> (Friedrich-Alexander-University)</span>
            <br>
-            <a href="/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges</span></a><span class="affiliation"> (HERE Technologies)</span></td>   
+            <a href="/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges</a><span class="affiliation"> (HERE Technologies)</span></td>   
      <td class="title"> The Inner Source Learning Path
             <span onClick="toggleAbstract('campraro-1')" class="abstract-toggle">(<a id="campraro-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="campraro-1">
