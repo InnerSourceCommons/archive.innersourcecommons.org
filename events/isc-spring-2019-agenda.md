@@ -43,7 +43,7 @@ Details appearing shortly
   <tr>
         <td class="time">11:00 - 11:30</td>
         <td class="author">
-<a href="/events/isc-spring-2019-speakers#georg_gruetter">Georg Gruetter</a> <span class="affiliation">(Robert Bosch)</span></td>
+<a href="/events/isc-spring-2019-speakers#georg_gruetter">Georg Gruetter</a> <span class="affiliation"> (Robert Bosch)</span></td>
 
 <td class="title">A Decade of InnerSource at Bosch
 <span onClick="toggleAbstract('gruetter-1')" class="abstract-toggle">(<a id="gruetter-1-link">Show Abstract</a>)</span>
@@ -131,7 +131,7 @@ When Elbit Systems launched its InnerSource program, it decided to drive cultura
 <tr >
         <td class="time">16:35 - 17:05</td>
 
-   <td class="author"><a href="/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation">(Daimler)</span></td>
+   <td class="author"><a href="/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation"> (Daimler)</span></td>
         <td class="title">Case Study: Daimler’s Path Towards Inner Source
             <span onClick="toggleAbstract('gehring-1')" class="abstract-toggle">(<a id="gehring-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gehring-1">
@@ -146,8 +146,7 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
 
    <td colspan="2">Closing (Dr. Lorraine Morgan)</td>
     </tr>
-    </table>
-
+ </table>
 
 
 <table class="schedule">
@@ -183,7 +182,7 @@ Details appearing shortly
 
  <tr>
         <td class="time">10:55 - 11:25</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation"> (Bitergia)</span></td>
 <td class="title"> Thoughts on adopting InnerSource and/or Agile
             <span onClick="toggleAbstract('cortázar-1')" class="abstract-toggle">(<a id="cortázar-1-link">Show Abstract</a>)</span>
 <div style="display:none" class="abstract" id="cortázar-1">
@@ -195,7 +194,7 @@ One of the main questions that any company willing to try InnerSource is how thi
 
    <tr >
         <td class="time">11:30 - 12:00</td>
-<td class="author"><a href="/events/isc-spring-2019-speakers#olivier_liechti">Olivier Liechti</a> <span class="affiliation">(Avalia Systems)</span></td>
+<td class="author"><a href="/events/isc-spring-2019-speakers#olivier_liechti">Olivier Liechti</a> <span class="affiliation"> (Avalia Systems)</span></td>
         <td class="title"> Agile transformation at Softplan: guiding teams with data-driven experiments
             <span onClick="toggleAbstract('liechti-1')" class="abstract-toggle">(<a id="liechti-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="liechti-1">
@@ -226,7 +225,7 @@ During the last InnerSource Commons and Patterns sessions, there have been a set
 
 <tr >
         <td class="time">15:05 - 15:35</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#malcolm_herbert">Malcolm Herbert</a> <span class="affiliation">(Red Hat)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#malcolm_herbert">Malcolm Herbert</a> <span class="affiliation"> (Red Hat)</span></td>
         <td class="title"> Why Inner Source when you can Open Source
             <span onClick="toggleAbstract('herbert-1')" class="abstract-toggle">(<a id="herbert-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="herbert-1">
@@ -237,8 +236,7 @@ Over the last 10 years, Red Hat Consulting has offered services around open sour
 
 <tr >
         <td class="time">15:40 - 16:10</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#kevin_newman">Kevin Newman 
-</a></span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#kevin_newman">Kevin Newman</a><span class="affiliation"> (Harvard Business Review)</span></td>
         <td class="title"> How to fail implementing InnerSource
             <span onClick="toggleAbstract('newman-1')" class="abstract-toggle">(<a id="newman-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="newman-1">
@@ -252,10 +250,10 @@ An informal, but hopefully informative, presentation on the challenges of implem
 
 <tr >
         <td class="time">16:15 - 16:45</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro <br>
-            <a href="/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges
-</span></td>
-        <td class="title"> The Inner Source Learning Path
+        <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro</span></a><span class="affiliation"> (Friedrich-Alexander-University)</span>
+           <br>
+            <a href="/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges</span></a><span class="affiliation"> (HERE Technologies)</span></td>   
+     <td class="title"> The Inner Source Learning Path
             <span onClick="toggleAbstract('campraro-1')" class="abstract-toggle">(<a id="campraro-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="campraro-1">
 Inner source is the application of open source methodologies to internally-developed software. While simple to define, inner source can be difficult to explain and implement successfully. Many engineers lack background in open source and the ideas and mechanics of open code development. Even those with that background face a new set of constraints and motivations when trying to work openly within the enterprise. The Inner Source Learning path gives a simple, easy to understand introduction to inner source. It introduces key terms, concepts, and principles for effective inner sourcing along with explanations and real examples. It is intended to bring newcomers up to speed as well as provide those with experience a common vocabulary to use when discussing more advanced concepts. The Inner Source Learning path will be freely hosted by O'Reilly Media at https://www.safaribooksonline.com/learning-paths for your use and sharing. In this session we'll review the content of the learning path and how you can use and share it.
@@ -293,7 +291,7 @@ Inner source is the application of open source methodologies to internally-devel
  
 <tr >
         <td class="time">09:15 - 10:15</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#brian_fitzgerald">Brian Fitzgerald</a> <span class="affiliation">(Director of Lero, University of Limerick)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#brian_fitzgerald">Brian Fitzgerald</a> <span class="affiliation"> (Director of Lero, University of Limerick)</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Crowdsourcing Software Development: Silver Bullet or Lead Balloon
             <span onClick="toggleAbstract('fitzgerald-1')" class="abstract-toggle">(<a id="fitzgerald-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="fitzgerald-1">
@@ -311,7 +309,7 @@ Crowdsourcing is emerging as an alternative outsourcing strategy which is gainin
         <td class="time">10:50 - 11:20</td>
 
         <td class="author">
-<a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
+<a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation"> (Bitergia)</span></td>
 <td class="title">Metrics and KPIs for an InnerSource Office 
      <span onClick="toggleAbstract('cortázar-2')" class="abstract-toggle">(<a id="cortázar-2-link">Show Abstract</a>)</span>
 <div style="display:none" class="abstract" id="cortázar-2">
@@ -322,7 +320,7 @@ Metrics are an important part of the InnerSource journey. The InnerSource Common
     </tr>
 <tr >
         <td class="time">11:25 - 11:55</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#tobie_langel">Tobie Langel</a> <span class="affiliation">(UnlockOpen)</span></td>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#tobie_langel">Tobie Langel</a> <span class="affiliation"> (UnlockOpen)</span></td>
         <td class="title">Making the Business Case for Contributing to Open Source
             <span onClick="toggleAbstract(‘langel-1')" class="abstract-toggle">(<a id="langel-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="orenbach-1">
@@ -338,7 +336,7 @@ Details appearing shortly
 
    <tr >
         <td class="time">13:00 - 13:45</td>    
-<td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span>
+<td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme </a><span class="affiliation"> (Provonix)</span>
 <td class="title">7 cultural insights to help you reinvent your organization            
 <span onClick="toggleAbstract('VanTomme-1')" class="abstract-toggle">(<a id="VanTomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="VanTomme-2">
