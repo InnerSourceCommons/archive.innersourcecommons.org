@@ -263,8 +263,7 @@ Inner source is the application of open source methodologies to internally-devel
 
  <tr>
         <td class="time">19:00</td>
-        <td colspan="2">Social Event</td>
-        <td> Event held at the <a href="https://www.harbour.ie">Harbour Hotel</a> with entertainment by <a href="https://carmeldempsey.com/">Carmel Dempsey </a>
+        <td colspan="2">Social Event held at the <a href="https://www.harbour.ie">Harbour Hotel</a> with entertainment by <a href="https://carmeldempsey.com/">Carmel Dempsey </a>
      
 </td>
         
