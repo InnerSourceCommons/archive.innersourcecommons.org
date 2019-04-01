@@ -28,7 +28,7 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
             </span><br/>
         <a href="/events/isc-spring-2019-speakers#eoin_conneely">Eoin Conneelly</a><span class="affiliation"> (Ericsson)</span></td>
 
-        <td class="title">
+   <td class="title">
             <span class="keynoteTag">Keynote:</span>
             <span onClick="toggleAbstract('keynote-landy')" class="abstract-toggle">(<a id="keynote-landy-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="keynote-landy">
@@ -37,17 +37,17 @@ Details appearing shortly
         </td>
     </tr>
   
-    <tr>
+  <tr>
         <td class="time">10:25 - 10:55</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">11:00 - 11:30</td>
         <td class="author">
             <a href="/events/isc-spring-2019-speakers#georg_gruetter">Georg Gruetter</a> <span class="affiliation">(Robert Bosch)</span></td>
 
-        <td class="title">A Decade of InnerSource at Bosch
+   <td class="title">A Decade of InnerSource at Bosch
             <span onClick="toggleAbstract('gruetter-1')" class="abstract-toggle">(<a id="gruetter-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gruetter-1">
 I will share the story of InnerSource at Bosch, which started about a decade ago. In my talk, I will share interesting details about the beginnings and the evolution of InnerSource at Bosch as well as many lessons that we learned along the way.
@@ -55,7 +55,7 @@ I will share the story of InnerSource at Bosch, which started about a decade ago
         </td>
     </tr>
     
-    <tr>
+ <tr>
         <td class="time">11:35 - 12:05</td>
         <td><a href="/events/isc-spring-2019-speakers#thomas_froment">Thomas Froment</a> <span class="affiliation"> (Thales)</span></td>
         <td class="title">How we implement Inner Source community in Thales?
@@ -66,7 +66,7 @@ Thales Inner Source Software (TISS) Community is born from the Thales Digital Tr
         </td>
     </tr>
 
-    <tr>
+  <tr>
         <td class="time">12:10 - 12:40</td>
         <td><a href="/events/isc-spring-2019-speakers">Ben van 't Ende</a> <span class="affiliation"> (Age of Peers)</span></td>
         <td class="title">Detox your Inner Source
@@ -77,16 +77,16 @@ Collaborative practices are adopted naturally by participants in today’s open 
         </td>
     </tr>
 
-    <tr>
+  <tr>
         <td class="time">12:45 - 13:45</td>
         <td colspan="2">Lunch</td>
     </tr>
 
-    <tr>
+  <tr>
         <td class="time">13:50 - 14:50</td>
         <td><a href="/events/isc-spring-2019-speakers#katrina_novakovic">Katrina Novakovic</a> <span class="affiliation"> (Redhat)</span></td>
 
-        <td class="title">Workshop: Most organisations are Better than they Think 
+   <td class="title">Workshop: Most organisations are Better than they Think 
             <span onClick="toggleAbstract('novakovic-1')" class="abstract-toggle">(<a id="novakovic-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="novakovic-1">
 Red Hat, the world's leading provider of Open Source Enterprise solutions, has open sourced an assessment tool, called Open Source Maturity Assessment (OSMA), to allow organisations to understand their current maturity regarding their knowledge, adoption and ability to effectively utilize Open Source / Inner Source technologies within their organisation. The assessment poses a number of questions with multiple choice answers around the following key areas: Business Goals, General Knowledge of Open Source, Development Standards and Tools, Upstream Community Participation, Governance & Legal Policies and Senior Management Support. The results of the assessment are used as a starting point to give an organisation a better understanding of their business goals regarding Open Source / Inner Source software and methodologies, the focus areas to address (under the areas of consume, contribute, create and strategy/governance) and recommended next steps. During this workshop, we will: 
@@ -101,10 +101,10 @@ Red Hat, the world's leading provider of Open Source Enterprise solutions, has o
     </tr>
 
 
-    <tr>
+ <tr>
        <td class="time">14:55 - 15:25</td>
 
-    <td class="author"><a href="/events/isc-spring-2019-speakers#hong_dang">Hong Phuc Dang</a><span class="affiliation"> (Zalando)</span></td>
+  <td class="author"><a href="/events/isc-spring-2019-speakers#hong_dang">Hong Phuc Dang</a><span class="affiliation"> (Zalando)</span></td>
     <td class="title">Open Source within the walls: The Case of a German fashion Platform
         <span onClick="toggleAbstract('dong-1')" class="abstract-toggle">(<a id="dong-1-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="dong-1">
@@ -113,13 +113,13 @@ This presentation covers InnerSource Discovery Phase at Zalando and best practic
         </td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">15:30 - 15:55</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
 
-    <tr>
+   <tr>
         <td class="time">16:00 - 16:30</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#shelly_nezri">Shelly Nezri</a> <span class="affiliation"> (Elbit Systems Ltd.)</span></td>
         <td class="title">Gamification as a means of cultural change and an InnerSource engagement booster
@@ -130,7 +130,7 @@ When Elbit Systems launched its InnerSource program, it decided to drive cultura
         </td> 
     </tr>
 
-    <tr>
+  <tr>
         <td class="time">16:35 - 17:05</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation"> (Daimler)</span></td>
         <td class="title">Case Study: Daimler’s Path Towards Inner Source
@@ -141,7 +141,7 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
         </td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">17:10 - 17:20</td>
         <td colspan="2">Closing (Dr. Lorraine Morgan)</td>
     </tr>
@@ -161,7 +161,7 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
     </tr>
 
 
-    <tr>
+   <tr>
         <td class="time">09:15 - 10:15</td>
         <td class="author"><span class="affiliation">TBC</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> TBC
@@ -172,12 +172,12 @@ Details appearing shortly
         </td>
     </tr>
    
-    <tr>
+   <tr>
         <td class="time">10:20 - 10:50</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">10:55 - 11:25</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
         <td class="title"> Thoughts on adopting InnerSource and/or Agile
@@ -189,7 +189,7 @@ One of the main questions that any company willing to try InnerSource is how thi
     </tr>
 
 
-    <tr>
+   <tr>
         <td class="time">11:30 - 12:00</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#olivier_liechti">Olivier Liechti</a> <span class="affiliation">(Avalia Systems)</span></td>
         <td class="title"> Agile transformation at Softplan: guiding teams with data-driven experiments
@@ -200,12 +200,12 @@ How do you bring a legacy Enterprise Resource Planning (ERP) to "The Cloud", wit
         </td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">12:05 - 13:00</td>
         <td colspan="2">Lunch</td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">13:05 - 14:30</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span></td>
         <td class="title"> Workshop: Dealing with common InnerSource Issues through Developer Portals
@@ -216,12 +216,12 @@ During the last InnerSource Commons and Patterns sessions, there have been a set
         </td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">14:35 - 15:00</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">15:05 - 15:35</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#malcolm_herbert">Malcolm Herbert</a> <span class="affiliation"> (Red Hat)</span></td>
         <td class="title"> Why Inner Source when you can Open Source
@@ -232,7 +232,7 @@ Over the last 10 years, Red Hat Consulting has offered services around open sour
         </td> 
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">15:40 - 16:10</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#kevin_newman">Kevin Newman</a><span class="affiliation"> (Harvard Business Review)</span></td>
         <td class="title"> How to fail implementing InnerSource
@@ -243,7 +243,7 @@ An informal, but hopefully informative, presentation on the challenges of implem
         </td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">16:15 - 16:45</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro</a><span class="affiliation"> (Friedrich-Alexander-University)</span>
            <br>
@@ -263,8 +263,7 @@ Inner source is the application of open source methodologies to internally-devel
 
  <tr>
         <td class="time">19:00</td>
-        <td colspan="2">Social Event</td>
-        <td> Event held at the <a href="https://www.harbour.ie">Harbour Hotel</a> with entertainment by <a href="https://carmeldempsey.com/">Carmel Dempsey </a>
+        <td colspan="2">Social Event held at the <a href="https://www.harbour.ie">Harbour Hotel</a> with entertainment by <a href="https://carmeldempsey.com/">Carmel Dempsey </a>
      
 </td>
         
@@ -285,7 +284,7 @@ Inner source is the application of open source methodologies to internally-devel
         </td>
     </tr>
   
-    <tr>
+   <tr>
         <td class="time">09:15 - 10:15</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#brian_fitzgerald">Brian Fitzgerald</a> <span class="affiliation"> (Director of Lero, University of Limerick)</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Crowdsourcing Software Development: Silver Bullet or Lead Balloon
@@ -296,12 +295,12 @@ Crowdsourcing is emerging as an alternative outsourcing strategy which is gainin
         </td>
     </tr>
     
-    <tr>
+   <tr>
         <td class="time">10:20 - 10:45</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">10:50 - 11:20</td>
         <td class="author">
             <a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
@@ -313,7 +312,7 @@ Metrics are an important part of the InnerSource journey. The InnerSource Common
         </td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">11:25 - 11:55</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#tobie_langel">Tobie Langel</a> <span class="affiliation"> (UnlockOpen)</span></td>
         <td class="title">Making the Business Case for Contributing to Open Source
@@ -324,12 +323,12 @@ Details appearing shortly
         </td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">12:00 - 12:55</td>
         <td colspan="2">Lunch</td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">13:00 - 13:45</td>    
         <td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span></td>
         <td class="title">7 cultural insights to help you reinvent your organization            
@@ -340,7 +339,7 @@ Culture is hard to describe, and even harder to emulate. So how do you even star
         </td>
     </tr>
 
-    <tr>
+   <tr>
         <td class="time">13:50 - 14:30</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#danese_cooper">Danese Cooper</a></td>
         <td class="title">Governance Meeting
@@ -350,7 +349,7 @@ Culture is hard to describe, and even harder to emulate. So how do you even star
         </td>
     </tr>
     
-    <tr>
+   <tr>
         <td class="time">14:35 - 14:45</td>
         <td colspan="2">Closing (Dr. Lorraine Morgan)</td>
     </tr>
