@@ -61,9 +61,9 @@ Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a
 <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-    <img alt="Hong Dang" width="200" src="/assets/img/Hong_Dang.png"/>
+    <img alt="Hong Phuc Dang" width="200" src="/assets/img/Hong_Dang.png"/>
     </div>
-    <b>Hong Dang</b>
+    <b>Hong Phuc Dang</b>
     <p>
 Hong Phuc Dang is currently the InnerSource driver at Zalando where she acts as a consultant to engineering teams across departments to scale open culture and promote best practices of Open Source development within the company. Previous to this role, she co-founded FOSSASIA, one of largest open source organizations in Asia. She has more than 10 years of experience in leading open source community and managing various projects spanning hardware, software and international tech events and exhibitions. She is known for applying open source best practices to meet business goals.
   </p>
@@ -195,7 +195,7 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
   <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Kevin Newman" width="200" src="/assets/img/Picture Pending.png"/>
+       <img alt="Kevin Newman" width="200" src="/assets/img/kevin_newman.jpg"/>
     </div>
     <b>Kevin Newman</b>
     <p>
@@ -249,7 +249,7 @@ Ben is partner and collaboration strategist at Age of Peers. With Age of Peers B
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-  <img alt="Johannes Tigges" width="200" src="/assets/img/Picture Pending.png"/>
+  <img alt="Johannes Tigges" width="200" src="/assets/img/portrait-tigges.jpg"/>
     </div>
     <b>Johannes Tigges</b>
     <p>
