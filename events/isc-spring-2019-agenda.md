@@ -5,12 +5,19 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
 [[Return to the Spring Summit 2019 page](/events/isc-spring-2019/)]
 
 
-
 <table class="schedule">
     <tr>
         <td colspan="3">
         <h3>Tuesday, April 9th</h3>
         </td>
+    </tr>
+   <tr>
+        <td class="time">07:50 - 08:50</td>
+          <td colspan="3">
+   <b> Yoga Session (Room CA242) </b><p>
+         Come refresh your body, mind, and spirit before you head into the day’s sessions.<p>
+              <i>'Discover Your Inner Source'</i> - This yoga session will be an easy beginner’s yoga session. Don’t be shy about joining even if this will be your first yoga experience. </p>
+    </td>
     </tr>
     <tr>
         <td class="time">09:00 - 09:15</td>
