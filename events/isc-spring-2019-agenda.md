@@ -12,14 +12,6 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
         </td>
     </tr>
    <tr>
-        <td class="time">07:50 - 08:50</td>
-          <td colspan="3">
-   <b> Yoga Session (Room CA242) </b><p>
-         Come refresh your body, mind, and spirit before you head into the day’s sessions.<p>
-              <i>'Discover Your Inner Source'</i> - This yoga session will be an easy beginner’s yoga session. Don’t be shy about joining even if this will be your first yoga experience. </p>
-    </td>
-    </tr>
-    <tr>
         <td class="time">09:00 - 09:15</td>
         <td colspan="3">
             Opening: Dr. Lorraine Morgan
@@ -160,6 +152,14 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
         <h3>Wednesday, April 10th</h3>
         </td>
     </tr>
+    <tr>
+        <td class="time">07:50 - 08:50</td>
+     <td colspan="3">
+ <b> Yoga Session (Room CA242) </b><p>
+         Come refresh your body, mind, and spirit before you head into the day’s sessions.<p>
+              <i>'Discover Your Inner Source'</i> - This yoga session will be an easy beginner’s yoga session. Don’t be shy about joining even if this will be your first yoga experience. </p>
+  </td>
+   </tr>
     <tr>
         <td class="time">09:00 - 09:10</td>
         <td colspan="2" >
