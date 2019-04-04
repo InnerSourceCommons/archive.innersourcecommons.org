@@ -167,13 +167,13 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
         </td>
     </tr>
 
-
    <tr>
         <td class="time">09:15 - 10:15</td>
-      <td class="author">Brent Beer <span class="affiliation"> (GitHub) </span></td>
-             <td class="title"><span class="keynoteTag">Keynote:</span> The Future of Inner Source Software Development
+      <td class="author"><a href="/events/isc-spring-2019-speakers#brent_beer">Brent Beer</a> <span class="affiliation"> (GitHub)</span></td>
+       <td class="title"><span class="keynoteTag">Keynote:</span> The Future of Inner Source Software Development
             <span onClick="toggleAbstract('beer-1')" class="abstract-toggle">(<a id="beer-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="beer-1">
+            
 GitHub is the platform on which most Open Source Software is written; generating massive amounts of value by connecting developers across the globe to work on some of the most ambitious problems. Understandably, businesses wanted to join that network and reproduce it within their own organizations as InnerSource. These same businesses are now struggling to find workflows that that are flexible enough to evolve with their corporations and the ever-changing way that Open Source is developed. GitHub has a vision of helping Enterprises implement InnerSource practices by investing and building upon their networks while keeping customer data and business practices secure.
  
 Join Brent Beer while he shares some of GitHub's recent successes and plans for the future.
