@@ -4,6 +4,17 @@ title: 'InnerSource Commons Spring Summit 2019 Speakers'
 ---
 [[Return to the Spring Summit 2019 page](/events/isc-spring-2019/)]
 
+<a name="brent_beer">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+      <img alt="Brent Beer" width="200" src="/assets/img/brent_beer.jpg"/>
+    </div>
+    <b>Brent Beer</b>
+    <p>
+        Brent Beer is a Senior Solutions Engineer with GitHub. More details uploaded shortly.</p>
+</div>
+
 <a name="max_campraro">&nbsp;</a>
 <hr/>
 <div style="width:100%">
