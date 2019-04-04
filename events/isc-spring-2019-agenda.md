@@ -4,7 +4,6 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
 ---
 [[Return to the Spring Summit 2019 page](/events/isc-spring-2019/)]
 
-
 <table class="schedule">
     <tr>
         <td colspan="3">
@@ -144,7 +143,7 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
         <td class="time">17:10 - 17:20</td>
         <td colspan="2">Closing (Dr. Lorraine Morgan)</td>
     </tr>
-</table>
+        </table>
 
 <table class="schedule">
     <tr>
@@ -158,9 +157,9 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
  <b> Yoga Session (Room CA242) </b><p>
          Come refresh your body, mind, and spirit before you head into the day’s sessions.<p>
               <i>'Discover Your Inner Source'</i> - This yoga session will be an easy beginner’s yoga session. Don’t be shy about joining even if this will be your first yoga experience. </p>
-  </td>
-   </tr>
-    <tr>
+        </td>
+        </tr>
+         <tr>
         <td class="time">09:00 - 09:10</td>
         <td colspan="2" >
             Opening (Dr. Lorraine Morgan)
@@ -170,7 +169,7 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
 
    <tr>
         <td class="time">09:15 - 10:15</td>
-      <td class="author">Brent Beer <span class="affiliation"> (GitHub) </span></td>
+       <td class="author"><a href="/events/isc-spring-2019-speakers#brent_beer">Brent Beer</a><span class="affiliation"> (GitHub) </span></td>
              <td class="title"><span class="keynoteTag">Keynote:</span> The Future of Inner Source Software Development
             <span onClick="toggleAbstract('beer-1')" class="abstract-toggle">(<a id="beer-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="beer-1">
