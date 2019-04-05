@@ -4,15 +4,13 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
 ---
 [[Return to the Spring Summit 2019 page](/events/isc-spring-2019/)]
 
-
-
 <table class="schedule">
     <tr>
         <td colspan="3">
         <h3>Tuesday, April 9th</h3>
         </td>
     </tr>
-    <tr>
+   <tr>
         <td class="time">09:00 - 09:15</td>
         <td colspan="3">
             Opening: Dr. Lorraine Morgan
@@ -132,11 +130,11 @@ When Elbit Systems launched its InnerSource program, it decided to drive cultura
 
   <tr>
         <td class="time">16:35 - 17:05</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation"> (Daimler)</span></td>
-        <td class="title">Case Study: Daimler’s Path Towards Inner Source
+        <td class="author"><a href="/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation"> (Daimler TSS)</span></td>
+        <td class="title">Case Study: Daimler TSS’s Path Towards Inner Source
             <span onClick="toggleAbstract('gehring-1')" class="abstract-toggle">(<a id="gehring-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gehring-1">
-So you have decided that Inner Source is the way to go for your enterprise. Good for you! The rest is just a piece of cake. You only need to explain to your employees what this is all about. Oh yeah, and talk to the people from corporate tax, should be no problem, you know a guy there. Then get the legal department to answer some simple questions, and off you go! Ok, tooling is an issue, too. And governance... Alright, so you haven’t thought about all the minor details, but you just get everybody’s attention and spread the word. Easy! Right?!? Well, let me talk a little bit about our journey at Daimler. We haven’t solved everything yet, but we’re on a good path, and maybe our experience can help you a bit, too. 
+So you have decided that Inner Source is the way to go for your enterprise. Good for you! The rest is just a piece of cake. You only need to explain to your employees what this is all about. Oh yeah, and talk to the people from corporate tax, should be no problem, you know a guy there. Then get the legal department to answer some simple questions, and off you go! Ok, tooling is an issue, too. And governance... Alright, so you haven’t thought about all the minor details, but you just get everybody’s attention and spread the word. Easy! Right?!? Well, let me talk a little bit about our journey at Daimler TSS. We haven’t solved everything yet, but we’re on a good path, and maybe our experience can help you a bit, too.
             </div>
         </td>
     </tr>
@@ -145,7 +143,7 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
         <td class="time">17:10 - 17:20</td>
         <td colspan="2">Closing (Dr. Lorraine Morgan)</td>
     </tr>
-</table>
+        </table>
 
 <table class="schedule">
     <tr>
@@ -154,6 +152,14 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
         </td>
     </tr>
     <tr>
+        <td class="time">07:50 - 08:50</td>
+     <td colspan="3">
+ <b> Yoga Session (Room CA242) </b><p>
+         Come refresh your body, mind, and spirit before you head into the day’s sessions.<p>
+              <i>'Discover Your Inner Source'</i> - This yoga session will be an easy beginner’s yoga session. Don’t be shy about joining even if this will be your first yoga experience. </p>
+        </td>
+        </tr>
+         <tr>
         <td class="time">09:00 - 09:10</td>
         <td colspan="2" >
             Opening (Dr. Lorraine Morgan)
@@ -163,7 +169,7 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
 
    <tr>
         <td class="time">09:15 - 10:15</td>
-      <td class="author">Brent Beer</a> <span class="affiliation"> (GitHub) </span></td>
+       <td class="author"><a href="/events/isc-spring-2019-speakers#brent_beer">Brent Beer</a><span class="affiliation"> (GitHub) </span></td>
              <td class="title"><span class="keynoteTag">Keynote:</span> The Future of Inner Source Software Development
             <span onClick="toggleAbstract('beer-1')" class="abstract-toggle">(<a id="beer-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="beer-1">
@@ -182,8 +188,9 @@ Join Brent Beer while he shares some of GitHub's recent successes and plans for 
 
    <tr>
         <td class="time">10:55 - 11:25</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
-        <td class="title"> Thoughts on adopting InnerSource and/or Agile
+        <td class="author"><a href="/events/isc-spring-2019-speakers#jorge_herrera"> Jorge Herrera</a> <span class="affiliation"> (Entelgy)</span> <br>
+        <a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
+                 <td class="title"> Thoughts on adopting InnerSource and/or Agile
             <span onClick="toggleAbstract('cortázar-1')" class="abstract-toggle">(<a id="cortázar-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="cortázar-1">
 One of the main questions that any company willing to try InnerSource is how this can be integrated with their current way of developing. Even more, some of them have recently started with Agile and this may be seen as ‘yet another software development approach’. Agile and InnerSource are defined in both cases and [e.g.: in the Wikipedia] as software development practices. However it seems that it is still not clear how each of them can complement the other. This talk aims at bringing on the table some thoughts on how Agile is being used by some large corporations, and how InnerSource is being applied by some others. We do not aim at stating facts, but at opening a fruitful discussion with the audience with the goal of bringing more uses cases and sharing experiences among the attendees.            
