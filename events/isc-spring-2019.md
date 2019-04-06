@@ -100,3 +100,9 @@ All participants, vendors, and guests at InnerSource Commons events are required
 InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 
 Interested in getting involved? Email <summit@innersourcecommons.org> or join the conversation on the [#innersourcecommons](https://isc-inviter.herokuapp.com/) slack channel!
+
+ <h3>Sponsors</h3> <p>
+    <div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+      <img alt="NearForm" width="200" src="/assets/img/NF_Shared_Brand_Assets_logo-with-tagline-positive.png"/>
+    </div>
