@@ -364,3 +364,9 @@ Culture is hard to describe, and even harder to emulate. So how do you even star
         <td colspan="2">Closing (Dr. Lorraine Morgan)</td>
     </tr>
 </table>
+  
+ <h3>Sponsors</h3> <p>
+    <div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+      <img alt="NearForm" width="200" src="/assets/img/NF_Shared_Brand_Assets_logo-with-tagline-positive.png"/>
+    </div>
