@@ -282,3 +282,9 @@ Kristof Van Tomme is an open source strategist and architect. He is the CEO and 
   </p>
 </div>
 <div style="clear:both;"></div>
+  
+ <h3>Sponsors</h3> <p>
+    <div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+      <img alt="NearForm" width="200" src="/assets/img/NF_Shared_Brand_Assets_logo-with-tagline-positive.png"/>
+    </div>
