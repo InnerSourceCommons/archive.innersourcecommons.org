@@ -93,6 +93,18 @@ Other Hotels & Hostels in Galway City:
 * [Snoozles Hostel Galway](https://www.snoozleshostelgalway.ie/) 
 * [The Nest Boutique Hostel](http://www.thenestaccommodation.com/) 
 
+
+### Restaurants
+Below is a list of some recommended restaurants around Galway city:
+* John Keoghs Bar & Restaurant, 22 Dominick Street – +353 91 449431
+* Dela Restaurant, 51 Lower Dominick Street – +353 91 449252
+* Kai, 22 Sea Road – 091 526003
+* Kirby’s of Galway, Cross Street – +353 91 569404
+* The Seafood Bar @ Kirwan’s, Kirwan’s Lane – +353 91 568266
+* Martine’s Restaurant, Quay Street – +353 91 565662
+* Deli La Tasca, 1 Dominick Street Upper – +353 85 1082115
+* Oscars Seafood Bistro, Dominick Street Lower – +353 91 582180
+
 ### [Code of Conduct](/events/conduct/)
 
 All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
