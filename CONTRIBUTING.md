@@ -46,7 +46,7 @@ Travis CI has been configured - so your change will be built and tested when you
 
 * `sudo apt install ruby ruby-bundler ruby-dev libxml2-dev libxslt-dev`
 * `bundle install --path vendor/build`
-* `vendor/build/ruby/2.5.0/bin/jekyll build -d _site`
+* `bundle exec jekyll build -d ./_site`
 
 ## Merge guidelines:
 
