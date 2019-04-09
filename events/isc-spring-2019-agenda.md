@@ -5,6 +5,7 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
 [[Return to the Spring Summit 2019 page](/events/isc-spring-2019/)]
 
 <table class="schedule">
+
     <tr>
         <td colspan="3">
         <h3>Tuesday, April 9th</h3>
