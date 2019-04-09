@@ -10,23 +10,22 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
         <h3>Tuesday, April 9th</h3>
         </td>
     </tr>
-   <tr>
+
+    <tr>
         <td class="time">09:00 - 09:15</td>
         <td colspan="3">
             Opening: Dr. Lorraine Morgan
         </td>
     </tr>
 
-
-
-   <tr>
+    <tr>
         <td class="time">09:20 - 10:20</td>
         <td class="author">
             <a href="/events/isc-spring-2019-speakers#john_landy">John Landy</a><span class="affiliation"> (Ericsson)
             </span><br/>
         <a href="/events/isc-spring-2019-speakers#eoin_conneely">Eoin Conneelly</a><span class="affiliation"> (Ericsson)</span></td>
 
-   <td class="title">
+        <td class="title">
             <span class="keynoteTag">Keynote:</span>
             <span onClick="toggleAbstract('keynote-landy')" class="abstract-toggle">(<a id="keynote-landy-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="keynote-landy">
@@ -35,17 +34,17 @@ Details appearing shortly
         </td>
     </tr>
   
-  <tr>
+    <tr>
         <td class="time">10:25 - 10:55</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">11:00 - 11:30</td>
         <td class="author">
             <a href="/events/isc-spring-2019-speakers#georg_gruetter">Georg Gruetter</a> <span class="affiliation">(Robert Bosch)</span></td>
 
-   <td class="title">A Decade of InnerSource at Bosch
+        <td class="title">A Decade of InnerSource at Bosch
             <span onClick="toggleAbstract('gruetter-1')" class="abstract-toggle">(<a id="gruetter-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gruetter-1">
 I will share the story of InnerSource at Bosch, which started about a decade ago. In my talk, I will share interesting details about the beginnings and the evolution of InnerSource at Bosch as well as many lessons that we learned along the way.
@@ -53,7 +52,7 @@ I will share the story of InnerSource at Bosch, which started about a decade ago
         </td>
     </tr>
     
- <tr>
+    <tr>
         <td class="time">11:35 - 12:05</td>
         <td><a href="/events/isc-spring-2019-speakers#thomas_froment">Thomas Froment</a> <span class="affiliation"> (Thales)</span></td>
         <td class="title">How we implement Inner Source community in Thales?
@@ -64,7 +63,7 @@ Thales Inner Source Software (TISS) Community is born from the Thales Digital Tr
         </td>
     </tr>
 
-  <tr>
+    <tr>
         <td class="time">12:10 - 12:40</td>
         <td><a href="/events/isc-spring-2019-speakers">ben van 't ende</a> <span class="affiliation"> (Age of Peers)</span></td>
         <td class="title">Detox your Inner Source
@@ -75,16 +74,16 @@ Collaborative practices are adopted naturally by participants in today’s open 
         </td>
     </tr>
 
-  <tr>
+    <tr>
         <td class="time">12:45 - 13:45</td>
         <td colspan="2">Lunch</td>
     </tr>
 
-  <tr>
+    <tr>
         <td class="time">13:50 - 14:50</td>
         <td><a href="/events/isc-spring-2019-speakers#katrina_novakovic">Katrina Novakovic</a> <span class="affiliation"> (Redhat)</span></td>
 
-   <td class="title">Workshop: Most organisations are Better than they Think 
+        <td class="title">Workshop: Most organisations are Better than they Think 
             <span onClick="toggleAbstract('novakovic-1')" class="abstract-toggle">(<a id="novakovic-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="novakovic-1">
 Red Hat, the world's leading provider of Open Source Enterprise solutions, has open sourced an assessment tool, called Open Source Maturity Assessment (OSMA), to allow organisations to understand their current maturity regarding their knowledge, adoption and ability to effectively utilize Open Source / Inner Source technologies within their organisation. The assessment poses a number of questions with multiple choice answers around the following key areas: Business Goals, General Knowledge of Open Source, Development Standards and Tools, Upstream Community Participation, Governance & Legal Policies and Senior Management Support. The results of the assessment are used as a starting point to give an organisation a better understanding of their business goals regarding Open Source / Inner Source software and methodologies, the focus areas to address (under the areas of consume, contribute, create and strategy/governance) and recommended next steps. During this workshop, we will: 
@@ -98,12 +97,10 @@ Red Hat, the world's leading provider of Open Source Enterprise solutions, has o
         </td>
     </tr>
 
-
- <tr>
+    <tr>
        <td class="time">14:55 - 15:25</td>
-
-  <td class="author"><a href="/events/isc-spring-2019-speakers#hong_dang">Hong Phuc Dang</a><span class="affiliation"> (Zalando)</span></td>
-    <td class="title">Open Source within the walls: The Case of a German fashion Platform
+       <td class="author"><a href="/events/isc-spring-2019-speakers#hong_dang">Hong Phuc Dang</a><span class="affiliation"> (Zalando)</span></td>
+       <td class="title">Open Source within the walls: The Case of a German fashion Platform
         <span onClick="toggleAbstract('dong-1')" class="abstract-toggle">(<a id="dong-1-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="dong-1">
 This presentation covers InnerSource Discovery Phase at Zalando and best practices that are currently adopted throughout the company. 
@@ -111,13 +108,12 @@ This presentation covers InnerSource Discovery Phase at Zalando and best practic
         </td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">15:30 - 15:55</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
-
-   <tr>
+    <tr>
         <td class="time">16:00 - 16:30</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#shelly_nezri">Shelly Nezri</a> <span class="affiliation"> (Elbit Systems Ltd.)</span></td>
         <td class="title">Gamification as a means of cultural change and an InnerSource engagement booster
@@ -128,7 +124,7 @@ When Elbit Systems launched its InnerSource program, it decided to drive cultura
         </td> 
     </tr>
 
-  <tr>
+    <tr>
         <td class="time">16:35 - 17:05</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#wolfgang_gehring">Wolfgang Gehring</a><span class="affiliation"> (Daimler TSS)</span></td>
         <td class="title">Case Study: Daimler TSS’s Path Towards Inner Source
@@ -139,11 +135,11 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
         </td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">17:10 - 17:20</td>
         <td colspan="2">Closing (Dr. Lorraine Morgan)</td>
     </tr>
-        </table>
+</table>
 
 <table class="schedule">
     <tr>
@@ -151,26 +147,27 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
         <h3>Wednesday, April 10th</h3>
         </td>
     </tr>
+    
     <tr>
         <td class="time">07:50 - 08:50</td>
-     <td colspan="3">
- <b> Yoga Session (Room CA242) </b><p>
-         Come refresh your body, mind, and spirit before you head into the day’s sessions.<p>
-              <i>'Discover Your Inner Source'</i> - This yoga session will be an easy beginner’s yoga session. Don’t be shy about joining even if this will be your first yoga experience. </p>
+        <td colspan="3">
+ <b> Yoga Session (Room CA242) </b><br/>
+         Come refresh your body, mind, and spirit before you head into the day’s sessions.<br/>
+              <i>'Discover Your Inner Source'</i> - This yoga session will be an easy beginner’s yoga session. Don’t be shy about joining even if this will be your first yoga experience. <br/>
         </td>
-        </tr>
-         <tr>
+    </tr>
+    
+    <tr>
         <td class="time">09:00 - 09:10</td>
         <td colspan="2" >
             Opening (Dr. Lorraine Morgan)
         </td>
     </tr>
 
-
-   <tr>
+    <tr>
         <td class="time">09:15 - 10:15</td>
-       <td class="author"><a href="/events/isc-spring-2019-speakers#brent_beer">Brent Beer</a><span class="affiliation"> (GitHub) </span></td>
-             <td class="title"><span class="keynoteTag">Keynote:</span> The Future of Inner Source Software Development
+        <td class="author"><a href="/events/isc-spring-2019-speakers#brent_beer">Brent Beer</a><span class="affiliation"> (GitHub) </span></td>
+        <td class="title"><span class="keynoteTag">Keynote:</span> The Future of Inner Source Software Development
             <span onClick="toggleAbstract('beer-1')" class="abstract-toggle">(<a id="beer-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="beer-1">
 GitHub is the platform on which most Open Source Software is written; generating massive amounts of value by connecting developers across the globe to work on some of the most ambitious problems. Understandably, businesses wanted to join that network and reproduce it within their own organizations as InnerSource. These same businesses are now struggling to find workflows that that are flexible enough to evolve with their corporations and the ever-changing way that Open Source is developed. GitHub has a vision of helping Enterprises implement InnerSource practices by investing and building upon their networks while keeping customer data and business practices secure.
@@ -180,17 +177,16 @@ Join Brent Beer while he shares some of GitHub's recent successes and plans for 
         </td>
     </tr>
       
-   
-   <tr>
+    <tr>
         <td class="time">10:20 - 10:50</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">10:55 - 11:25</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#jorge_herrera"> Jorge Herrera</a> <span class="affiliation"> (Entelgy)</span> <br>
-        <a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
-                 <td class="title"> Thoughts on adopting InnerSource and/or Agile
+        <td class="author"><a href="/events/isc-spring-2019-speakers#jorge_herrera"> Jorge Herrera</a> <span class="affiliation"> (Entelgy)</span> <br/>
+            <a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
+        <td class="title"> Thoughts on adopting InnerSource and/or Agile
             <span onClick="toggleAbstract('cortázar-1')" class="abstract-toggle">(<a id="cortázar-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="cortázar-1">
 One of the main questions that any company willing to try InnerSource is how this can be integrated with their current way of developing. Even more, some of them have recently started with Agile and this may be seen as ‘yet another software development approach’. Agile and InnerSource are defined in both cases and [e.g.: in the Wikipedia] as software development practices. However it seems that it is still not clear how each of them can complement the other. This talk aims at bringing on the table some thoughts on how Agile is being used by some large corporations, and how InnerSource is being applied by some others. We do not aim at stating facts, but at opening a fruitful discussion with the audience with the goal of bringing more uses cases and sharing experiences among the attendees.            
@@ -198,8 +194,7 @@ One of the main questions that any company willing to try InnerSource is how thi
         </td>
     </tr>
 
-
-   <tr>
+    <tr>
         <td class="time">11:30 - 12:00</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#olivier_liechti">Olivier Liechti</a> <span class="affiliation">(Avalia Systems)</span></td>
         <td class="title"> Agile transformation at Softplan: guiding teams with data-driven experiments
@@ -210,12 +205,12 @@ How do you bring a legacy Enterprise Resource Planning (ERP) to "The Cloud", wit
         </td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">12:05 - 13:00</td>
         <td colspan="2">Lunch</td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">13:05 - 14:30</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span></td>
         <td class="title"> Workshop: Dealing with common InnerSource Issues through Developer Portals
@@ -226,12 +221,12 @@ During the last InnerSource Commons and Patterns sessions, there have been a set
         </td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">14:35 - 15:00</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">15:05 - 15:35</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#malcolm_herbert">Malcolm Herbert</a> <span class="affiliation"> (Red Hat)</span></td>
         <td class="title"> Why Inner Source when you can Open Source
@@ -242,7 +237,7 @@ Over the last 10 years, Red Hat Consulting has offered services around open sour
         </td> 
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">15:40 - 16:10</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#kevin_newman">Kevin Newman</a><span class="affiliation"> (Harvard Business Review)</span></td>
         <td class="title"> How to fail implementing InnerSource
@@ -253,12 +248,11 @@ An informal, but hopefully informative, presentation on the challenges of implem
         </td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">16:15 - 16:45</td>
-        <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro</a><span class="affiliation"> (Friedrich-Alexander-University)</span>
-           <br>
+        <td class="author"><a href="/events/isc-spring-2019-speakers#max_campraro"> Max Capraro</a><span class="affiliation"> (Friedrich-Alexander-University)</span><br/>
             <a href="/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges</a><span class="affiliation"> (HERE Technologies)</span></td>   
-     <td class="title"> The Inner Source Learning Path
+        <td class="title"> The Inner Source Learning Path
             <span onClick="toggleAbstract('campraro-1')" class="abstract-toggle">(<a id="campraro-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="campraro-1">
 Inner source is the application of open source methodologies to internally-developed software. While simple to define, inner source can be difficult to explain and implement successfully. Many engineers lack background in open source and the ideas and mechanics of open code development. Even those with that background face a new set of constraints and motivations when trying to work openly within the enterprise. The Inner Source Learning path gives a simple, easy to understand introduction to inner source. It introduces key terms, concepts, and principles for effective inner sourcing along with explanations and real examples. It is intended to bring newcomers up to speed as well as provide those with experience a common vocabulary to use when discussing more advanced concepts. The Inner Source Learning path will be freely hosted by O'Reilly Media at https://www.safaribooksonline.com/learning-paths for your use and sharing. In this session we'll review the content of the learning path and how you can use and share it.
@@ -266,18 +260,15 @@ Inner source is the application of open source methodologies to internally-devel
         </td>
     </tr>
 
-  <tr>
+    <tr>
         <td class="time">16:50 - 17:00</td>
         <td colspan="2"> Wrap-Up – Feedback (Dr. Lorraine Morgan)</td>
     </tr>
 
- <tr>
+    <tr>
         <td class="time">19:00</td>
-        <td colspan="2">Social Event held at the <a href="https://www.harbour.ie">Harbour Hotel</a> with entertainment by <a href="https://carmeldempsey.com/">Carmel Dempsey </a>
-     
-</td>
-        
- </tr>
+        <td colspan="2">Social Event held at the <a href="https://www.harbour.ie">Harbour Hotel</a> with entertainment by <a href="https://carmeldempsey.com/">Carmel Dempsey </a></td>   
+    </tr>
 </table>    
 
 
@@ -287,6 +278,7 @@ Inner source is the application of open source methodologies to internally-devel
         <h3>Thursday, April 11th</h3>
         </td>
     </tr>
+    
     <tr>
         <td class="time">09:00 - 09:10</td>
         <td colspan="2">
@@ -294,7 +286,7 @@ Inner source is the application of open source methodologies to internally-devel
         </td>
     </tr>
   
-   <tr>
+    <tr>
         <td class="time">09:15 - 10:15</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#brian_fitzgerald">Brian Fitzgerald</a> <span class="affiliation"> (Director of Lero, University of Limerick)</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Crowdsourcing Software Development: Silver Bullet or Lead Balloon
@@ -305,12 +297,12 @@ Crowdsourcing is emerging as an alternative outsourcing strategy which is gainin
         </td>
     </tr>
     
-   <tr>
+    <tr>
         <td class="time">10:20 - 10:45</td>
         <td colspan="2">Coffee Break</td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">10:50 - 11:20</td>
         <td class="author">
             <a href="/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
@@ -322,7 +314,7 @@ Metrics are an important part of the InnerSource journey. The InnerSource Common
         </td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">11:25 - 11:55</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#tobie_langel">Tobie Langel</a> <span class="affiliation"> (UnlockOpen)</span></td>
         <td class="title">Making the Business Case for Contributing to Open Source
@@ -333,12 +325,12 @@ Details appearing shortly
         </td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">12:00 - 12:55</td>
         <td colspan="2">Lunch</td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">13:00 - 13:45</td>    
         <td class="author"><a href="/events/isc-spring-2019-speakers">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span></td>
         <td class="title">7 cultural insights to help you reinvent your organization            
@@ -349,7 +341,7 @@ Culture is hard to describe, and even harder to emulate. So how do you even star
         </td>
     </tr>
 
-   <tr>
+    <tr>
         <td class="time">13:50 - 14:30</td>
         <td class="author"><a href="/events/isc-spring-2019-speakers#danese_cooper">Danese Cooper</a></td>
         <td class="title">Governance Meeting
@@ -359,14 +351,14 @@ Culture is hard to describe, and even harder to emulate. So how do you even star
         </td>
     </tr>
     
-   <tr>
+    <tr>
         <td class="time">14:35 - 14:45</td>
         <td colspan="2">Closing (Dr. Lorraine Morgan)</td>
     </tr>
 </table>
   
- <h3>Sponsors</h3> <p>
+ <h3>Sponsors</h3> <br/>
     <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
       <img alt="NearForm" width="200" src="/assets/img/NF_Shared_Brand_Assets_logo-with-tagline-positive.png"/>
-    </div>
+    </div></div>
