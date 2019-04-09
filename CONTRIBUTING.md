@@ -34,13 +34,19 @@ Contributions to this repo are welcome. Please follow the following guidelines:
 
 ## Build process:
 
-* Install ruby
-* Install bundler gem
-* Run 'bundle install'
-* Run 'jekyll build -s &lt;master branch location&gt; -d &lt;gh-pages location&gt;'
-
 Travis CI has been configured - so your change will be built and tested when you create a PR
 
+### General flow
+* Install ruby
+* Install bundler gem
+* Run `bundle install`
+* Run `jekyll build -s &lt;master branch location&gt; -d &lt;gh-pages location&gt;`
+
+### Steps required on Ubuntu 1804
+
+* `sudo apt install ruby ruby-bundler ruby-dev libxml2-dev libxslt-dev`
+* `bundle install --path vendor/build`
+* `vendor/build/ruby/2.5.0/bin/jekyll build -d _site`
 
 ## Merge guidelines:
 

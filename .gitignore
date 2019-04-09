@@ -2,3 +2,6 @@
 .sass-cache/
 _site/
 build.sh
+vendor/
+.bundle/
+
