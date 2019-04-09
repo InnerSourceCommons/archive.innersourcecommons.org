@@ -4,6 +4,6 @@ This repo primarily serves to host the pages for InnerSource Commons. The master
 
 ## Contributing
 
-Please see [our contribution guidelines](CONTRIBUTING.MD)
+Please see [our contribution guidelines](CONTRIBUTING.md)
 
 
