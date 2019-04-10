@@ -241,6 +241,21 @@ Katrina joined Red Hat, the world's leading provider of enterprise open source s
   </div>
 <div style="clear:both;"></div>
 
+
+a name="ana_jimenez_santamaria">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Ana Jimenez Santamaria" width="200" src="/assets/img/Picture_Pending.png"/>
+    </div>
+    <b>Ana Jimenez Santamaria</b>
+    <p>
+Ana is a Software Marketing Strategist currently working at Bitergia, a Software Development Analytics firm specialized in Open Source and InnerSource projects. As marketing specialist and Data Nerd, Ana is really interested in Open Source Communities and strongly believes that Marketing and Software Development Analytics can (and should) work together to help Open Source Communities to better achieve their goals. <p>
+    When she isn’t glued to a computer working on SEO activities, developing content strategy or dealing with analytics, Ana spends her time gaming, illustrating and learning Japanese. She has been a speaker at some international conferences such as CHAOSSCon Brussels 2019 and DevRelCon Tokyo 2019.
+</p>
+  </div>
+<div style="clear:both;"></div>
+
 <a name="#Ben_van_t_ende">&nbsp;</a>
 <hr/>
 <div style="width:100%">
