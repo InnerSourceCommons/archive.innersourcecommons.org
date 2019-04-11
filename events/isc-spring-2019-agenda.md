@@ -143,7 +143,7 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
 </table>
 
 <table class="schedule">
-    <tr>
+ <tr>
         <td colspan="3">
         <h3>Wednesday, April 10th</h3>
         </td>
@@ -270,8 +270,7 @@ Inner source is the application of open source methodologies to internally-devel
         <td class="time">19:00</td>
         <td colspan="2">Social Event held at the <a href="https://www.harbour.ie">Harbour Hotel</a> with entertainment by <a href="https://carmeldempsey.com/">Carmel Dempsey </a></td>   
     </tr>
-</table>    
-
+</table>
 
 <table class="schedule">
     <tr>
