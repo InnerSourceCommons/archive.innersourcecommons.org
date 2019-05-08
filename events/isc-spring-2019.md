@@ -5,6 +5,11 @@ title: 'InnerSource Commons Spring Summit 2019'
 ### 9th to 11th April 2019 in Galway, Ireland
 Follow us on [Twitter](https://twitter.com/Commons2019) and [Facebook](https://www.facebook.com/InnerSourceCommonsSpringSummit2019) and share your experience of the Summit.
 
+### Thank You!
+And that’s a wrap on the InnerSource Commons Spring Summit 2019! A special thanks to all attendees and speakers for visiting Galway to share experiences and making this summit so interesting, engaging and fun!
+
+<a href="/assets/img/dji_0018.png"><img alt="InnerSource Commons Spring Summit 2019" width="600" src="/assets/img/dji_0018.png"/></a>
+
 ### Call For Presentations
 Use this form to submit your proposal [here](https://tinyurl.com/ycuxbjbe) for the InnerSource Commons Spring Summit 2019
 
