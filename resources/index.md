@@ -30,4 +30,7 @@ Free e-book from O'Reilly on getting started with InnerSource
   * [InnerSource Patterns videos](http://bit.ly/innersource_patterns_videos).
   * [InnerSource: open source collaboration patterns from GitHub Satellite 2019](https://www.youtube.com/watch?v=16gRNL8kCwA)
 
+### [Learning Path](learningpath/)
+
+The Inner Source Learning Path is a series of short videos and articles explaining and teaching various aspects of inner source. See the page to learn more.
 
