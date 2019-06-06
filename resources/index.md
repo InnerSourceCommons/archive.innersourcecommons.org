@@ -27,4 +27,7 @@ Free e-book from O'Reilly on getting started with InnerSource
 
 ### Videos
 
-See [the InnerSource Patterns videos](http://bit.ly/innersource_patterns_videos).
+  * [InnerSource Patterns videos](http://bit.ly/innersource_patterns_videos).
+  * [InnerSource: open source collaboration patterns from GitHub Satellite 2019](https://www.youtube.com/watch?v=16gRNL8kCwA)
+
+
