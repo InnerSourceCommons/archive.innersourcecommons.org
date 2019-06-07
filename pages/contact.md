@@ -13,6 +13,6 @@ permalink: "/contact/"
 
 Reach out to any of these people that are willing to be publicly quoted or speak on InnerSource
 
-| Name | Title | Company | Quoted | Speak |
-|------|-------|---------|----------------|------------------|
-| Danese Cooper | [NearForm](https://www.nearform.com/) | VP Special Initiatives | Y | Y |
+| Name | Company | Title | Location | Quoted | Speak |
+|------|---------|-------|----------|--------|-------|
+| Danese Cooper | [NearForm](https://www.nearform.com/) | VP Special Initiatives | Worldwide | Y | Y |
