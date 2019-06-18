@@ -3,13 +3,13 @@ layout: page
 title: 'Upcoming InnerSource Events'
 ---
 
-## Current Events
-* [Commons Summit 8 - Spring 2019](isc-spring-2019)
-   - InnerSource Commons Summit 8 - Galway, Ireland - April 9-11
-
 ## Upcoming Events
+* [Commons Summit 9 - Fall 2019](https://www.innersource.events/)
+   - InnerSource Commons Summit 9 - Baltimore, MD, USA - September 17-19
 
 ## Prior Events
+* [Commons Summit 8 - Spring 2019](isc-spring-2019)
+   - InnerSource Commons Summit 8 - Galway, Ireland - April 9-11
 * [Commons Summit 7 - Fall 2018](isc-fall-2018)
     - InnerSource Commons Summit 7 - New York, USA - Oct 3-5
 * [Commons Summit 6 - Spring 2018](isc-spring-2018)
