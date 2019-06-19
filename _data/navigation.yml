@@ -10,10 +10,10 @@
   url: "/events/"
   side: left
   dropdown:
+  - title: "US Summit Fall 2019"
+    url: "http://www.innersource.events"
   - title: "EU Summit Spring 2019"
     url: "/events/isc-spring-2019"
-  - title: "US Summit Fall 2018"
-    url: "/events/isc-fall-2018"
     
 - title: Resources
   url: "/resources/"
