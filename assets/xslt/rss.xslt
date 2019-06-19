@@ -202,12 +202,12 @@
 
                       
 
-                      <li><a  href="/events/isc-spring-2019" >EU Summit Spring 2019</a></li>
+                      <li><a  target="_blank" href="http://www.innersource.events" >US Summit Fall 2019</a></li>
                     
 
                       
 
-                      <li><a  href="/events/isc-fall-2018" >US Summit Fall 2018</a></li>
+                      <li><a  href="/events/isc-spring-2019" >EU Summit Spring 2019</a></li>
                     
                   </ul>
 
