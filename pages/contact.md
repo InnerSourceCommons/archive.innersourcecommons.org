@@ -16,3 +16,4 @@ Reach out to any of these people that are willing to be publicly quoted or speak
 | Name | Company | Title | Location | Quoted | Speak |
 |------|---------|-------|----------|--------|-------|
 | Danese Cooper | [NearForm](https://www.nearform.com/) | VP Special Initiatives | Worldwide | Y | Y |
+| Russ Rutledge | [InnerSource Commons](https://innersourcecommons.org) | Member | United States | Y | Y |
