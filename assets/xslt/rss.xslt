@@ -290,10 +290,21 @@
 
             
             
-              <li><a href="/about/">About</a></li>
-              <li class="divider"></li>
 
-            
+              <li class="has-dropdown">
+                <a href="/about/">About</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="/contact/" >Contact</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
             
           
         
