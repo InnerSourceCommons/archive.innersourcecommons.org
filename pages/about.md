@@ -14,7 +14,7 @@ Interested individuals and companies are welcome to participate and contribute c
 
 The ISC was founded by PayPal in 2015.
 
-## Contact Information
+## [Contact Information](/contact/)
 * Email <questions@innersourcecommons.org>
 * Join the [#innersourcecommons](https://isc-inviter.herokuapp.com/) slack channel
 
