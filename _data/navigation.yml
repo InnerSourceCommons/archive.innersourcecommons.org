@@ -46,6 +46,9 @@
 - title: "About"
   url: "/about/"
   side: left
+  dropdown:
+  - title: "Contact"
+    url: "/contact/"
 
 - title: "Wiki"
   url: "/wiki/"
