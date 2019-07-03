@@ -21,6 +21,7 @@ Reach out to any of these people that are willing to be publicly quoted or speak
 | Isabel Drost-Fromm | [Europace AG](https://www.europace.de/) | Open Source Strategist | Germany | - | Y |
 | Georg Gruetter | [Robert Bosch](https://www.bosch.com/) | Chief Expert | Germany | - | Y |
 | Daniel Izquierdo Cortázar | [Bitergia](https://bitergia.com) | Chief Data Officer | Spain/Worldwide | Y | Y |
+| Johannes Nicolai | [GitHub](https://github.com) | Principal Solutions Engineer | Germany | Y | Y |
 | Russ Rutledge | [Nike](https://www.nike.com) | Director of Community and Inner Source | United States | Y | Y |
 | Johannes Tigges | [Here](https://www.here.com/) | Open Source InnerSource Office | Germany | - | Y |
 | Ben Van't Ende | [Age of Peers](https://ageofpeers.com/) | Collaboration Strategist | Netherlands | - | Y |
