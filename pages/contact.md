@@ -14,6 +14,9 @@ permalink: "/contact/"
 
 Reach out to any of these people that are willing to be publicly quoted or speak on InnerSource. They are ordered by surname.
 
+Want to get on this list?
+Add yourself via [pull request](https://github.com/InnerSourceCommons/innersourcecommons.org/edit/master/pages/contact.md).
+
 | Name | Current Employer | Title | Location | Quoted? | Speak? |
 |------|---------|-------|----------|--------|-------|
 | Max Capraro | [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/) | Scientific Staff | Germany | - | Y |
