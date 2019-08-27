@@ -30,3 +30,4 @@ Add yourself via [pull request](https://github.com/InnerSourceCommons/innersourc
 | Johannes Tigges | [Here](https://www.here.com/) | Open Source InnerSource Office | Germany | - | Y |
 | Ben Van't Ende | [Age of Peers](https://ageofpeers.com/) | Collaboration Strategist | Netherlands | - | Y |
 | Kristof Van Tomme | [Pronovix](https://pronovix.com/) | CEO | Belgium | Y | Y |
+| Jerry Tan | [Baidu](https://www.baidu.com/) | Open Source Architect | China | Y | Y |
