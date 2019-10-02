@@ -17,7 +17,7 @@ This report examines:
 
 * Ways to adapt InnerSource to your business environment without diluting open source fundamentals
 * The crucial role of the Trusted Committer in the InnerSource process
-* How to extracting tribal knowledge from silos through _passive documentation_
+* How to extract tribal knowledge from silos through _passive documentation_
 * Why _contributing agreements_ formalize the responsibilities of developers who originate code
 * How to move from internal silos to internal transparency
 * Adapting Open Source collaboration to Planning and Management
