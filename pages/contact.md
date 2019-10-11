@@ -31,3 +31,4 @@ Add yourself via [pull request](https://github.com/InnerSourceCommons/innersourc
 | Ben Van't Ende | [Age of Peers](https://ageofpeers.com/) | Collaboration Strategist | Netherlands | - | Y |
 | Kristof Van Tomme | [Pronovix](https://pronovix.com/) | CEO | Belgium | Y | Y |
 | Jerry Tan | [Baidu](https://www.baidu.com/) | Open Source Architect | China | Y | Y |
+| Cedric Williams | [Earnin](https://www.earnin.com/) | Principal Engineer | Y | Y |
