@@ -202,6 +202,11 @@
 
                       
 
+                      <li><a  href="/events/isc-spring-2020" >EU Summit Spring 2020</a></li>
+                    
+
+                      
+
                       <li><a  target="_blank" href="http://www.innersource.events" >US Summit Fall 2019</a></li>
                     
 
