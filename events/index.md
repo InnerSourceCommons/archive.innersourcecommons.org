@@ -4,10 +4,12 @@ title: 'Upcoming InnerSource Events'
 ---
 
 ## Upcoming Events
-* [Commons Summit 9 - Fall 2019](https://www.innersource.events/)
-   - InnerSource Commons Summit 9 - Baltimore, MD, USA - September 17-19
+* [Commons Summit 10 - Spring 2020](isc-spring-2020)
+   - InnerSource Commons Summit 10 - Madrid, Spain - April 14-16
 
 ## Prior Events
+* [Commons Summit 9 - Fall 2019](https://www.innersource.events/)
+   - InnerSource Commons Summit 9 - Baltimore, MD, USA - September 17-19
 * [Commons Summit 8 - Spring 2019](isc-spring-2019)
    - InnerSource Commons Summit 8 - Galway, Ireland - April 9-11
 * [Commons Summit 7 - Fall 2018](isc-fall-2018)
