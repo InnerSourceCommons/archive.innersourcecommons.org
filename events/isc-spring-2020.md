@@ -9,13 +9,18 @@ Welcome to the 10th InnerSource Commons taking place in Madrid, Spain!
 ### Call For Presentations
 Use this form to submit your proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSfACO3DVCnbuLpGlJrFzhNNJmmweW2M_me-7nTEVAjy4Fa4LA/viewform?usp=sf_link) for the InnerSource Commons Spring Summit 2020
 
-All proposals are due by midnight, December 15th, 2019. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
+All proposals are due by midnight, January 10th, 2020. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
 
 ### Registration
-To be announced
+
+[Registration](https://www.brownpapertickets.com/event/4450343) is already open! We are using Brown Paper Tickets for this process. Please notice that **taxes** will be added on top of the sales process.
+
+Please consider registering early as this helps us to organize and have everyone's needs in mind.
 
 ### Call For Sponsorship
 We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Daniel Izquierdo for more details (dizquierdo@bitergia.com).
+
+The sponsoring prospectus is available [here](https://drive.google.com/file/d/1O-tfwEc4h_JBCnYCj4COl6h8IU1MketN/view?usp=sharing).
 
 ### Agenda and Speakers
 
@@ -39,7 +44,7 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 ### Venue
 
-To be announced
+The summit is hosted at [Círculo de Bellas Artes](https://goo.gl/maps/R4G1GtgPnk9Su6d17), Calle Alcalá 42, Madrid.
 
 
 ### Travel and Transit
