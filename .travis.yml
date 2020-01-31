@@ -5,6 +5,10 @@ language: ruby
 rvm:
 - 2.3.1
 
+before_install:
+- gem uninstall -v '>= 2' -i $(rvm gemdir)@global -ax bundler || true
+- gem install bundler -v '< 2'
+
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
 script: ./cibuild
