@@ -14,6 +14,8 @@ Once finished, the first edition of the InnerSource Learning Path will cover the
 1. [Trusted Committer]
 1. Contributor *(coming soon...)*
 
+The videos are becoming available on YouTube part by part.
+See our channel here: [YouTubeChannel]
 
 ## Contribute to the InnerSource Learning Paths!
 
@@ -25,3 +27,4 @@ We invite you to help us finishing the InnerSource Learning Paths. Checkout the 
 [Introduction]: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504
 [Product Owner]: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707
 [http://bit.ly/inner-source-learning-path]: http://bit.ly/inner-source-learning-path
+[YouTubeChannel]: https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA
