@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss"
+	],
+	"sourcesContent": [
+		"// @import \"\";\n\ntd {margin:0px; padding: 5px; text-align:left}\n\n.time { color:black; width: 12% }\n\n.author { width: 25% }\n\n.affiliation { font-size: 0.8em }\n\n.title { font-style:italic; width: 50% }\n\n.schedule { width: 90% }\n\n.keynoteTag { font-weight: bold }\n\n.keynote { background: #E07D75 }\n\n.break { background: lightgrey}\n\n.orga { background: lightgrey }\n\n.casestudy { background: #FFFC77 }\n\n.talk { background: #FFA8A1}\n\n.metrics { background: #A1FFC9 }\n\n.patterns { background: #4DB278  }\n\n.abstract { padding-top: 10px; font-style:italic; font-size: 1em }\n\n.abstract-toggle { padding-left: 10px }\n\n\ntd.headerrow {\n    text-align: center;\n    background: yellow;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,EAAE,AAAC,CAAC,MAAM,CAAC,GAAG,CAAE,OAAO,CAAE,GAAG,CAAE,UAAU,CAAC,IAAI,CAAE,AAE/C,AAAA,KAAK,AAAC,CAAE,KAAK,CAAC,KAAK,CAAE,KAAK,CAAE,GAAI,CAAE,AAElC,AAAA,OAAO,AAAC,CAAE,KAAK,CAAE,GAAI,CAAE,AAEvB,AAAA,YAAY,AAAC,CAAE,SAAS,CAAE,KAAM,CAAE,AAElC,AAAA,MAAM,AAAC,CAAE,UAAU,CAAC,MAAM,CAAE,KAAK,CAAE,GAAI,CAAE,AAEzC,AAAA,SAAS,AAAC,CAAE,KAAK,CAAE,GAAI,CAAE,AAEzB,AAAA,WAAW,AAAC,CAAE,WAAW,CAAE,IAAK,CAAE,AAElC,AAAA,QAAQ,AAAC,CAAE,UAAU,CAAE,OAAQ,CAAE,AAEjC,AAAA,MAAM,AAAC,CAAE,UAAU,CAAE,SAAS,CAAE,AAEhC,AAAA,KAAK,AAAC,CAAE,UAAU,CAAE,SAAU,CAAE,AAEhC,AAAA,UAAU,AAAC,CAAE,UAAU,CAAE,OAAQ,CAAE,AAEnC,AAAA,KAAK,AAAC,CAAE,UAAU,CAAE,OAAO,CAAE,AAE7B,AAAA,QAAQ,AAAC,CAAE,UAAU,CAAE,OAAQ,CAAE,AAEjC,AAAA,SAAS,AAAC,CAAE,UAAU,CAAE,OAAS,CAAE,AAEnC,AAAA,SAAS,AAAC,CAAE,WAAW,CAAE,IAAI,CAAE,UAAU,CAAC,MAAM,CAAE,SAAS,CAAE,GAAI,CAAE,AAEnE,AAAA,gBAAgB,AAAC,CAAE,YAAY,CAAE,IAAK,CAAE,AAGxC,AAAA,EAAE,AAAA,UAAU,AAAC,CACT,UAAU,CAAE,MAAM,CAClB,UAAU,CAAE,MAAM,CACrB"
+}

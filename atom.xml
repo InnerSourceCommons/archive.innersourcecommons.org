@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>InnerSource Commons</title>
-	<updated>2020-02-04T12:52:43+00:00</updated>
+	<updated>2020-02-05T07:35:40+00:00</updated>
 
 	<subtitle>InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy</subtitle>
 
@@ -22,7 +22,7 @@
 	<link href="/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.8.6">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
 
 	
 </feed>
