@@ -41,7 +41,7 @@ Michael is software developer at SAP and Open Source enthusiast. He loves evange
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
        <img alt="Georg Gruetter" width="200" src="/assets/img/Georg Gruetter.jpg"/>
     </div>
-    <b>Georg Gruetter</b>
+    <b>Georg Grütter</b>
     <p>
 Georg Grütter is a social coding evangelist and developer advocate at Bosch.IO. He cofounded and led the first InnerSource community at Bosch. Georg is a passionate software developer with over 30 years of experience. Previously, he held various positions and roles at Bosch, Line Information, the Zurich System House, and DaimlerChrysler. Georg has created two open source projects, "XHSI":http://xhsi.sourceforge.net and "stashNotifier":https://wiki.jenkins-ci.org/display/JENKINS/StashNotifier+Plugin. He's an avid recumbent cyclist and mountain biker who also loves photography and chocolate.
 
@@ -106,7 +106,7 @@ He's got a background in computer and social science, worked as a software engin
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
      <img alt="Kristof Van Tomme" width="200" src="/assets/img/Kristof Van Tomme.png"/>
     </div>
-    <b>Kristof Van Tomme</b>
+    <b>Kristof van Tomme</b>
     <p>
 Kristof Van Tomme is an open source strategist and architect. He is the CEO and co-founder of Pronovix. He’s got a degree in bioengineering and is a regular speaker at conferences in the API, DevRel, and technical writing communities. For a few years now he’s been building bridges between the documentation and Drupal community. He is co-organiser of the London Write the Docs meetup, and cheerleader for the Amsterdam Write the Docs meetup group. After his first two InnerSourcing Conferences, Kristof got really excited about pattern languages and how they can be applied to help teams develop better documentation despite the constraints that exist for internal software programs.
 
