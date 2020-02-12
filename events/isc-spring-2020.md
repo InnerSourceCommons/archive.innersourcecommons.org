@@ -26,6 +26,8 @@ The sponsoring prospectus is available [here](https://drive.google.com/file/d/1O
 
 We are delighted to welcome Nithya Ruff (Head of Comcast’s Open Source Program Office) and Mary Thengvall (Director of Developer Relations at Camunda) as our first keynote speakers!
 
+You can start checking the great set of speakers for the regular sessions [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
+
 <img alt="Nithya Ruff photo" src="/assets/img/isc_madrid_nithya_ruff.jpg" width="200" align="right"/>
 
 **Nithya Ruff**
