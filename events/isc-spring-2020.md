@@ -77,7 +77,27 @@ The airport serves flights from main cities around the world. More information a
 
 ### Hotels
 
-To be announced
+There a plenty of walking distance hotels.
+
+The closest one is the exclusive [Hotel NH Collection Madrid Suecia - 5 stars](https://www.nh-hoteles.es/hotel/nh-collection-madrid-suecia). Other options are the following:
+* [Hotel Lusso Infantas](http://www.hotelinfantas.com/en/) (4 stars, 200m)
+* [Hotel Petit Palace Alcalá](https://www.petitpalacealcala.com/en/) (4 stars, 250m)
+* [Hotel Petit Palace Lealtad](http://www.petitpalace-lealtadmadrid.com/) Plaza (4 stars, 300m)
+* [Hotel One Shot Prado 23](http://www.hoteloneshotprado23.com/en/) (4 stars, 300m)
+* [Hotel One Shot Recoletos 04](http://www.hoteloneshotrecoletos04.com/en/) (4 stars, 350m)
+* [Hotel Petit Palace Chueca](https://www.petitpalacechueca.com/) (3 stars, 400m)
+* [Hotel Casual Madrid del Teatro](http://casualhoteles.com/hoteles-madrid/casual-del-teatro/) (2 stars, 450m)
+
+Spanish *hostales* are family-led hotels, not to confuse with hostels. They offer good accommodations and in general at lower rates. The following ones are close to the venue:
+* [Hostal Las Cortes](http://www.hostallascortes.com/) (280m)
+* [Hostal Oporto](http://www.hostaloporto.com/) (280m)
+* [Hostal Delfina](http://hostaldelfina.wixsite.com/hostaldelfina) (400m)
+* [Hostal San Lorenzo](https://www.hotel-sanlorenzo.com/) (500m)
+* [Hostal Prim](http://www.hostalprim.com/en/) (700m)
+
+All of them are tidy, clean, have wifi, air conditioning, and each room has its own bathroom (but double check).
+
+
 
 ### [Code of Conduct](/events/conduct/)
 
