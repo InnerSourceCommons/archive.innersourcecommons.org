@@ -4,4 +4,4 @@ _site/
 build.sh
 vendor/
 .bundle/
-
+.jekyll-cache/
