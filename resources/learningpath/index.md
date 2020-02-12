@@ -10,8 +10,8 @@ Their production was kindly sponsored by PayPal. The Learning Path section intro
 Once finished, the first edition of the InnerSource Learning Path will cover the following sections:
 
 1. [Introduction]
-1. [Product Owner]
-1. [Trusted Committer]
+1. [Product Owner] *(O'Reilly)*
+1. [Trusted Committer] *(O'Reilly)*
 1. Contributor *(coming soon...)*
 
 The videos are becoming available on YouTube part by part.
@@ -24,7 +24,7 @@ We invite you to help us finishing the InnerSource Learning Paths. Checkout the 
 [InnerSource Commons]: https://www.innersourcecommons.org/
 [#learning-path]: https://paypalflow.slack.com/messages/CARTU4XV2
 [Trusted Committer]: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599
-[Introduction]: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504
+[Introduction]: ./introduction
 [Product Owner]: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707
 [http://bit.ly/inner-source-learning-path]: http://bit.ly/inner-source-learning-path
 [YouTubeChannel]: https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA
