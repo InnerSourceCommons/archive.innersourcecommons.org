@@ -29,7 +29,7 @@ We are delighted to welcome Nithya Ruff (Head of Comcast’s Open Source Program
 You can start checking the great set of speakers for the regular sessions [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
 
 
-<img alt="Danese Cooper photo" src="/assets/img/Danese_Cooper.jpg.jpg" width="200" align="right"/>
+<img alt="Danese Cooper photo" src="/assets/img/Danese_Cooper.jpg" width="200" align="right"/>
 
 **Danese Cooper**
 
