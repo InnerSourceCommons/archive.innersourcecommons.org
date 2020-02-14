@@ -50,6 +50,40 @@ Georg Grütter is a social coding evangelist and developer advocate at Bosch.IO.
 <div style="clear:both;"></div>
 
 
+<a name="ana_jimenez">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Ana Jiménez Santamaría" width="200" src="/assets/img/ana_jimenez_santamaria_2.png"/>
+    </div>
+    <b>Ana Jiménez Santamaría</b>
+    <p>
+Ana is currently working at Bitergia, a Software Development Analytics firm specialized in Open Source and InnerSource projects, while studying for her master’s in Data Science.  As a software marketing specialist and data nerd, Ana is really interested in DevRel community, Open Source and community metrics.
+
+She has been a speaker at international conferences such as DevRelCon Tokyo and London 2019 or past Innersource Commons Summit editions.
+
+  </p>
+</div>
+<div style="clear:both;"></div>
+
+<a name="jose_manrique">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="José Manrique López" width="200" src="/assets/img/jose_manrique.jpg"/>
+    </div>
+    <b>José Manrique López</b>
+    <p>
+Manrique is the CEO and shareholder in Bitergia and a free, libre, open source software development communities passionate. He is a graduate Industrial Engineer with research and development experience from the Technological Center for Computer Science and Communications of the Principality of Asturias (CTIC), W3C working groups, Ándago Engineering, and Continua Health Alliance. Former executive director of the Spanish Open Source Enterprises Association (ASOLIF), and expert consultant for the Spanish National Open Source Reference Center (CENATIC). 
+
+Involved in several communities related to free, libre, open source software he is currently active in GrimoireLab and CHAOSS(Community Health Analytics for Open Source Software). He has been recognized as AWS Data Hero and GitLab Community Hero.
+
+You can reach him on Twitter as @jsmanrique, and when he is not online he loves to spend time with his family and surfing.
+  </p>
+</div>
+<div style="clear:both;"></div>
+
+
 <a name="katrina_novakovic">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -63,6 +97,22 @@ Katrina is a business architect in the Red Hat EMEA Office of Technology, workin
 </p>
   </div>
 <div style="clear:both;"></div>
+
+<a name="becky_plummer">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Becky Plummer" width="200" src="/assets/img/BeckyPlummer.jpg"/>
+    </div>
+    <b>Becky Plummer</b>
+    <p>
+Becky Plummer created the Engineering Champions Program and team leader responsible for the development environment for the Bloomberg Engineers. She created the Engineering Champions program in 2011 to empower developers to influence change and collaborate on improving the development environment. She is a graduate of Columbia University with a Master’s degree in Computer Science. Joined Bloomberg LP in New York in 2006 and moved to London in 2015 to gain a global perspective. InnerSource has helped rocket my career as a change agent in Engineering at Bloomberg.
+
+</p>
+  </div>
+<div style="clear:both;"></div>
+
+
 
 <a name="russell_rutledge">&nbsp;</a>
 <hr/>
@@ -82,6 +132,21 @@ Previously, he ran another successful startup delivering JavaScript continuous d
 <div style="clear:both;"></div>
 
 
+
+<a name="dmitrii_sugrobov">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+
+    </div>
+    <b>Dimitrii Sugrobov</b>
+    <p>
+Dmitrii is a software engineer, DevOps believer, evangelist at Leroy Merlin. Leroy Merlin is a DIY retail company that is part of the Adeo group with a presence in 15 countries. InnerSource is one of the key directions in software development across all business units of the company. 
+Dmitrii improves the processes associated with the life of the code during and after its being crafted. Believes that the time of lone programmers is long gone. Speaker of various conferences across Russia and France.
+
+  </p>
+  </div>
+<div style="clear:both;"></div>
 
 
 <a name="johannes_tigges">&nbsp;</a>
@@ -114,3 +179,33 @@ Kristof Van Tomme is an open source strategist and architect. He is the CEO and 
 </div>
 <div style="clear:both;"></div>
   
+
+<a name="dimitry_yantsen">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Dimitry Yantsen" width="200" src="/assets/img/Kristof Van Tomme.png"/>
+    </div>
+    <b>Dimitry Yantsen</b>
+    <p>
+I’m a software engineer with 7 years of experience. Early last year I became a part of the team, that was created to promote and organise everything around InnerSource in SberBank.
+SberBank is a largest bank in Russia. As of now we have approximately 16000 engineers.
+
+  </p>
+</div>
+<div style="clear:both;"></div>
+
+<a name="florent_zara">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+
+    </div>
+    <b>Florent Zara</b>
+    <p>
+Florent Zara is a French & Canadian Engineer and has been involved, both personally and professionally, in the FLOSS community since 1999. He has been president of the Open World Forum 2014 edition and speaker at Paris Open Source summit, OpenExpoEurope and the Linux Foundation Open Source Summit. Today he is an admin at LinuxFr.org (reference french-speaking, community driven website about Free and Open Source software) and CTO and Open/Inner Source expert of Henix, editor of the Open Source quality software toolsuite Squashtest. He's been an Open Source advisor for large companies, helping them with governance, licensing as well as change management. Today at ENGIE Digital, he's the project leader of the Innersource initiative and also started a cross company workgroup on this topic. He also helps internal project who wants to go Inner/Open Source.
+
+
+  </p>
+</div>
+<div style="clear:both;"></div>

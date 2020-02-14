@@ -28,6 +28,14 @@ We are delighted to welcome Nithya Ruff (Head of Comcast’s Open Source Program
 
 You can start checking the great set of speakers for the regular sessions [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
 
+
+<img alt="Danese Cooper photo" src="/assets/img/Danese_Cooper.jpg.jpg" width="200" align="right"/>
+
+**Danese Cooper**
+
+Danese Cooper is vice president of special initiatives at NearForm, an Irish tech firm. Previously, she was head of open source software at PayPal, CTO of the Wikimedia Foundation, chief open source evangelist for Sun, and senior director of open source strategies for Intel. Danese was also the inaugural chairperson of the Node.js Foundation. She concentrates on creating healthy open source communities and has served on the boards of Drupal Association, the Open Source Initiative, the Open Source Hardware Association, and she’s advised Mozilla and the Apache Software Foundation. Danese also runs a successful open source consultancy that counts the Bill & Melinda Gates Foundation, the SETI Institute, Harris, and Numenta as clients. She’s been known to knit through meetings.
+
+
 <img alt="Nithya Ruff photo" src="/assets/img/isc_madrid_nithya_ruff.jpg" width="200" align="right"/>
 
 **Nithya Ruff**
@@ -47,6 +55,7 @@ These days, Mary is the Director of Developer Relations at Camunda. In addition 
 Mary is founder and co-host of Community Pulse, a podcast for Developer Relations professionals. She curates DevRel Weekly, a weekly newsletter that brings you a curated list of articles, job postings, and events every Thursday. She's also a founding member and "Benevolent Queen" of the DevRel Collective Slack team.
 
 Mary is also a member of Prompt, a non-profit that encourages people to openly talk about mental illness in tech. She speaks at various conferences and events about building and fostering technical communities as well as how to prevent burnout in yourself and your team
+
 
 
 
