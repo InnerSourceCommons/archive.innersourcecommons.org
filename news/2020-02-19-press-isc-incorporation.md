@@ -27,15 +27,15 @@ Future boards will be elected by the membership on a yearly basis. ISC initially
 
 Membership in the InnerSource Commons foundation is purely merit-based, free of any cost, and restricted to individuals. Though there will not be any membership fees, the InnerSource Commons Foundation welcomes sponsor contributions. These will become tax deductible in the US once we formally achieve the status of a 501(c)3 public charity.
 
-It is easy to get involved, learn about InnerSource and contribute to the InnerSource Commons: Checkout [innersourcecommons.org](https://innersourcecommons.org) for more information!
+It is easy to get involved, learn about InnerSource and contribute to the InnerSource Commons: Check out [innersourcecommons.org](https://innersourcecommons.org) for more information!
 
 Directors of the InnerSource Commons Foundation
 
 
 #### Imprint
-InnerSource Commons Foundation
-539 W. Commerce St #1710
-Dallas, TX 75208
+InnerSource Commons Foundation <br>
+539 W. Commerce St #1710 <br>
+Dallas, TX 75208 <br>
 [press@innersourcecommons.org](mailto:press@innersourcecommons.org)
 
 
