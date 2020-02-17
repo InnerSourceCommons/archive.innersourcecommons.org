@@ -184,7 +184,7 @@ Kristof Van Tomme is an open source strategist and architect. He is the CEO and 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Dimitry Yantsen" width="200" src="/master/assets/img/dmitry_yantsen.png"/>
+     <img alt="Dimitry Yantsen" width="200" src="/assets/img/dmitry_yantsen.jpg"/>
     </div>
     <b>Dimitry Yantsen</b>
     <p>
