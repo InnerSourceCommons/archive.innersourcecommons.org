@@ -6,7 +6,7 @@ title: 'Press Release: Incorporation of the InnerSource Commons Foundation'
 
 ### Press Release: Incorporation of the InnerSource Commons Foundation
 
-The InnerSource Commons Foundation (ISC) was incorporated on February 19th, 2020 and is taking steps to become a 501(c)3 public charity.
+The InnerSource Commons Foundation (ISC) was incorporated on February 19th, 2020 and filed an application to become a 501(c)3 public charity.
 
 The mission of the ISC is to establish a body of knowledge and to educate individuals, commercial and non-profit organizations, research centers, and other institutions about the successful adoption of InnerSource best practices. The ISC provides a safe environment for accumulating and sharing knowledge and experiences, finding best practices, building standards and tooling, producing educational materials, and fostering research to advance the understanding, adoption, and practice of InnerSource.
 
@@ -25,7 +25,7 @@ The initial board of directors is comprised of:
 
 Future boards will be elected by the membership on a yearly basis. ISC initially is incorporated in the US. As the community grows, we anticipate to found sister organizations in the European Union, Latin America, and other parts of the world.
 
-Membership in the InnerSource Commons foundation is purely merit-based, free of any cost, and restricted to individuals. Though there will not be any membership fees, the InnerSource Commons Foundation welcomes sponsor contributions. These will become tax deductible in the US once we formally achieve the status of a 501(c)3 public charity.
+Membership in the InnerSource Commons foundation is purely merit-based, free of any cost, and restricted to individuals. Though there will not be any membership fees, the InnerSource Commons Foundation welcomes sponsor contributions. These are tax deductible in the US.
 
 It is easy to get involved, learn about InnerSource and contribute to the InnerSource Commons: Check out [innersourcecommons.org](https://innersourcecommons.org) for more information!
 
