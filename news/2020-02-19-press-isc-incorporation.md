@@ -6,7 +6,7 @@ title: 'Press Release: Incorporation of the InnerSource Commons Foundation'
 
 ### Press Release: Incorporation of the InnerSource Commons Foundation
 
-The InnerSource Commons Foundation (ISC) was incorporated on February 19th, 2020 and is taking steps to become a 501(c)3 public charity according to Delaware law.
+The InnerSource Commons Foundation (ISC) was incorporated on February 19th, 2020 and is taking steps to become a 501(c)3 public charity.
 
 The mission of the ISC is to establish a body of knowledge and to educate individuals, commercial and non-profit organizations, research centers, and other institutions about the successful adoption of InnerSource best practices. The ISC provides a safe environment for accumulating and sharing knowledge and experiences, finding best practices, building standards and tooling, producing educational materials, and fostering research to advance the understanding, adoption, and practice of InnerSource.
 
