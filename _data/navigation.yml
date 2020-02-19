@@ -34,10 +34,14 @@
   - title: "Events"
     url: "/events/"
 
+- title: News
+  url: "/news/"
+  side: left
+
 - title: Contribute
   url: "/contribute/"
   side: left
-  
+
 #- title: Blog
 #  url: "/blog/"
 #  side: left
