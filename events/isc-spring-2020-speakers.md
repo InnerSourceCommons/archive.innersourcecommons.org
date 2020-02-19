@@ -4,6 +4,19 @@ title: 'InnerSource Commons Spring Summit 2020 Speakers'
 ---
 [[Return to the Spring Summit 2020 page](/events/isc-spring-2020/)]
 
+<a name="guilherme_dellagustin">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Guilherme Dellagustin" width="200" src="/assets/img/guilherme_dellagustin.jpg"/>
+    </div>
+    <b>Guilherme Dellagustin</b>
+    <p>
+Guilherme is a multipurpose developer at SAP, passionate about everything in software, especially in InnerSource and Open Source.
+  </p>
+  </div>
+<div style="clear:both;"></div>
+
 <a name="thomas_froment">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -13,8 +26,7 @@ title: 'InnerSource Commons Spring Summit 2020 Speakers'
     <b>Thomas Froment</b>
     <p>
 Thomas Froment is the lead of Thales Inner Source Software Community – aiming at promoting Open Source Software development practices and establishing open source-like collaborations within Thales group. After two decades of software development and engineering experiences as developer, team lead and architect in Internet, Cloud Computing and Telco industries, Thomas is now investing himself as an Agile coach willing to make cultural changes happen for real in his company. In 2016, he decided to let aside his agile coach hat, taking the lead of Inner Source initiative as part of the Thales Digital Transformation program. Prior to Thales, Thomas had various experiences ranging from Corporate Research Engineer at Alcatel-Lucent to IT infrastructure manager in a SaaS Software editor. 
-Sébastien Lejeune is a Software Architect specialized on advanced & disruptive MMI.
-Leading R&D and projects across all Thales business units around HCI topics  (Augmented / Virtual Reality, Modern Web development, UX/UI). He is active in dissemination of inner source practices across the group inspired by more than 15 years experiencing Open Source Software in multiple contexts and projects. 
+
   </p>
   </div>
 <div style="clear:both;"></div>
@@ -65,6 +77,21 @@ She has been a speaker at international conferences such as DevRelCon Tokyo and 
   </p>
 </div>
 <div style="clear:both;"></div>
+
+<a name="sebastien_lejeune">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Sebastien Lejeune" width="200" src="/assets/img/sebastien_lejeune.jpg"/>
+    </div>
+    <b>Sébastien Lejeune</b>
+    <p>
+Sébastien Lejeune is a Software Architect specialized on advanced & disruptive MMI.
+Leading R&D and projects across all Thales business units around HCI topics  (Augmented / Virtual Reality, Modern Web development, UX/UI). He is active in dissemination of inner source practices across the group inspired by more than 15 years experiencing Open Source Software in multiple contexts and projects. 
+  </p>
+  </div>
+<div style="clear:both;"></div>
+
 
 <a name="jose_manrique">&nbsp;</a>
 <hr/>
@@ -137,6 +164,7 @@ Previously, he ran another successful startup delivering JavaScript continuous d
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+    <img alt="Dmitrii Sugrobov" width="200" src="/assets/img/dmitrii_sugrobov.jpg"/>
 
     </div>
     <b>Dimitrii Sugrobov</b>
