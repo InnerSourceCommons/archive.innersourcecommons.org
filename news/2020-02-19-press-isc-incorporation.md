@@ -36,7 +36,7 @@ Directors of the InnerSource Commons Foundation
 InnerSource Commons Foundation <br>
 539 W. Commerce St #1710 <br>
 Dallas, TX 75208 <br>
-[press@innersourcecommons.org](mailto:press@innersourcecommons.org)
+[questions@innersourcecommons.org](mailto:questions@innersourcecommons.org)
 
 
 
