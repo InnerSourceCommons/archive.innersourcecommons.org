@@ -20,16 +20,16 @@ Contributions to this repo are welcome. Please follow the following guidelines:
 
 ## git command line tips
 
-* Do this once when you've checked out your fork of the main ISC repo: git remote add upstream https://github.com/InnerSourceCommons/innersourcecommons.org.git
+* Do this once when you've checked out your fork of the main ISC repo: `git remote add upstream https://github.com/InnerSourceCommons/innersourcecommons.org.git`
 * Do this to rebase the fork with the main ISC repo: 
-    - git fetch upstream
-    - git checkout master
-    - git rebase upstream/master
+    - `git fetch upstream`
+    - `git checkout master`
+    - `git rebase upstream/master`
 * Make your changes and test/check them
 * Push them to your fork
-    - git add &lt;files&gt;
-    - git commit -m "comment" &lt;files&gt;
-    - git push origin master
+    - `git add <files>`
+    - `git commit -m "comment" <files>`
+    - `git push origin master`
 * At this point, I usually go to the github web page for my fork to create the PR
 
 ## Build process:
@@ -40,7 +40,7 @@ Travis CI has been configured - so your change will be built and tested when you
 * Install ruby
 * Install bundler gem
 * Run `bundle install`
-* Run `jekyll build -s &lt;master branch location&gt; -d &lt;gh-pages location&gt;`
+* Run `jekyll build -s <master branch location> -d <gh-pages location>`
 
 ### Steps required on Ubuntu 1804
 
