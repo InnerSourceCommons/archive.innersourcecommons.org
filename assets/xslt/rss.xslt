@@ -150,6 +150,12 @@
           
           
         
+
+              
+
+          
+          
+        
         
       </ul>
 
@@ -269,6 +275,21 @@
 
               </li>
               <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="/news/">News</a></li>
+              <li class="divider"></li>
+
+            
             
           
         
