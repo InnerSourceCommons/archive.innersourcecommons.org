@@ -167,7 +167,7 @@ Previously, he ran another successful startup delivering JavaScript continuous d
     <img alt="Dmitrii Sugrobov" width="200" src="/assets/img/dmitrii_sugrobov.jpg"/>
 
     </div>
-    <b>Dimitrii Sugrobov</b>
+    <b>Dmitrii Sugrobov</b>
     <p>
 Dmitrii is a software engineer, DevOps believer, evangelist at Leroy Merlin. Leroy Merlin is a DIY retail company that is part of the Adeo group with a presence in 15 countries. InnerSource is one of the key directions in software development across all business units of the company. 
 Dmitrii improves the processes associated with the life of the code during and after its being crafted. Believes that the time of lone programmers is long gone. Speaker of various conferences across Russia and France.
@@ -208,17 +208,15 @@ Kristof Van Tomme is an open source strategist and architect. He is the CEO and 
 <div style="clear:both;"></div>
   
 
-<a name="dimitry_yantsen">&nbsp;</a>
+<a name="dmitry_yantsen">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Dimitry Yantsen" width="200" src="/assets/img/dmitry_yantsen.jpg"/>
+     <img alt="Dmitry Yantsen" width="200" src="/assets/img/dmitry_yantsen.jpg"/>
     </div>
-    <b>Dimitry Yantsen</b>
+    <b>Dmitry Yantsen</b>
     <p>
-I’m a software engineer with 7 years of experience. Early last year I became a part of the team, that was created to promote and organise everything around InnerSource in SberBank.
-SberBank is a largest bank in Russia. As of now we have approximately 16000 engineers.
-
+Dmitry Yantsen is a software engineer in an InnerSource team at SberBank, the largest bank in Russia with 16K engineers. He and his team promote the culture shift in the enourmous enterprise and use their technical background to engage developers to take part in the movement.
   </p>
 </div>
 <div style="clear:both;"></div>
