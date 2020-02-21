@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+  jekyll:
+    build: .
+    image: innersource-website-devenv
+    ports:
+    - "4000:4000"
+    volumes:
+    - ./:/source
