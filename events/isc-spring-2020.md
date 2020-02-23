@@ -66,9 +66,9 @@ Mary is also a member of Prompt, a non-profit that encourages people to openly t
 Steph is a Software Engineering Team Lead at the BBC. Her and her team are focused on helping other teams “Be better and move faster” and are building up a catalogue of tools which have been built from the ground up to be InnerSource.
 
 
-<img alt="Steph Egan photo" src="/assets/img/david_buckhurst.jpg" width="200" align="right"/>
-
 **David Buckhurst**
+
+<img alt="Steph Egan photo" src="/assets/img/david_buckhurst.jpg" width="200" align="right"/>
 
 David Buckhurst is an engineering manager at the BBC, looking after the teams that build the BBC’s TV applications (such as iPlayer and Sounds).  David has a long history of working with complex device-based challenges, from cutting-edge emulators such as Apple’s Rosetta, to the BBC’s device testing cloud (the open source Hive CI). David is a vocal advocate of open source software, and leads the BBC’s open source advocacy efforts.
 
