@@ -29,26 +29,24 @@ We are delighted to welcome Danese Cooper (VP of Special Initiatives at NearForm
 The Summit agenda is available [here](https://innersourcecommons.org/events/isc-spring-2020-agenda/) and you can start checking the great set of speakers [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
 
 
-
+**Danese Cooper**
 
 <img alt="Danese Cooper photo" src="/assets/img/Danese_Cooper.jpg" width="200" align="right"/>
-
-**Danese Cooper**
 
 Danese Cooper is vice president of special initiatives at NearForm, an Irish tech firm. Previously, she was head of open source software at PayPal, CTO of the Wikimedia Foundation, chief open source evangelist for Sun, and senior director of open source strategies for Intel. Danese was also the inaugural chairperson of the Node.js Foundation. She concentrates on creating healthy open source communities and has served on the boards of Drupal Association, the Open Source Initiative, the Open Source Hardware Association, and she’s advised Mozilla and the Apache Software Foundation. Danese also runs a successful open source consultancy that counts the Bill & Melinda Gates Foundation, the SETI Institute, Harris, and Numenta as clients. She’s been known to knit through meetings.
 
 
-<img alt="Nithya Ruff photo" src="/assets/img/isc_madrid_nithya_ruff.jpg" width="200" align="right"/>
-
 **Nithya Ruff**
+
+<img alt="Nithya Ruff photo" src="/assets/img/isc_madrid_nithya_ruff.jpg" width="200" align="right"/>
 
 Nithya A. Ruff is the Head of Comcast’s Open Source Program Office.  She is responsible for growing Open Source culture inside of Comcast and engagement with external communities. Prior to this, she started and grew Western Digital’s Open Source Strategy Office. She first glimpsed the power of open source while at SGI in the 90s and has been building bridges between companies and the open source community ever since. She’s also held leadership positions at Wind, Synopsys, Avaya, Tripwire and Eastman Kodak. At Wind, she led a team of product managers in managing a world class embedded Linux distribution and was a key member of the Yocto Project advocacy team on the board. Nithya has been director-at-large on the Linux Foundation Board for the last 3 years and was recently elected to be Chair of the Linux Foundation Board. 
 
 Nithya has been a passionate advocate and a speaker for opening doors to new people in Open Source for many years. She has also been a promoter of valuing diverse ways of contributing to open source such as in marketing, legal and community.   You can often find her on social media promoting dialogue on diversity and open source.
 
-<img alt="Mary Thengvall photo" src="/assets/img/isc_madrid_mary_thengvall.jpg" width="200" align="right"/>
-
 **Mary Thengvall**
+
+<img alt="Mary Thengvall photo" src="/assets/img/isc_madrid_mary_thengvall.jpg" width="200" align="right"/>
 
 Mary Thengvall is a connector of people at heart, both personally and professionally. She loves digging into the strategy of how to build and foster developer communities and has been doing so for over 10 years. After building community programs at O’Reilly Media, Chef Software, and SparkPost, she consulted for two years, helping companies build a strong and sustainable Developer Relations strategy.
 
@@ -59,16 +57,16 @@ Mary is founder and co-host of Community Pulse, a podcast for Developer Relation
 Mary is also a member of Prompt, a non-profit that encourages people to openly talk about mental illness in tech. She speaks at various conferences and events about building and fostering technical communities as well as how to prevent burnout in yourself and your team
 
 
-<img alt="Steph Egan photo" src="/assets/img/steph_egan.jpeg" width="200" align="right"/>
-
 **Steph Egan**
+
+<img alt="Steph Egan photo" src="/assets/img/steph_egan.jpeg" width="200" align="right"/>
 
 Steph is a Software Engineering Team Lead at the BBC. Her and her team are focused on helping other teams “Be better and move faster” and are building up a catalogue of tools which have been built from the ground up to be InnerSource.
 
 
-<img alt="Steph Egan photo" src="/assets/img/david_buckhurst.jpg" width="200" align="right"/>
-
 **David Buckhurst**
+
+<img alt="Steph Egan photo" src="/assets/img/david_buckhurst.jpg" width="200" align="right"/>
 
 David Buckhurst is an engineering manager at the BBC, looking after the teams that build the BBC’s TV applications (such as iPlayer and Sounds).  David has a long history of working with complex device-based challenges, from cutting-edge emulators such as Apple’s Rosetta, to the BBC’s device testing cloud (the open source Hive CI). David is a vocal advocate of open source software, and leads the BBC’s open source advocacy efforts.
 
