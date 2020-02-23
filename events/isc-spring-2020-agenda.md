@@ -472,7 +472,7 @@ This session offers an opportunity to participate in the conversation by asking 
    <tr>
         <td class="time">11:30 - 12:00</td>
         <td class="author"><a href="/events/isc-spring-2020-speakers#max_capraro">Max Capraro</a> <span class="affiliation"> (Friedrich-Alexander-University Erlangen-Nürnberg)</span><br>
-        <td class="author"><a href="/events/isc-spring-2020-speakers#johannes_tigges">Johannes Tigges</a> <span class="affiliation"> (InnerSource Commons)</span></td>
+        <a href="/events/isc-spring-2020-speakers#johannes_tigges">Johannes Tigges</a> <span class="affiliation"> (InnerSource Commons)</span></td>
         <td class="title"> Introduction to InnerSource Patterns
             <span onClick="toggleAbstract(‘capraro-1')" class="abstract-toggle">(<a id="capraro-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="capraro-1">
