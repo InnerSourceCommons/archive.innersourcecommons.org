@@ -24,9 +24,11 @@ The sponsoring prospectus is available [here](https://drive.google.com/file/d/1O
 
 ### Agenda and Speakers
 
-We are delighted to welcome Nithya Ruff (Head of Comcast’s Open Source Program Office) and Mary Thengvall (Director of Developer Relations at Camunda) as our first keynote speakers!
+We are delighted to welcome Danese Cooper (VP of Special Initiatives at NearForm), and Nithya Ruff (Head of Comcast’s Open Source Program Office) as our keynote speakers for the first day. Mary Thengvall (Director of Developer Relations at Camunda) as our keynote speaker during the second day. And Steph Egan (Software Engineering Team Lead) and David Buckhurst (Engineering Manager at BBC) as our keynote speakers during the third day!
 
-You can start checking the great set of speakers for the regular sessions [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
+The Summit agenda is available [here](https://innersourcecommons.org/events/isc-spring-2020-agenda/) and you can start checking the great set of speakers [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
+
+
 
 
 <img alt="Danese Cooper photo" src="/assets/img/Danese_Cooper.jpg" width="200" align="right"/>
@@ -57,6 +59,18 @@ Mary is founder and co-host of Community Pulse, a podcast for Developer Relation
 Mary is also a member of Prompt, a non-profit that encourages people to openly talk about mental illness in tech. She speaks at various conferences and events about building and fostering technical communities as well as how to prevent burnout in yourself and your team
 
 
+<img alt="Steph Egan photo" src="/assets/img/steph_egan.jpeg" width="200" align="right"/>
+
+**Steph Egan**
+
+Steph is a Software Engineering Team Lead at the BBC. Her and her team are focused on helping other teams “Be better and move faster” and are building up a catalogue of tools which have been built from the ground up to be InnerSource.
+
+
+<img alt="Steph Egan photo" src="/assets/img/david_buckhurst.jpg" width="200" align="right"/>
+
+**David Buckhurst**
+
+David Buckhurst is an engineering manager at the BBC, looking after the teams that build the BBC’s TV applications (such as iPlayer and Sounds).  David has a long history of working with complex device-based challenges, from cutting-edge emulators such as Apple’s Rosetta, to the BBC’s device testing cloud (the open source Hive CI). David is a vocal advocate of open source software, and leads the BBC’s open source advocacy efforts.
 
 
 ### What is the InnerSource Commons?
