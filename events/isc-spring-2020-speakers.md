@@ -82,7 +82,7 @@ Guilherme is a multipurpose developer at SAP, passionate about everything in sof
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Steph Egan" width="200" src="/assets/img/Steph_Egan.jpg"/>
+     <img alt="Steph Egan" width="200" src="/assets/img/steph_egan.jpeg"/>
     </div>
     <b>Steph Egan</b>
     <p>
