@@ -38,11 +38,11 @@ David Buckhurst is an engineering manager at the BBC, looking after the teams th
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Max Capraro" width="200" src="/assets/img/Max_Capraro.png"/>
+     <img alt="Maximilian Capraro" width="200" src="/assets/img/Max_Capraro.png"/>
     </div>
-    <b>Max Capraro</b>
+    <b>Maximilian Capraro</b>
     <p>
-
+        Maximilian Capraro is a researcher and doctoral candidate at the Open Source Research Group at Friedrich-Alexander-University Erlangen-Nürnberg. He worked on inner source in research projects with a variety of companies including Black Duck Software, Continental, and multiple Siemens business units. He developed the patch-flow measurement method (for measuring software development collaboration) and the first classification framework for inner source projects and programs. His research interests the quantification of software development collaboration, inner source governance including legal and taxation aspects, and many other things around inner source, open source, and software engineering.
   </p>
   </div>
 <div style="clear:both;"></div>
