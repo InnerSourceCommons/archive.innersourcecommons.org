@@ -59,14 +59,14 @@ Mary is founder and co-host of Community Pulse, a podcast for Developer Relation
 Mary is also a member of Prompt, a non-profit that encourages people to openly talk about mental illness in tech. She speaks at various conferences and events about building and fostering technical communities as well as how to prevent burnout in yourself and your team
 
 
-<img alt="Steph Egan photo" src="/assets/img/Steph_Egan.jpg" width="200" align="right"/>
+<img alt="Steph Egan photo" src="/assets/img/steph_egan.jpeg" width="200" align="right"/>
 
 **Steph Egan**
 
 Steph is a Software Engineering Team Lead at the BBC. Her and her team are focused on helping other teams “Be better and move faster” and are building up a catalogue of tools which have been built from the ground up to be InnerSource.
 
 
-<img alt="Steph Egan photo" src="/assets/img/David_Buckhurst.jpg" width="200" align="right"/>
+<img alt="Steph Egan photo" src="/assets/img/david_buckhurst.jpg" width="200" align="right"/>
 
 **David Buckhurst**
 
