@@ -108,6 +108,24 @@ Thomas Froment is the lead of Thales Inner Source Software Community – aiming 
 <div style="clear:both;"></div>
 
 
+<a name="wolfgang_gehring">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Wolfgang Gehring" width="200" src="/assets/img/Wolfgang_Gehring.jpg"/>
+    </div>
+    <b>Wolfgang Gehring</b>
+    <p>
+As Senior Scrum Master and Agile Coach, Dr. Wolfgang Gehring sees one of his main responsibilities to keep his teams happy and empower them to perform at their best. 
+
+Infected with the Inner Source virus about four years ago, Wolfgang turned into an ambassador for Inner and Open Source and has been working on enabling and spreading the ideas within Daimler AG and its IT-subsidiary Daimler TSS ever since. At the beginning of his journey to Inner Source, he would’ve never imagined the world of possibilities that opens up to those who open themselves. 
+
+In his free time, Wolfgang likes to engage in conversations about soccer and is a passionate scuba diver and traveler. He calls Albert Einstein’s birthplace city of Ulm his home in Southern Germany. 
+  </p>
+</div>
+<div style="clear:both;"></div>
+
+
 <a name="michael_graf">&nbsp;</a>
 <hr/>
 <div style="width:100%">

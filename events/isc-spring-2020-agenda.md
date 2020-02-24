@@ -175,7 +175,16 @@ This case study will start with the background of the problem. How did the BBC e
 
    <tr>
         <td class="time">16:00 - 16:30</td>
-        <td colspan="2">To be announced</td>
+        <td class="author">
+           <a href="/events/isc-spring-2020-speakers#wolfgang_gehring">Wolfgang Gehring</a> <span class="affiliation"> (Daimler TSS)</span></td>
+        <td class="title"> Come With Me If You Want To Inner Source
+            <span onClick="toggleAbstract('gehring-1')" class="abstract-toggle">(<a id="gehring-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="gehring-1">
+After your decision that Inner Source is the way to go for your company, you will inevitably face the next challenge: Just how do you get people from other departments involved in your project? How do you attract contributions from outside of your core team? How do you convey that your project is worth their time? In other words: How do you build a community who cares? 
+
+At Daimler TSS, we are in the process of learning our lessons. Let me share with you some of the ingredients of successful internal community building, illustrated with the example of two of our first cool Inner Source projects. And also, let me show you how a Terminator can help you to change your company’s future.
+            </div>
+        </td>
     </tr>
 
    <tr>
