@@ -68,14 +68,13 @@ Details appearing shortly
 
         <td class="title">InnerSource Panel Discussion: How to Fail in your InnerSource Journey
 Details appearing shortly
-        </div>
         </td>
     </tr>
     
    <tr>
         <td class="time">11:30 - 12:00</td>
         <td class="author">
-            <a href="/events/isc-spring-2020-speakers#michael_graf">Michael Graf</a> <span class="affiliation"> (SAP)</span> <br/>
+            <a href="/events/isc-spring-2020-speakers#michael_graf">Michael Graf</a> <span class="affiliation"> (SAP)</span> <br>
             <a href="/events/isc-spring-2020-speakers#guilherme_dellagustin">Guilherme Dellagustin</a> <span class="affiliation">(SAP)</span>
         </td>
         <td class="title">Growing an InnerSource culture at SAP
@@ -334,7 +333,7 @@ Georg Grütter examines the main differences between InnerSource and open source
    <tr>
         <td class="time">15:00 - 15:30</td>
         <td class="author">
-            <a href="/events/isc-spring-2020-speakers#thomas_froment">Thomas Froment</a> <span class="affiliation"> (Thales)</span> <br/>
+            <a href="/events/isc-spring-2020-speakers#thomas_froment">Thomas Froment</a> <span class="affiliation"> (Thales)</span> <br>
             <a href="/events/isc-spring-2020-speakers#sebastien_lejeune">Sébastien Lejeune</a> <span class="affiliation">(Thales)</span>
         </td>
         <td class="title"> Extending Open and Inner Source to Hardware and Data?
@@ -417,7 +416,7 @@ Project managers, InnerSource advocates, and of course, DevRels are welcome to t
   <tr>
         <td class="time">09:15 - 10:00</td>
         <td class="author">
-            <a href="/events/isc-spring-2020-speakers#steph_egan">Steph Egan</a><span class="affiliation"> (BBC) </span></br>
+            <a href="/events/isc-spring-2020-speakers#steph_egan">Steph Egan</a><span class="affiliation"> (BBC) </span> <br>
             <a href="/events/isc-spring-2020-speakers#david_buckhurst">David Buckhurst</a><span class="affiliation"> (BBC) </span></td>
 
         <td class="title"> Building a Collaborative Culture
@@ -458,12 +457,12 @@ In this presentation, we'll explore how to go about introducing an InnerSource w
         <td class="author">
             <a href="/events/isc-spring-2020-speakers#katrina_novakovic">Katrina Novakovic</a> <span class="affiliation">(Red Hat)</span></td>
         <td class="title"> Does your organisation need to change its culture to improve Inner Source adoption?
-            <span onClick="toggleAbstract('novakovic-2')" class="abstract-toggle">(<a id="novakovic-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="novakovic-2">
+            <span onClick="toggleAbstract('novakovic-1')" class="abstract-toggle">(<a id="novakovic-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="novakovic-1">
 In this Birds-Of-A-Feather style interactive session, we'll explore topics crucial to Inner Source culture, including:
-* whether your organisation's current cultural values and established beliefs are a good fit for the ways of working required for Inner Source; 
-* how to get more employees to collaborate on Inner Source projects that are not part of their specific responsibility; 
-* using perceived negative cultural traits such as competitiveness and control to your advantage.
+(a) whether your organisation's current cultural values and established beliefs are a good fit for the ways of working required for Inner Source;
+(b) how to get more employees to collaborate on Inner Source projects that are not part of their specific responsibility;
+(c) using perceived negative cultural traits such as competitiveness and control to your advantage.
 This session offers an opportunity to participate in the conversation by asking your own questions about Inner Source culture, sharing insights and experiences, hearing what's worked well for other organisations, and getting to know others in Inner Source. Dive in and join the conversation, or just sit back, observe, and listen.d
             </div>
         </td>
