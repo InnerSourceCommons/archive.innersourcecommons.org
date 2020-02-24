@@ -499,7 +499,7 @@ During the breakout groups following this talk, we are certain you can apply you
 
 
    <tr>
-        <td class="time">13:30 - 13:50</td>
+        <td class="time">13:50 - 15:30</td>
         <td colspan="2">Lunch (on your own)</td>
     </tr>
 
