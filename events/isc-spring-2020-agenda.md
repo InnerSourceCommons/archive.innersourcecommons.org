@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 'InnerSource Commons Spring Summit 2020 Agenda'
+title: 'InnerSource Commons Spring Summit 2020 Agenda, Madrid, Spain.'
 ---
 [[Return to the Spring Summit 2020 page](/events/isc-spring-2020/)]
 
