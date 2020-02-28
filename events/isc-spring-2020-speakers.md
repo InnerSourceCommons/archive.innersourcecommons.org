@@ -322,9 +322,9 @@ Dmitrii improves the processes associated with the life of the code during and a
     </div>
     <b>Johannes Tigges</b>
     <p>
-Johannes is a co-creator of the InnerSource Commons Learning Path and general friend of open collaboration approaches.
-He's got a background in computer and social science, worked as a software engineer, DevOps consultant as well as in technical training and as a lecturer.
-
+Johannes is a co-creator of the InnerSource Commons Learning Path and has worked on introducing InnerSource to HERE Technologies, a leading digital map and location company. Currently he offers consulting on topics around open collaboration, automation, and everything open. Aside of that he works as lecturer and delivers technical trainings. 
+He presents his work and thoughts at industry conferences like the FOSDEM or the InnerSource Commons Summit and is active in Open Source communities since a long time. With a background in both computer science and sociology of organization he has a unique perspective on software engineering organizations.
+In past roles, he has worked on introducing Continuous Integration and Delivery to large research institutions, in DevOps roles for very large cloud based platforms and developed software within the Telco domain.
   </p>
   </div>
 <div style="clear:both;"></div>
