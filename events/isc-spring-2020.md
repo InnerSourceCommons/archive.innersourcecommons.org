@@ -8,7 +8,7 @@ Welcome to the 10th InnerSource Commons taking place in Madrid, Spain!
 
 ### COVID-19 and InnerSource Commons current Status
 
-The InnerSource Commons Madrid Summit is taking place at this moment of time. We suggest you follow general recommendations by the WHO and once in Spain the Spanish government ones. We are updating the [COVID-19 related page](https://innersourcecommons.org/events/isc-spring-2020-coronavirus/) with the last news about the situation in Madrid.
+As of now, the InnerSource Commons Madrid Summit is taking place. We suggest you follow general recommendations by the WHO and - once in Spain - those of the Spanish government. We are constantly updating the [COVID-19 related page](https://innersourcecommons.org/events/isc-spring-2020-coronavirus/).
 
 ### Registration
 
@@ -135,5 +135,4 @@ All participants, vendors, and guests at InnerSource Commons events are required
 InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 
 Interested in getting involved? Email <summit@innersourcecommons.org> or join the conversation on the [#innersourcecommons](https://innersourcecommons-inviter.herokuapp.com/) slack channel!
-
 
