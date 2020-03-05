@@ -6,10 +6,9 @@ title: 'InnerSource Commons Spring Summit 2020'
 
 Welcome to the 10th InnerSource Commons taking place in Madrid, Spain!
 
-### Call For Presentations
-Use this form to submit your proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSfACO3DVCnbuLpGlJrFzhNNJmmweW2M_me-7nTEVAjy4Fa4LA/viewform?usp=sf_link) for the InnerSource Commons Spring Summit 2020
+### COVID-19 and InnerSource Commons current Status
 
-All proposals are due by midnight, January 10th, 2020. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
+As of now, the InnerSource Commons Madrid Summit is taking place. We suggest you follow general recommendations by the WHO and - once in Spain - those of the Spanish government. We are constantly updating the [COVID-19 related page](https://innersourcecommons.org/events/isc-spring-2020-coronavirus/).
 
 ### Registration
 
@@ -17,18 +16,11 @@ All proposals are due by midnight, January 10th, 2020. All presentations at the 
 
 Please consider registering early as this helps us to organize and have everyone's needs in mind.
 
-### Call For Sponsorship
-We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Daniel Izquierdo for more details (dizquierdo@bitergia.com).
-
-The sponsoring prospectus is available [here](https://drive.google.com/file/d/1O-tfwEc4h_JBCnYCj4COl6h8IU1MketN/view?usp=sharing).
-
 ### Agenda and Speakers
 
 We are delighted to welcome Danese Cooper (VP of Special Initiatives at NearForm), and Nithya Ruff (Head of Comcast’s Open Source Program Office) as our keynote speakers for the first day. Mary Thengvall (Director of Developer Relations at Camunda) as our keynote speaker during the second day. And Steph Egan (Software Engineering Team Lead) and David Buckhurst (Engineering Manager at BBC) as our keynote speakers during the third day!
 
 The Summit agenda is available [here](https://innersourcecommons.org/events/isc-spring-2020-agenda/) and you can start checking the great set of speakers [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
-
-
 
 
 <img alt="Danese Cooper photo" src="/assets/img/Danese_Cooper.jpg" width="200" align="right"/>
@@ -122,6 +114,18 @@ Spanish *hostales* are family-led hotels, not to confuse with hostels. They offe
 
 All of them are tidy, clean, have wifi, air conditioning, and each room has its own bathroom (but double check).
 
+### Call For Sponsorship
+We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Daniel Izquierdo for more details (dizquierdo@bitergia.com).
+
+The sponsoring prospectus is available [here](https://drive.google.com/file/d/1O-tfwEc4h_JBCnYCj4COl6h8IU1MketN/view?usp=sharing).
+
+
+### Call For Presentations
+
+Call for presentations is already closed, thanks for your interest.
+
+All proposals are due by midnight, January 10th, 2020. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
+
 
 
 ### [Code of Conduct](/events/conduct/)
@@ -131,5 +135,4 @@ All participants, vendors, and guests at InnerSource Commons events are required
 InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 
 Interested in getting involved? Email <summit@innersourcecommons.org> or join the conversation on the [#innersourcecommons](https://innersourcecommons-inviter.herokuapp.com/) slack channel!
-
 
