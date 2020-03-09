@@ -10,6 +10,8 @@ title: 'Upcoming InnerSource Events'
 ## Prior Events
 * [Commons Summit 9 - Fall 2019](https://www.innersource.events/)
    - InnerSource Commons Summit 9 - Baltimore, MD, USA - September 17-19
+* [InnerSource Day at OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/full/innersource-day)
+   - Portland, OR, USA - July 16
 * [Commons Summit 8 - Spring 2019](isc-spring-2019)
    - InnerSource Commons Summit 8 - Galway, Ireland - April 9-11
 * [Commons Summit 7 - Fall 2018](isc-fall-2018)
@@ -17,7 +19,7 @@ title: 'Upcoming InnerSource Events'
 * [Commons Summit 6 - Spring 2018](isc-spring-2018)
     - InnerSource Commons Summit 6 - Germany - May 16-18
 * [Commons Summit 5 - Fall 2017](isc-fall-2017)
-    - InnerSource Commons Summit 5 - Naperville, IL, USA September 27-29
+    - InnerSource Commons Summit 5 - Naperville, IL, USA - September 27-29
 * [2017-06-01 InnerSource Patterns Webinar](http://www.oreilly.com/pub/e/3884)
     - <em><a href="http://www.oreilly.com/pub/e/3884">Implementing InnerSource Patterns: Solve Organizational Problems by Leveraging Community Contributions</a></em>, Thursday, June 1, 2017, 9 AM PDT/11 AM CDT/12 PM EDT/5pm BST/9:30pm India
     - Presented by: Tim Yao, Robert Hanmer, Nick Yeates, Padma Sudarsan, Georg Gruetter, Erin Bank, Daniel Izquierdo, Klaas-Jan Stol
