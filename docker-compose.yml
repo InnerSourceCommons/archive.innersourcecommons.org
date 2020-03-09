@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  jekyll:
+    build: .
+    image: innersource-website-devenv
+    ports:
+    - "4000:4000" # webpage
+    - "35729:35729" # live reload
+    volumes:
+    - ./:/source
