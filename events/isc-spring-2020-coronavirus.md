@@ -9,7 +9,7 @@ title: 'InnerSource Commons Spring Summit 2020 and COVID-19'
 
 The InnerSource Commons Spring Summit is taking place on the 14th-16th April 2020, Madrid, Spain.
 
-For planning and conducting the summit, we are taking into account the SGHM and WHO general recommendations. Specifically, we use a [list of recommendations] (https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Recomendaciones_regreso_area_riesgo.pdf) compiled by the Spanish government based on a map of [areas of risk] (https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/areas.htm) (marked as red, yellow, and green).
+For planning and conducting the summit, we are taking into account the SGHM and WHO general recommendations. Specifically, we use a [list of recommendations](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Recomendaciones_regreso_area_riesgo.pdf) compiled by the Spanish government based on a map of [areas of risk](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/areas.htm) (marked as red, yellow, and green).
 
 *For attendees* there is a specific [notification](https://www.mscbs.gob.es/profesionales/saludPublica/sanidadExterior/salud/pdf/CARTEL_INGLES_CORONAVIRUS_COVID_19_02.pdf) (English) for travelers arriving from affected areas.
 
