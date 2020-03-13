@@ -10,7 +10,7 @@ title: 'Upcoming InnerSource Events'
 ## Prior Events
 * [Commons Summit 9 - Fall 2019](https://www.innersource.events/)
    - InnerSource Commons Summit 9 - Baltimore, MD, USA - September 17-19
-* [InnerSource Day at OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/full/innersource-day)
+* [InnerSource Day at OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/full/innersource-day) (not organized by the InnerSource Commons)
    - Portland, OR, USA - July 16
 * [Commons Summit 8 - Spring 2019](isc-spring-2019)
    - InnerSource Commons Summit 8 - Galway, Ireland - April 9-11
