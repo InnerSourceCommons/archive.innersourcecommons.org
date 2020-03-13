@@ -1,0 +1,13 @@
+version: "3.7"
+services:
+  jekyll:
+    build: .
+    image: innersource-website-devenv
+    ports:
+    - "4000:4000" # webpage
+    - "35729:35729" # live reload
+    volumes:
+    - ./:/source
+    # --force_polling is necessary as the sharing of the filesystem from host to the toolbox vm does not seem to trigger the regular rebuild on changes
+    # _config_dev_toolbox.yml - see the comments on the file
+    command: jekyll serve --host 0.0.0.0 --force_polling --livereload --config /source/_config.yml,/source/_config_dev.yml,/source/_config_dev_toolbox.yml -s /source

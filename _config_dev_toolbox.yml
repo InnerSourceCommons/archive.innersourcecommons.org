@@ -1,0 +1,8 @@
+# This file is needed for setting up the development environment
+# with docker toolbox.
+# It reverts the absolute paths configured in _config_dev.yml
+# Without this, assets and links build with site.url would fail to
+# load or open.
+
+url: ''
+urlimg: 'images/'
