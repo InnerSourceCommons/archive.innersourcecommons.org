@@ -5,7 +5,7 @@ title: 'Upcoming InnerSource Events'
 
 ## Upcoming Events
 * [Commons Summit 10 - Spring 2020](isc-spring-2020)
-   - InnerSource Commons Summit 10 - Madrid, Spain - April 14-16
+   - InnerSource Commons Summit 10 - Virtual, The Internet - April 14-16 **Details to be published here!**
 
 ## Prior Events
 * [Commons Summit 9 - Fall 2019](https://jacobgreen197.wixsite.com/mysite-1)

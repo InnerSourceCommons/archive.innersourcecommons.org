@@ -4,11 +4,29 @@ title: 'InnerSource Commons Spring Summit 2020'
 ---
 ### 14th to 16th April 2020 in Madrid, Spain
 
-Welcome to the 10th InnerSource Commons taking place in Madrid, Spain!
+Welcome to the 10th InnerSource Commons taking place in *your living room*! ;) We're going virtual! See details below and watch this space for updates!
 
 ### COVID-19 and InnerSource Commons current Status
 
-As of now, the InnerSource Commons Madrid Summit is taking place. We suggest you follow general recommendations by the WHO and - once in Spain - those of the Spanish government. We are constantly updating the [COVID-19 related page](https://innersourcecommons.org/events/isc-spring-2020-coronavirus/).
+As of now, the InnerSource Commons Madrid Summit is taking place.
+However, not in Madrid, Spain.
+
+First of all, apologies for the delayed update.
+
+The current situation as you all know has quickly evolved and we all need to be socially responsible.
+Our first priority is the safety of everyone and we have decided to celebrate the April meeting as a *virtual* meeting where we all can keep collaborating, and learning from each other.
+
+With this new way of proceeding in mind, we would like to know from your side, if you're willing to participate at the InnerSource Commons in a virtual way.
+
+We are still discussing about the format, but we can promise i*we'll do our best to foster networking, collaboration*, and explore new ways to run a conference as this one, full of great discussions and insights.
+
+Some questions from our side:
+* If you are a speaker, would you participate in this new format? 
+* As you're an attendee, would you be willing to attend online talks and open discussions?
+
+There are still a lot of open questions we're trying to resolve as soon as possible. These go from the infrastructure to use, how to record presentations (in the case we are), if speakers will present live or recorded.
+
+Finally, if you have already registered and paid for the ticket entry, *we'll do a refund as soon as the provider allows us* to proceed.
 
 ### Registration
 
