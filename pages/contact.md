@@ -27,7 +27,7 @@ Add yourself via [pull request](https://github.com/InnerSourceCommons/innersourc
 | Johannes Nicolai | [GitHub](https://github.com) | Principal Solutions Engineer | Germany | Y | Y |
 | Russ Rutledge | [Nike](https://www.nike.com) | Director of Community and Inner Source | United States | Y | Y |
 | Klaas-Jan Stol | [Lero](https://www.lero.ie) | Lecturer | Ireland | Y | Y |
-| Johannes Tigges | [7Learnings](https://www.7learnings.com/) | Principal Engineer | Germany | - | Y |
+| Johannes Tigges | [Lenucksi.eu](https://www.lenucksi.eu/) | Collaboration and Automation Consulting | Germany | Y | Y |
 | Ben Van't Ende | [Age of Peers](https://ageofpeers.com/) | Collaboration Strategist | Netherlands | - | Y |
 | Kristof Van Tomme | [Pronovix](https://pronovix.com/) | CEO | Belgium | Y | Y |
 | Jerry Tan | [Baidu](https://www.baidu.com/) | Open Source Architect | China | Y | Y |

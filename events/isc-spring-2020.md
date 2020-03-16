@@ -4,12 +4,29 @@ title: 'InnerSource Commons Spring Summit 2020'
 ---
 ### 14th to 16th April 2020 in Madrid, Spain
 
-Welcome to the 10th InnerSource Commons taking place in Madrid, Spain!
+Welcome to the 10th InnerSource Commons taking place in *your living room*! ;) We're going virtual! See details below and watch this space for updates!
 
-### Call For Presentations
-Use this form to submit your proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSfACO3DVCnbuLpGlJrFzhNNJmmweW2M_me-7nTEVAjy4Fa4LA/viewform?usp=sf_link) for the InnerSource Commons Spring Summit 2020
+### COVID-19 and InnerSource Commons current Status
 
-All proposals are due by midnight, January 10th, 2020. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
+As of now, the InnerSource Commons Madrid Summit is taking place.
+However, not in Madrid, Spain.
+
+First of all, apologies for the delayed update.
+
+The current situation as you all know has quickly evolved and we all need to be socially responsible.
+Our first priority is the safety of everyone and we have decided to celebrate the April meeting as a *virtual* meeting where we all can keep collaborating, and learning from each other.
+
+With this new way of proceeding in mind, we would like to know from your side, if you're willing to participate at the InnerSource Commons in a virtual way.
+
+We are still discussing about the format, but we can promise i*we'll do our best to foster networking, collaboration*, and explore new ways to run a conference as this one, full of great discussions and insights.
+
+Some questions from our side:
+* If you are a speaker, would you participate in this new format? 
+* As you're an attendee, would you be willing to attend online talks and open discussions?
+
+There are still a lot of open questions we're trying to resolve as soon as possible. These go from the infrastructure to use, how to record presentations (in the case we are), if speakers will present live or recorded.
+
+Finally, if you have already registered and paid for the ticket entry, *we'll do a refund as soon as the provider allows us* to proceed.
 
 ### Registration
 
@@ -17,16 +34,11 @@ All proposals are due by midnight, January 10th, 2020. All presentations at the 
 
 Please consider registering early as this helps us to organize and have everyone's needs in mind.
 
-### Call For Sponsorship
-We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Daniel Izquierdo for more details (dizquierdo@bitergia.com).
-
-The sponsoring prospectus is available [here](https://drive.google.com/file/d/1O-tfwEc4h_JBCnYCj4COl6h8IU1MketN/view?usp=sharing).
-
 ### Agenda and Speakers
 
-We are delighted to welcome Nithya Ruff (Head of Comcast’s Open Source Program Office) and Mary Thengvall (Director of Developer Relations at Camunda) as our first keynote speakers!
+We are delighted to welcome Danese Cooper (VP of Special Initiatives at NearForm), and Nithya Ruff (Head of Comcast’s Open Source Program Office) as our keynote speakers for the first day. Mary Thengvall (Director of Developer Relations at Camunda) as our keynote speaker during the second day. And Steph Egan (Software Engineering Team Lead) and David Buckhurst (Engineering Manager at BBC) as our keynote speakers during the third day!
 
-You can start checking the great set of speakers for the regular sessions [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
+The Summit agenda is available [here](https://innersourcecommons.org/events/isc-spring-2020-agenda/) and you can start checking the great set of speakers [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
 
 
 <img alt="Danese Cooper photo" src="/assets/img/Danese_Cooper.jpg" width="200" align="right"/>
@@ -57,6 +69,18 @@ Mary is founder and co-host of Community Pulse, a podcast for Developer Relation
 Mary is also a member of Prompt, a non-profit that encourages people to openly talk about mental illness in tech. She speaks at various conferences and events about building and fostering technical communities as well as how to prevent burnout in yourself and your team
 
 
+<img alt="Steph Egan photo" src="/assets/img/steph_egan.jpeg" width="200" align="right"/>
+
+**Steph Egan**
+
+Steph is a Software Engineering Team Lead at the BBC. Her and her team are focused on helping other teams “Be better and move faster” and are building up a catalogue of tools which have been built from the ground up to be InnerSource.
+
+
+**David Buckhurst**
+
+<img alt="Steph Egan photo" src="/assets/img/david_buckhurst.jpg" width="200" align="right"/>
+
+David Buckhurst is an engineering manager at the BBC, looking after the teams that build the BBC’s TV applications (such as iPlayer and Sounds).  David has a long history of working with complex device-based challenges, from cutting-edge emulators such as Apple’s Rosetta, to the BBC’s device testing cloud (the open source Hive CI). David is a vocal advocate of open source software, and leads the BBC’s open source advocacy efforts.
 
 
 ### What is the InnerSource Commons?
@@ -108,6 +132,18 @@ Spanish *hostales* are family-led hotels, not to confuse with hostels. They offe
 
 All of them are tidy, clean, have wifi, air conditioning, and each room has its own bathroom (but double check).
 
+### Call For Sponsorship
+We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Daniel Izquierdo for more details (dizquierdo@bitergia.com).
+
+The sponsoring prospectus is available [here](https://drive.google.com/file/d/1O-tfwEc4h_JBCnYCj4COl6h8IU1MketN/view?usp=sharing).
+
+
+### Call For Presentations
+
+Call for presentations is already closed, thanks for your interest.
+
+All proposals are due by midnight, January 10th, 2020. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
+
 
 
 ### [Code of Conduct](/events/conduct/)
@@ -117,5 +153,4 @@ All participants, vendors, and guests at InnerSource Commons events are required
 InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 
 Interested in getting involved? Email <summit@innersourcecommons.org> or join the conversation on the [#innersourcecommons](https://innersourcecommons-inviter.herokuapp.com/) slack channel!
-
 
