@@ -21,11 +21,11 @@
 {% endcapture %}<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ title }}</title>
-	<link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/styles_feeling_responsive.css">
-    <link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="{{ '/assets/css/styles_feeling_responsive.css' | relative_url }}">
+	<link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}">
 
-	<script src="{{ url }}/assets/js/modernizr.min.js"></script>
-    <script src="{{ url }}/assets/js/events.js"></script>
+	<script src="{{ '/assets/js/modernizr.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/events.js' | relative_url }}"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -71,12 +71,12 @@
 	{% if page.image.title %}<meta name="twitter:image" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
 	{% endif %}
 
-	<link type="text/plain" rel="author" href="{{ url}}/humans.txt">
+	<link type="text/plain" rel="author" href="{{ '/humans.txt' | relative_url }}">
 
 	{% if page.mediaplayer == true %}
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-		<script src="{{ url }}/assets/mediaelement_js/mediaelement-and-player.min.js"></script>
-		<link rel="stylesheet" href="{{ url }}/assets/mediaelement_js/mediaelementplayer.min.css">
+		<script src="{{ '/assets/mediaelement_js/mediaelement-and-player.min.js' | relative_url }}"></script>
+		<link rel="stylesheet" href="{{ '/assets/mediaelement_js/mediaelementplayer.min.css' | relative_url }}">
 	{% endif %}
 
 	{% include _favicon.html %}
