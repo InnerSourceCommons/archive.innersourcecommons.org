@@ -9,12 +9,12 @@ Their production was kindly sponsored by PayPal. The Learning Path section intro
 
 Once finished, the first edition of the InnerSource Learning Path will cover the following sections:
 
-1. Introduction
-  * [Introduction] 
-  * [Introduction on O'Reilly Safari] 
-1. [Product Owner on O'Reilly Safari]
-1. [Trusted Committer on O'Reilly Safari]
-1. [Contributor on O'Reilly Safari]
+| O'Reilly | ISC |
+| ------- | ---- |
+| [Introduction on O'Reilly Safari] | [Introduction on ISC][Introduction]  |
+| [Product Owner on O'Reilly Safari] | |
+| [Trusted Committer on O'Reilly Safari] | |
+| [Contributor on O'Reilly Safari] |
 
 The videos are becoming available on YouTube part by part.
 See our channel here: [YouTubeChannel]
