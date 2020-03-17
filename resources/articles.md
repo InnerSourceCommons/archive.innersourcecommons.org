@@ -24,7 +24,8 @@ Below is a historical list of various blog posts, talks, articles, and presentat
 2015:
 
 * [Sep 10, 2015] [InnerSource: a practical application of open source techniques within organizational boundaries](http://www.openhealthnews.com/articles/2015/innersource-practical-application-open-source-techniques-within-organizational-boundar)
-* [Aug 27, 2015] [Why Your Organization Should Consider InnerSource](http://developers.ironsrc.com/why-your-organization-should-consider-innersource/)
+* [Aug 27, 2015] 
+Issac Goldstand, [Why Your Organization Should Consider InnerSource](https://web.archive.org/web/20151109074225/http://developers.ironsrc.com:80/why-your-organization-should-consider-innersource/)
 * [Aug 14, 2015] [Learn why InnerSourced projects pay off for PayPal](https://tech.ebu.ch/news/2015/08/learn-why-innersourcing-projects)
 * [Aug 5, 2015] [How InnerSource Will Change Coding, with PayPal's Danese Cooper &amp; Arnold Goldberg](https://www.youtube.com/watch?v=GwsduTCiWIU)
 * [Jul 28, 2015] [OSCON 2015 – InnerSource, benefits of open source thinking to your company](https://blogs.perficient.com/integrate/2015/07/28/oscon-2015-innersource-benefits-of-open-source-thinking-to-your-company/)
@@ -33,13 +34,13 @@ Below is a historical list of various blog posts, talks, articles, and presentat
 
 2014:
 
-* [Oct 29, 2014] Libby Clark, [Rent the Runway: Open Source Practices Improve Culture, Developer Retention, Interview with Camille Fournier](https://www.linux.com/news/featured-blogs/200-libby-clark/793416-rent-the-runway-open-source-practices-improve-culture-developer-retention)
-* [Oct 7, 2014] Libby Clark, [Enterprise Adoption of Open Source Practices is On the Rise](http://www.linuxfoundation.org/news-media/blogs/browse/2014/10/enterprise-adoption-open-source-practices-rise)
+* [Oct 29, 2014] Libby Clark, [Rent the Runway: Open Source Practices Improve Culture, Developer Retention, Interview with Camille Fournier](https://web.archive.org/web/20160304091930/https://www.linux.com/news/featured-blogs/200-libby-clark/793416-rent-the-runway-open-source-practices-improve-culture-developer-retention)
+* [Oct 7, 2014] Libby Clark, [Enterprise Adoption of Open Source Practices is On the Rise](https://web.archive.org/web/20190512184711/http://www.linuxfoundation.org/news-media/blogs/browse/2014/10/enterprise-adoption-open-source-practices-rise)
 * [Oct 1, 2014] [Open source goes corporate at Samsung, Interview with Guy Martin](https://opensource.com/business/14/10/interview-Guy-Martin-Samsung)
 * [Sep 5, 2014] Sytse Sijbrandij, [Innersourcing, using the open source workflow to improve collaboration within an organization](https://about.gitlab.com/2014/09/05/innersourcing-using-the-open-source-workflow-to-improve-collaboration-within-an-organization/)
 * [Jul 27, 2014] John Mathon, [Inner-Sourcing](https://johnmathon.wordpress.com/tag/inner-sourcing/)
 * [May 29, 2014] Dave Jones, [The best thing you can do to help people share their stuff](http://www.makefantastic.co.uk/things/may-29th-2014)
-* [Mar 27, 2014] Guy Martin and Phil Odence, [Inner-Source: The Lesson of Linux for Enterprises](http://events.linuxfoundation.org/sites/events/files/slides/Innersource%20Collab%20MartinOdence%203.27.14%20final.pptx_.pdf)
+* [Mar 27, 2014] Guy Martin and Phil Odence, [Inner-Source: The Lesson of Linux for Enterprises](https://web.archive.org/web/20160307212346/http://events.linuxfoundation.org/sites/events/files/slides/Innersource%20Collab%20MartinOdence%203.27.14%20final.pptx_.pdf)
 * [Mar 27, 2014] Libby Clark, [How Samsung is Bringing Open Source Culture Inside the Firewall](http://www.linux.com/news/featured-blogs/200-libby-clark/768164-how-samsung-is-bringing-open-source-culture-inside-the-firewall)
 * [Jan 20, 2014] Dave Gruber, [Five ways to bring a more social, open development environment to your company](http://opensource.com/business/14/1/five-ways-social-open-development-environment)
 
@@ -110,18 +111,18 @@ Below is a historical list of various blog posts, talks, articles, and presentat
  * [Sep 26, 2005] Danny Sabbah, [The Open Internet – Open Source, Open Standards and the Effects on Collaborative Software Development - PPT](http://www.hpts.ws/papers/2005/HPTS_Presentations/Day%201/HPTS%20Danny%20Sabbah%202005.ppt)
  * [Jun 13, 2005] Betanews, [IBM Turns to Open Source Development](http://betanews.com/2005/06/13/ibm-turns-to-open-source-development/)
  * [Apr 4, 2005] Darry K Taft, [IBM Adopts Open Development Internally](http://www.eweek.com/c/a/Linux-and-Open-Source/IBM-Adopts-Open-Development-Internally/)
- * [Jan/Feb 2005] Brian Behlendorf, [Applying Open Source Practices to Corporate Software Development](http://stephesblog.blogs.com/papers/osdl-oss-corp.pdf)
+ * [Jan/Feb 2005] Brian Behlendorf, [Applying Open Source Practices to Corporate Software Development](https://stephesblog.blogs.com/papers/osdl-oss-corp.pdf)
 
 
 2004:
 
  * [Dec 13, 2004] Alan Brown, [The Impact of Open Source Practices on Service-oriented Solutions](https://www.ibm.com/developerworks/community/forums/html/topic?id=77777777-0000-0000-0000-000006098779)
  ** LINK BROKE, possible replacement: [Reusing Open-Source Software and Practices: The Impact of Open-Source on Commercial Vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.5154&rep=rep1&type=pdf)
- * [Nov 22, 2004] MCADCafe, [The Growing Influence Of Open Source Methods For Developing Software](http://www10.mcadcafe.com/nbc/articles/view_article.php?section=Magazine&articleid=206781)
- * [Jul 12, 2004] John K Waters, [Open-source practices moving into enterprise development](http://adtmag.com/articles/2004/12/07/opensource-practices-moving-into-enterprise-development.aspx)
- * [May 20, 2004] Liz Barnett, [Applying Open Source Processes In Corporate Development Organizations - PDF](http://www.open.collab.net/files/documents/86/28/Forrester_Applying_Open_Source_Processes.pdf)
+ * [Nov 22, 2004] MCADCafe, [The Growing Influence Of Open Source Methods For Developing Software](https://www10.mcadcafe.com/nbc/articles/view_article.php?section=Magazine&articleid=206781)
+ * [Jul 12, 2004] John K Waters, [Open-source practices moving into enterprise development](https://adtmag.com/articles/2004/12/07/opensource-practices-moving-into-enterprise-development.aspx)
+ * [May 20, 2004] Liz Barnett, [Applying Open Source Processes In Corporate Development Organizations - PDF](https://www.open.collab.net/files/documents/86/28/Forrester_Applying_Open_Source_Processes.pdf)
 
 2000:
 
- * [Dec 01, 2000] Scott W Ambler, [Reuse Through Internal Open Source](http://www.drdobbs.com/reuse-through-internal-open-source/184414685)
- * [Dec 2000] Tim O’Reilly, [Open Source and OpenGL, response to Matt Feinstein](http://archive.oreilly.com/pub/a/oreilly/ask_tim/2000/opengl_1200.html)
+ * [Dec 01, 2000] Scott W Ambler, [Reuse Through Internal Open Source](https://www.drdobbs.com/reuse-through-internal-open-source/184414685)
+ * [Dec 2000] Tim O’Reilly, [Open Source and OpenGL, response to Matt Feinstein](https://web.archive.org/web/20180411080939/http://archive.oreilly.com/pub/a/oreilly/ask_tim/2000/opengl_1200.html)
