@@ -4,8 +4,6 @@ show_meta: false
 title: 'Learning Path - Introduction'
 ---
 
-## Videos currently under review. They'll be here soon.
-
 ### 01 - Introduction
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tP6K5oF2IxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
