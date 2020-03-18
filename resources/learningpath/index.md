@@ -11,7 +11,7 @@ Once finished, the first edition of the InnerSource Learning Path will cover the
 
 | O'Reilly | ISC |
 | ------- | ---- |
-| [Introuction][Introduction on O'Reilly Safari] | [Introduction]  |
+| [Introduction][Introduction on O'Reilly Safari] | [Introduction]  |
 | [Product Owner][Product Owner on O'Reilly Safari] | |
 | [Trusted Committer][Trusted Committer on O'Reilly Safari] | |
 | [Contributor][Contributor on O'Reilly Safari] |
