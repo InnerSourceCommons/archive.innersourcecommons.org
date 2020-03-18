@@ -11,10 +11,10 @@ Once finished, the first edition of the InnerSource Learning Path will cover the
 
 | O'Reilly | ISC |
 | ------- | ---- |
-| [Introduction on O'Reilly Safari] | [Introduction on ISC][Introduction]  |
-| [Product Owner on O'Reilly Safari] | |
-| [Trusted Committer on O'Reilly Safari] | |
-| [Contributor on O'Reilly Safari] |
+| [Introuction][Introduction on O'Reilly Safari] | [Introduction]  |
+| [Product Owner][Product Owner on O'Reilly Safari] | |
+| [Trusted Committer][Trusted Committer on O'Reilly Safari] | |
+| [Contributor][Contributor on O'Reilly Safari] |
 
 The videos are becoming available on YouTube part by part.
 See our channel here: [YouTubeChannel]
