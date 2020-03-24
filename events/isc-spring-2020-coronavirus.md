@@ -8,7 +8,6 @@ title: 'InnerSource Commons Spring Summit 2020 and COVID-19'
 This event has moved to a virtual one. Everyone is welcome to join. More information at the [InnerSource Commons Madrid Summit site](http://innersourcecommons.org/events/isc-spring-2020/).
 
 
-**Update (March 5, 2020)**. The InnerSource Commons takes very seriously the current coronavirus situation and the safety of all of the participants. We are following recommended guidelines from the Spanish Government Health Ministry (SGHM) and the World Health Organization (WHO).
 
 
 For planning and conducting the summit, we are taking into account the SGHM and WHO general recommendations. Specifically, we use a [list of recommendations](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Recomendaciones_regreso_area_riesgo.pdf) compiled by the Spanish government based on a map of [areas of risk](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/areas.htm) (marked as red, yellow, and green).
