@@ -25,7 +25,7 @@ Our first priority is the safety of everyone and we have decided to celebrate th
 If you have already registered and paid for the ticket entry, you have several options:
 * We do a refunding as soon as we get notified by you.
 * You are still interested in participating. For this, we would like to ask you to support the InnerSource Commons. We ask for a small fee and you will get a t-shirt and some stickers.
-  * Then you can decide whether you want to keep the fee you already paid, thanks a lot.
+  *If you already bought a ticket with the higher fee, you can donate the difference of ~20EUR to the InnerSource Commons. In this case: Thank you!
   *If you already bought a ticket with the higher fee, you can also get a partial refund of the difference.
 
 
