@@ -26,7 +26,7 @@ If you have already registered and paid for the ticket entry, you have several o
 * We do a refunding as soon as we get notified by you.
 * You are still interested in participating. For this, we would like to ask you to support the InnerSource Commons. We ask for a small fee and you will get a t-shirt and some stickers.
   * Then you can decide whether you want to keep the fee you already paid, thanks a lot.
-  * Or if you prefer to have a partial refunding down to this new fee, we will proceed accordingly.
+  *If you already bought a ticket with the higher fee, you can also get a partial refund of the difference.
 
 
 ### Registration
@@ -152,4 +152,3 @@ All participants, vendors, and guests at InnerSource Commons events are required
 InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 
 Interested in getting involved? Email <summit@innersourcecommons.org> or join the conversation on the [#innersourcecommons](https://innersourcecommons-inviter.herokuapp.com/) slack channel!
-
