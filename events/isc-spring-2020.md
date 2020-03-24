@@ -2,37 +2,36 @@
 layout: page
 title: 'InnerSource Commons Spring Summit 2020'
 ---
-### 14th to 16th April 2020 in Madrid, Spain
+### 14th to 15th April 2020, online
 
 Welcome to the 10th InnerSource Commons taking place in *your living room*! ;) We're going virtual! See details below and watch this space for updates!
+
+We are all exploring new ways to get together and keep advancing in the body of knowledge of InnerSource. Nowadays and in this industry, it is more and more important to successfully work remotely and across different geographical areas. This online event has this in mind and we hope to learn from each other, what it is working and what it is not.
+
+These two days will be a three hours slot taking place from 4 pm CET till 7 pm Central European Time, / 9 am and noon Central Time / 7 am and 10 am Pacific Time / 10 pm and 1 am China Standard Time.
+
+The day will be split as a sandwich, where talks will be the bread and discussions the _yummi yummi_ part. We are expecting to have two keynotes per day (up to 25 minutes each), and four lightning talks (up to 15 minutes each). These will be initially pre-recorded and discussions will take place in the InnerSource Commons Slack. Right in the middle we will have a break and two breakout sessions with live interactions.
+
+We're planning to have a contest as well as icebreaker during the first moments of this, do not miss this! 
 
 ### COVID-19 and InnerSource Commons current Status
 
 As of now, the InnerSource Commons Madrid Summit is taking place.
 However, not in Madrid, Spain.
 
-First of all, apologies for the delayed update.
-
 The current situation as you all know has quickly evolved and we all need to be socially responsible.
 Our first priority is the safety of everyone and we have decided to celebrate the April meeting as a *virtual* meeting where we all can keep collaborating, and learning from each other.
 
-With this new way of proceeding in mind, we would like to know from your side, if you're willing to participate at the InnerSource Commons in a virtual way.
+If you have already registered and paid for the ticket entry, you have several options:
+* We do a refunding as soon as we get notified by you.
+* You are still interested in participating. For this, we would like to ask you to support the InnerSource Commons. We ask for a small fee and you will get a t-shirt and some stickers.
+  * Then you can decide whether you want to keep the fee you already paid, thanks a lot.
+  * Or if you prefer to have a partial refunding down to this new fee, we will proceed accordingly.
 
-We are still discussing about the format, but we can promise i*we'll do our best to foster networking, collaboration*, and explore new ways to run a conference as this one, full of great discussions and insights.
-
-Some questions from our side:
-* If you are a speaker, would you participate in this new format? 
-* As you're an attendee, would you be willing to attend online talks and open discussions?
-
-There are still a lot of open questions we're trying to resolve as soon as possible. These go from the infrastructure to use, how to record presentations (in the case we are), if speakers will present live or recorded.
-
-Finally, if you have already registered and paid for the ticket entry, *we'll do a refund as soon as the provider allows us* to proceed.
 
 ### Registration
 
-[Registration](https://www.brownpapertickets.com/event/4450343) is already open! We are using Brown Paper Tickets for this process. Please notice that **taxes** will be added on top of the sales process.
-
-Please consider registering early as this helps us to organize and have everyone's needs in mind.
+[Registration](https://www.brownpapertickets.com/event/4450343) is already open! We are using Brown Paper Tickets for this process. Please notice that **taxes** will be added on top of the sales process. There is a fix rate of 30€ that includes taxes, and a t-shirt and stickers that we will send as soon as possible.
 
 ### Agenda and Speakers
 

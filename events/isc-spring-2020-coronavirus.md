@@ -5,6 +5,9 @@ title: 'InnerSource Commons Spring Summit 2020 and COVID-19'
 
 ### COVID-19 and InnerSource Commons Events
 
+This event has moved to a virtual one. Everyone is welcome to join. More information at the [InnerSource Commons Madrid Summit site](http://innersourcecommons.org/events/isc-spring-2020/).
+
+
 **Update (March 5, 2020)**. The InnerSource Commons takes very seriously the current coronavirus situation and the safety of all of the participants. We are following recommended guidelines from the Spanish Government Health Ministry (SGHM) and the World Health Organization (WHO).
 
 The InnerSource Commons Spring Summit is taking place on the 14th-16th April 2020, Madrid, Spain.
