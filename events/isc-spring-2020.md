@@ -55,32 +55,6 @@ Nithya A. Ruff is the Head of Comcast’s Open Source Program Office.  She is re
 
 Nithya has been a passionate advocate and a speaker for opening doors to new people in Open Source for many years. She has also been a promoter of valuing diverse ways of contributing to open source such as in marketing, legal and community.   You can often find her on social media promoting dialogue on diversity and open source.
 
-<img alt="Mary Thengvall photo" src="/assets/img/isc_madrid_mary_thengvall.jpg" width="200" align="right"/>
-
-**Mary Thengvall**
-
-Mary Thengvall is a connector of people at heart, both personally and professionally. She loves digging into the strategy of how to build and foster developer communities and has been doing so for over 10 years. After building community programs at O’Reilly Media, Chef Software, and SparkPost, she consulted for two years, helping companies build a strong and sustainable Developer Relations strategy.
-
-These days, Mary is the Director of Developer Relations at Camunda. In addition to her work, she's known for being "the one with the dog," thanks to her ever-present medical alert service dog Ember. She's the author of the first book on Developer Relations: The Business Value of Developer Relations (© 2018, Apress).
-
-Mary is founder and co-host of Community Pulse, a podcast for Developer Relations professionals. She curates DevRel Weekly, a weekly newsletter that brings you a curated list of articles, job postings, and events every Thursday. She's also a founding member and "Benevolent Queen" of the DevRel Collective Slack team.
-
-Mary is also a member of Prompt, a non-profit that encourages people to openly talk about mental illness in tech. She speaks at various conferences and events about building and fostering technical communities as well as how to prevent burnout in yourself and your team
-
-
-<img alt="Steph Egan photo" src="/assets/img/steph_egan.jpeg" width="200" align="right"/>
-
-**Steph Egan**
-
-Steph is a Software Engineering Team Lead at the BBC. Her and her team are focused on helping other teams “Be better and move faster” and are building up a catalogue of tools which have been built from the ground up to be InnerSource.
-
-
-**David Buckhurst**
-
-<img alt="Steph Egan photo" src="/assets/img/david_buckhurst.jpg" width="200" align="right"/>
-
-David Buckhurst is an engineering manager at the BBC, looking after the teams that build the BBC’s TV applications (such as iPlayer and Sounds).  David has a long history of working with complex device-based challenges, from cutting-edge emulators such as Apple’s Rosetta, to the BBC’s device testing cloud (the open source Hive CI). David is a vocal advocate of open source software, and leads the BBC’s open source advocacy efforts.
-
 
 ### What is the InnerSource Commons?
 
