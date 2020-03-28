@@ -46,6 +46,18 @@ The Summit agenda is available [here](https://innersourcecommons.org/events/isc-
 
 Danese Cooper is vice president of special initiatives at NearForm, an Irish tech firm. Previously, she was head of open source software at PayPal, CTO of the Wikimedia Foundation, chief open source evangelist for Sun, and senior director of open source strategies for Intel. Danese was also the inaugural chairperson of the Node.js Foundation. She concentrates on creating healthy open source communities and has served on the boards of Drupal Association, the Open Source Initiative, the Open Source Hardware Association, and she’s advised Mozilla and the Apache Software Foundation. Danese also runs a successful open source consultancy that counts the Bill & Melinda Gates Foundation, the SETI Institute, Harris, and Numenta as clients. She’s been known to knit through meetings.
 
+<img alt="Isabel Drost-Fromm photo" src="/assets/img/isabel_drost-fromm.jpeg" width="200" align="right"/>
+
+**Isabel Drost-Fromm**
+
+Isabel Drost-Fromm is Open Source Strategist at Europace AG Germany. She's a member of the Apache Software Foundation, co-founder of Apache Mahout and mentored several incubating projects. Isabel is interested in all things FOSS, search and text mining with a decent machine learning background. True to the nature of people living in Berlin she loves having friends fly in for a brief visit - as a result she co-founded and is still one of the creative heads behind Berlin Buzzwords, a tech conference on all things search, scale and storage.
+
+<img alt="Georg Grütter photo" src="/assets/img/Georg Gruetter.jpg" width="200" align="right"/>
+
+**Georg Grütter**
+
+Georg Grütter is a social coding evangelist and developer advocate at Bosch.IO. He cofounded and led the first InnerSource community at Bosch. Georg is a passionate software developer with over 30 years of experience. Previously, he held various positions and roles at Bosch, Line Information, the Zurich System House, and DaimlerChrysler. Georg has created two open source projects, "XHSI":http://xhsi.sourceforge.net and "stashNotifier":https://wiki.jenkins-ci.org/display/JENKINS/StashNotifier+Plugin. He's an avid recumbent cyclist and mountain biker who also loves photography and chocolate.
+
 
 <img alt="Nithya Ruff photo" src="/assets/img/isc_madrid_nithya_ruff.jpg" width="200" align="right"/>
 
@@ -74,36 +86,9 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 ### Venue
 
-The summit is hosted at [Círculo de Bellas Artes](https://goo.gl/maps/R4G1GtgPnk9Su6d17), Calle Alcalá 42, Madrid.
+The summit is hosted online. Instructions will be provided to all speakers and attendees.
 
 
-### Travel and Transit
-
-The closest airport is Adolfo Suárez Madrid-Barajas Airport:
-
-The airport serves flights from main cities around the world. More information at the ([Airport Website](http://www.aena.es/en/madrid-barajas-airport/index.html)). There is a fix rate of 30€ by taxi to downtown and easily accessible public transport that will leave you in less than 30 minutes in the very center of Madrid.
-
-### Hotels
-
-There a plenty of walking distance hotels.
-
-The closest one is the exclusive [Hotel NH Collection Madrid Suecia - 5 stars](https://www.nh-hoteles.es/hotel/nh-collection-madrid-suecia). Other options are the following:
-* [Hotel Lusso Infantas](http://www.hotelinfantas.com/en/) (4 stars, 200m)
-* [Hotel Petit Palace Alcalá](https://www.petitpalacealcala.com/en/) (4 stars, 250m)
-* [Hotel Petit Palace Lealtad](http://www.petitpalace-lealtadmadrid.com/) Plaza (4 stars, 300m)
-* [Hotel One Shot Prado 23](http://www.hoteloneshotprado23.com/en/) (4 stars, 300m)
-* [Hotel One Shot Recoletos 04](http://www.hoteloneshotrecoletos04.com/en/) (4 stars, 350m)
-* [Hotel Petit Palace Chueca](https://www.petitpalacechueca.com/) (3 stars, 400m)
-* [Hotel Casual Madrid del Teatro](http://casualhoteles.com/hoteles-madrid/casual-del-teatro/) (2 stars, 450m)
-
-Spanish *hostales* are family-led hotels, not to confuse with hostels. They offer good accommodations and in general at lower rates. The following ones are close to the venue:
-* [Hostal Las Cortes](http://www.hostallascortes.com/) (280m)
-* [Hostal Oporto](http://www.hostaloporto.com/) (280m)
-* [Hostal Delfina](http://hostaldelfina.wixsite.com/hostaldelfina) (400m)
-* [Hostal San Lorenzo](https://www.hotel-sanlorenzo.com/) (500m)
-* [Hostal Prim](http://www.hostalprim.com/en/) (700m)
-
-All of them are tidy, clean, have wifi, air conditioning, and each room has its own bathroom (but double check).
 
 ### Call For Sponsorship
 We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Daniel Izquierdo for more details (dizquierdo@bitergia.com).
