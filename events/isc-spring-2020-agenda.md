@@ -7,7 +7,7 @@ title: 'InnerSource Commons Spring Online Summit 2020 Agenda'
 
 ### Notes
 
-The following agenda is based in **Central European Time** and this will take place between 3:50 pm and 7:05 pm (3.25 hours in total). Both days, 14th and 15th of April will follow the same agenda and will take place in the same timeslot. By the time of the conference, the following are some examples of translated times to other timezones:
+The following agenda is based in **Central European Time** and this will take place between 3:50 pm and 7:05 pm (3.25 hours in total). Both days, 14th and 15th of April will use the timeslot. By the time of the conference, the following are some examples of translated times to other timezones:
 
 Example of time differences in other timezones for the first day of conference:
 * China Standard Time: 09:50 pm 14th April - 01:05 am 15th April
@@ -17,6 +17,7 @@ Example of time differences in other timezones for the first day of conference:
 
 
 ### Agenda
+
 
 <table class="schedule">
 
@@ -28,7 +29,7 @@ Example of time differences in other timezones for the first day of conference:
 
   <tr>
         <td class="time">15:50 - 16:05</td>
-        <td colspan="3">
+        <td colspan="2">
             Opening
         </td>
   </tr>
@@ -174,10 +175,11 @@ Details appearing shortly
    <tr>
         <td class="time">16:05 - 16:25</td>
         <td class="author">
-           Isabel Drost-Fromm <span class="affiliation"> (Europace AG)</span></td>
+           <a href="/events/isc-spring-2020-speakers#isabel_drost_fromm">Isabel Drost-Fromm</a><span class="affiliation"> (Europace AG)</span></td>
         <td class="title"> Dealing with Growth, How InnerSource helps
-            <span onClick="toggleAbstract('drost-1')" class="abstract-toggle">(<a id="drost-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="drost-1">
+            <span class="keynoteTag">Keynote:</span>
+            <span onClick="toggleAbstract('keynote-drost-1')" class="abstract-toggle">(<a id="keynote-drost-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="keynote-drost-1">
 Details appearing shortly 
             </div>
         </td>
@@ -200,7 +202,7 @@ Digital transformation is the process through which organizations learn to break
 
    <tr>
         <td class="time">16:40 - 16:55</td>
-        <td class="author"> Jerry Tan </a><span class="affiliation"> (Baidu)</span></td>   
+        <td class="author"><a href="/events/isc-spring-2020-speakers#jerry_tan"> Jerry Tan</a> <span class="affiliation"> (Baidu)</span></td>
         <td class="title"> Practice of InnerSource in several Chinese companies
             <span onClick="toggleAbstract('tan-1')" class="abstract-toggle">(<a id="tan-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="tan-1">
@@ -275,8 +277,9 @@ This case study will start with the background of the problem. How did the BBC e
         <td class="time">18:30 - 18:50</td>
         <td class="author"><a href="/events/isc-spring-2020-speakers#georg_grutter">Georg Grütter</a> <span class="affiliation">(Robert Bosch)</span></td>
         <td class="title">  InnerSource and open source: The same but different?
-            <span onClick="toggleAbstract('grutter-1')" class="abstract-toggle">(<a id="grutter-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="grutter-1">
+        <span class="keynoteTag">Keynote:</span>
+            <span onClick="toggleAbstract('keynote-grutter-1')" class="abstract-toggle">(<a id="keynote-grutter-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="keynote-grutter-1">
 InnerSource and open source share common roots and are based on the same fundamental ideas, but they're not the same. Georg Grütter sheds light on the differences and makes a case for why both have a place in the world of software development.
 
 Open source has been around for a long time now. Its success has led to and lends credibility to the growing practice of InnerSource. Despite being around for over 15 years, there are still a lot of misconceptions about InnerSource, many of which revolve around its relation to open source.
