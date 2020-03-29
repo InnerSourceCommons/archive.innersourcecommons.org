@@ -52,11 +52,11 @@ Danese Cooper is vice president of special initiatives at NearForm, an Irish tec
 
 Isabel Drost-Fromm is Open Source Strategist at Europace AG Germany. She's a member of the Apache Software Foundation, co-founder of Apache Mahout and mentored several incubating projects. Isabel is interested in all things FOSS, search and text mining with a decent machine learning background. True to the nature of people living in Berlin she loves having friends fly in for a brief visit - as a result she co-founded and is still one of the creative heads behind Berlin Buzzwords, a tech conference on all things search, scale and storage.
 
-<img alt="Georg Grütter photo" src="/assets/img/Georg Gruetter.jpg" width="200" align="right"/>
+<img alt="Georg Grütter photo" src="/assets/img/georg-gruetter.jpg" width="200" align="right"/>
 
 **Georg Grütter**
 
-Georg Grütter is a social coding evangelist and developer advocate at Bosch.IO. He cofounded and led the first InnerSource community at Bosch. Georg is a passionate software developer with over 30 years of experience. Previously, he held various positions and roles at Bosch, Line Information, the Zurich System House, and DaimlerChrysler. Georg has created two open source projects, "XHSI":http://xhsi.sourceforge.net and "stashNotifier":https://wiki.jenkins-ci.org/display/JENKINS/StashNotifier+Plugin. He's an avid recumbent cyclist and mountain biker who also loves photography and chocolate.
+Georg Grütter is a social coding evangelist and developer advocate at Bosch.IO. He cofounded and led the first InnerSource community at Bosch. Georg is a passionate software developer with over 30 years of experience. Previously, he held various positions and roles at Bosch, Line Information, the Zurich System House, and DaimlerChrysler. Georg has created two open source projects, [XHSI](http://xhsi.sourceforge.net) and [stashNotifier](https://wiki.jenkins-ci.org/display/JENKINS/StashNotifier+Plugin). He's an avid recumbent cyclist and mountain biker who also loves photography and chocolate.
 
 
 <img alt="Nithya Ruff photo" src="/assets/img/isc_madrid_nithya_ruff.jpg" width="200" align="right"/>
