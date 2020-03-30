@@ -35,7 +35,7 @@ If you have already registered and paid for the ticket entry, you have several o
 
 ### Agenda and Speakers
 
-We are delighted to welcome Danese Cooper (VP of Special Initiatives at NearForm), and Nithya Ruff (Head of Comcast’s Open Source Program Office) as our keynote speakers for the first day. Mary Thengvall (Director of Developer Relations at Camunda) as our keynote speaker during the second day. And Steph Egan (Software Engineering Team Lead) and David Buckhurst (Engineering Manager at BBC) as our keynote speakers during the third day!
+We are delighted to welcome Danese Cooper (VP of Special Initiatives at NearForm), and Nithya Ruff (Head of Comcast’s Open Source Program Office) as our keynote speakers for the first day. And Isabel Drost-Fromm (Open Source Strategist at Europace AG) and Georg  Grütter (Social Coding Evangelist and Developer Advocate at Bosch.IO) as our keynote speakers during the second day!
 
 The Summit agenda is available [here](https://innersourcecommons.org/events/isc-spring-2020-agenda/) and you can start checking the great set of speakers [here](https://innersourcecommons.org/events/isc-spring-2020-speakers/).
 
