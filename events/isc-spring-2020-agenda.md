@@ -271,6 +271,7 @@ The BBC’s Connected TV client powers the iPlayer, Sport, News, and RedButton+ 
 This case study will start with the background of the problem. How did the BBC end up with a monolithic client that was a huge source of FUD for developers working on it? What sort of problems were they facing day by day when developing on it? What could be done to alleviate the FUD of working on this client, and re-enable innovation and rapid development in their products?
 
             </div>
+        </td>
     </tr>
 
    <tr>
