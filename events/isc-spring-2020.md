@@ -100,8 +100,6 @@ The sponsoring prospectus is available [here](https://drive.google.com/file/d/1N
 
 Call for presentations is already closed, thanks for your interest.
 
-All proposals are due by midnight, January 10th, 2020. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
-
 
 
 ### [Code of Conduct](/events/conduct/)
