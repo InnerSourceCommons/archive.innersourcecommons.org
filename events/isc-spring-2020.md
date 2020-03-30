@@ -93,7 +93,7 @@ The summit is hosted online. Instructions will be provided to all speakers and a
 ### Call For Sponsorship
 We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Daniel Izquierdo for more details (dizquierdo@bitergia.com).
 
-The sponsoring prospectus is available [here](https://drive.google.com/file/d/1O-tfwEc4h_JBCnYCj4COl6h8IU1MketN/view?usp=sharing).
+The sponsoring prospectus is available [here](https://docs.google.com/document/d/17zEAUOemceFAxTIgJ-B8SE3S6q7YVjezYgViJLfcBaY/view?usp=sharing).
 
 
 ### Call For Presentations
