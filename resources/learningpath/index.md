@@ -12,9 +12,9 @@ Once finished, the first edition of the InnerSource Learning Path will cover the
 | O'Reilly | ISC |
 | ------- | ---- |
 | [Introduction][Introduction on O'Reilly Safari] | [Introduction]  |
-| [Product Owner][Product Owner on O'Reilly Safari] | |
-| [Trusted Committer][Trusted Committer on O'Reilly Safari] | |
-| [Contributor][Contributor on O'Reilly Safari] |
+| [Product Owner][Product Owner on O'Reilly Safari] | [Product Owner] |
+| [Trusted Committer][Trusted Committer on O'Reilly Safari] | [Trusted Committer] |
+| [Contributor][Contributor on O'Reilly Safari] | [Contributor] |
 
 The videos are becoming available on YouTube part by part.
 See our channel here: [YouTubeChannel]
@@ -30,6 +30,9 @@ We invite you to help us finishing the InnerSource Learning Paths. Checkout the 
 [Introduction on O'Reilly Safari]: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504 
 
 [Product Owner on O'Reilly Safari]: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707
+[Product Owner]: ./product-owner
+[Trusted Committer]: ./trusted-committer 
+[Contributor]: ./contributor
 [http://bit.ly/inner-source-learning-path]: http://bit.ly/inner-source-learning-path
 [YouTubeChannel]: https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA
 [Contributor on O'Reilly Safari]: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/
