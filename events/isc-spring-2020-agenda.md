@@ -244,8 +244,12 @@ Unlike OpenSource, InnerSource is still a new thing in china. But several big co
   </tr>
 
    <tr>
+  
+ 
         <td class="time">18:00 - 18:15</td>
-        <td class="author"><a href="/events/isc-spring-2020-speakers#ana_jimenez"> Ana Jiménez</a><span class="affiliation"> (Bitergia)</span></td>   
+        <td class="author"><a href="/events/isc-spring-2020-speakers#ana_jimenez"> Ana Jiménez</a><span class="affiliation"> (Bitergia)</span><br>
+        José Manrique López<span class="affiliation"> (Bitergia)</span>
+        </td>   
         <td class="title"> DevRel inside corporate walls
             <span onClick="toggleAbstract('jimenez-1')" class="abstract-toggle">(<a id="jimenez-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="jimenez-1">
