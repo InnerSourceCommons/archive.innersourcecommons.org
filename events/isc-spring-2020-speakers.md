@@ -162,11 +162,11 @@ Nithya has been a passionate advocate and a speaker for opening doors to new peo
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-
+    <img alt="Thomas Sadler" width="200" src="/assets/img/thomas_sadler.jpg"/> i
     </div>
     <b>Thomas Sadler</b>
     <p>
-
+Tom Sadler is a Software Engineering Team Lead for BBC iPlayer, specialising in media playback for connected TV browsers. He has advocated for supporting open source projects, including the BBC’s TV Application Layer and bigscreen-player, and lead on collaboration between teams.
   </p>
   </div>
 <div style="clear:both;"></div>
