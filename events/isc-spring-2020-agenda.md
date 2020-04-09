@@ -30,7 +30,7 @@ Example of time differences in other timezones for the first day of conference:
   <tr>
         <td class="time">15:50 - 16:05</td>
         <td colspan="2">
-            Opening
+            Opening: Daniel Izquierdo Cortázar
         </td>
   </tr>
 
@@ -180,7 +180,7 @@ Details appearing shortly
   <tr>
         <td class="time">15:50 - 16:05</td>
         <td colspan="2">
-            Opening
+            Opening: Daniel Izquierdo Cortázar
         </td>
   </tr>
 
