@@ -94,17 +94,6 @@ Georg Grütter is a social coding evangelist and developer advocate at Bosch.IO.
 </div>
 <div style="clear:both;"></div>
 
-<a name="jose_manrique_lopez">&nbsp;</a>
-<hr/>
-<div style="width:100%">
-    <b>José Manrique López</b>
-    <p>
-Manrique is the CEO and shareholder in Bitergia and a free, libre, open source software development communities passionate. He is a graduate Industrial Engineer with research and development experience from the Technological Center for Computer Science and Communications of the Principality of Asturias (CTIC), W3C working groups, Ándago Engineering, and Continua Health Alliance. Former executive director of the Spanish Open Source Enterprises Association (ASOLIF), and expert consultant for the Spanish National Open Source Reference Center (CENATIC). Involved in several communities related to free, libre, open source software he is currently active in GrimoireLab and CHAOSS(Community Health Analytics for Open Source Software). He has been recognized as AWS Data Hero and GitLab Community Hero. You can reach him on Twitter as @jsmanrique, and when he is not online he loves to spend time with his family and surfing.
-
-  </p>
-  </div>
-<div style="clear:both;"></div>
-
 
 
 <a name="ana_jimenez">&nbsp;</a>
@@ -121,6 +110,35 @@ She has been a speaker at international conferences such as DevRelCon Tokyo and 
 
   </p>
 </div>
+<div style="clear:both;"></div>
+
+
+<a name="jose_manrique_lopez">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="José Manrique López" width="200" src="/assets/img/jose_manrique.jpg"/>
+    </div>
+    <b>José Manrique López</b>
+    <p>
+Manrique is the CEO and shareholder in Bitergia and a free, libre, open source software development communities passionate. He is a graduate Industrial Engineer with research and development experience from the Technological Center for Computer Science and Communications of the Principality of Asturias (CTIC), W3C working groups, Ándago Engineering, and Continua Health Alliance. Former executive director of the Spanish Open Source Enterprises Association (ASOLIF), and expert consultant for the Spanish National Open Source Reference Center (CENATIC). Involved in several communities related to free, libre, open source software he is currently active in GrimoireLab and CHAOSS(Community Health Analytics for Open Source Software). He has been recognized as AWS Data Hero and GitLab Community Hero. You can reach him on Twitter as @jsmanrique, and when he is not online he loves to spend time with his family and surfing.
+
+  </p>
+  </div>
+<div style="clear:both;"></div>
+
+
+<a name="katrina_novakovic">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Katrina Novakovic" width="200" src="/assets/img/Katrina_Novakovic.jpg"/>
+    </div>
+    <b>Katrina Novakovic</b>
+    <p>
+Katrina is a business architect in the Red Hat EMEA Office of Technology, working with organisations to strategically use open source software and methodologies and to establish communities. She guides customers through the process and cultural changes needed for digital transformation and technology adoption. Katrina is passionate about sharing best practices around the people, process and cultural aspects of Open Source. She's also advised organisations on Inner Source adoption.
+  </p>
+  </div>
 <div style="clear:both;"></div>
 
 
