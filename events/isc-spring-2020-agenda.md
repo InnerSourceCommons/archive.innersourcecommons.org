@@ -136,7 +136,7 @@ This session offers an opportunity to participate in the conversation by asking 
         <td class="author"><a href="/events/isc-spring-2020-speakers#max_capraro">Max Capraro</a> <span class="affiliation"> (Friedrich-Alexander-University Erlangen-Nürnberg)</span><br>
         <a href="/events/isc-spring-2020-speakers#johannes_tigges">Johannes Tigges</a> <span class="affiliation"> (InnerSource Commons)</span></td>
         <td class="title"> Introduction to InnerSource Patterns
-            <span onClick="toggleAbstract(‘capraro-1')" class="abstract-toggle">(<a id="capraro-1-link">Show Abstract</a>)</span>
+            <span onClick="toggleAbstract('capraro-1')" class="abstract-toggle">(<a id="capraro-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="capraro-1">
 InnerSource adoption in your organization cannot happen magically by itself. Fear not! There are proven best practices you can follow to adopt InnerSource and run a successful program at your company. In the InnerSource Commons, we document such best practices in the form of InnerSource patterns. A pattern is a structured description of a repeatable and proven solution to a specific problem. This talk introduces the concept and format of patterns, presents a selection of the current (and growing) set of InnerSource patterns, and enables you to formulate best practices you know in the pattern format.
 During the breakout groups following this talk, we are certain you can apply your new knowledge on patterns: If you are discussing a solution to a common problem, why not formulate it as a pattern and submit it to github.com/innersourcecommons/innersourcepatterns?
