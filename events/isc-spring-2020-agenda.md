@@ -84,13 +84,13 @@ The modern IT consists of constant transformations, product and feature teams, a
 
 
   <tr>
-        <td class="time">16:55 - 17:10</td>
-        <td colspan="2">Coffee Break / Mug Competition</td>
+        <td class="time">16:55 - 17:05</td>
+        <td colspan="2">Coffee Cup Contest & Breakouts/Unconference Set-up</td>
   </tr>
 
   <tr>
-        <td class="time">17:10 - 17:15</td>
-        <td colspan="2">Welcome Back & Unconference Set-up</td>
+        <td class="time">17:05 - 17:15</td>
+        <td colspan="2">Break/Coffee</td>
   </tr>
 
 
@@ -109,7 +109,7 @@ The modern IT consists of constant transformations, product and feature teams, a
 
   <tr>
         <td class="time">17:55 - 18:00</td>
-        <td colspan="2">Coffee Break</td>
+        <td colspan="2">Welcome Back/Coffee Break</td>
   </tr>
 
 
@@ -180,7 +180,7 @@ Details appearing shortly
   <tr>
         <td class="time">15:50 - 16:05</td>
         <td colspan="2">
-            Opening: Daniel Izquierdo Cortázar
+            Opening: Danese Cooper & Georg Grütter
         </td>
   </tr>
 
@@ -225,14 +225,14 @@ Unlike OpenSource, InnerSource is still a new thing in china. But several big co
 
 
   <tr>
-        <td class="time">16:55 - 17:10</td>
-        <td colspan="2">Coffee Break</td>
+        <td class="time">16:55 - 17:05</td>
+        <td colspan="2">Cake in a Cup Challenge & Breakout/Unconference Set-up</td>
   </tr>
 
 
   <tr>
-        <td class="time">17:10 - 17:15</td>
-        <td colspan="2">Welcome Back & Unconference Set-up</td>
+        <td class="time">17:05 - 17:15</td>
+        <td colspan="2">Break/Coffee</td>
   </tr>
 
 
@@ -252,7 +252,7 @@ Unlike OpenSource, InnerSource is still a new thing in china. But several big co
 
   <tr>
         <td class="time">17:55 - 18:00</td>
-        <td colspan="2">Coffee Break</td>
+        <td colspan="2">Welcome Back/Coffee Break</td>
   </tr>
 
    <tr>
