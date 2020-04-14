@@ -3,6 +3,11 @@
   class: icon-github
   title: Code and more...
 
+- name: GitHub
+  url: http://twitter.com/InnerSourceOrg
+  class: icon-twitter
+  title: Tweets
+
 - name: YouTube
   url: https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA
   class: icon-youtube
