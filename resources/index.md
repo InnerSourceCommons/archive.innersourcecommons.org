@@ -34,3 +34,8 @@ Free e-book from O'Reilly on getting started with InnerSource
 
 The Inner Source Learning Path is a series of short videos and articles explaining and teaching various aspects of inner source. See the page to learn more.
 
+### [Patterns](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+
+A collection of patterns on how to introduce and use InnerSource as well as what to look out for.
+
+#### [The Patterns Office Hours](/patterns-officehours)
