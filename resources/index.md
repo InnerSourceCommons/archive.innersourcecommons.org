@@ -12,6 +12,7 @@ Academic papers, news articles, blogs
   * [Getting Started With InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp)
   * [Understanding the InnerSource Checklist]({{ site.baseurl }}/checklist/)
   * [Adopting InnerSource - Principles and Case Studies](books/adoptinginnersource)
+  * [Managing InnerSource Projects](https://legacy.gitbook.com/book/dicortazar/managing-inner-source-projects/details)
 
 ### [InnerSource Commons Wiki](https://github.com/InnerSourceCommons/innersourcecommons.org/wiki)
 
