@@ -46,7 +46,7 @@ Danese Cooper is vice president of special initiatives at NearForm, an Irish tec
     <b>Guilherme Dellagustin</b>
     <p>
 Guilherme is a multipurpose developer at SAP, <a href="https://support.sap.com/en/product/globalization.html">Globalization Services</a>, passionate about everything in software, especially in InnerSource and Open Source.<br>
-Find him on github (<a href="https://github.com/dellagustin" class="icon-github">dellagustin</a> and <a href="https://github.com/dellagustin-sap" class="icon-github">dellagustin-sap</a>) and twitter (<a href="https://twitter.com/dellagustindev" class="icon-twitter">@dellagustindev</a>).
+Find him on github (<a href="https://github.com/dellagustin" class="icon-github">dellagustin</a> and <a href="https://github.com/dellagustin-sap" class="icon-github">dellagustin-sap</a>), twitter (<a href="https://twitter.com/dellagustindev" class="icon-twitter">@dellagustindev</a>) and Linkedin (<a href="https://www.linkedin.com/in/dellagustin/" class="icon-linkedin">dellagustin</a>).
 
   </p>
   </div>
