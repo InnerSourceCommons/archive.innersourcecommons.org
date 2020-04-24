@@ -40,6 +40,17 @@ format: post
 			{{ content }}
 			</div>
 
+			{% if page.learning_path_article %}
+			<div id="learningPathArticle"></div>
+			<script>
+				function learningPathCallback (response) {
+					$('#learningPathArticle').html(Asciidoctor().convert(response))
+				}
+				$.get('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc', null, learningPathCallback)
+			</script>
+			{% endif %}
+
+
 			{% if page.show_meta == true %}
 			{% include _meta_information.html %}
 			{% endif %}

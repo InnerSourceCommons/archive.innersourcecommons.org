@@ -25,7 +25,8 @@
 	<link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}">
 
 	<script src="{{ '/assets/js/modernizr.min.js' | relative_url }}"></script>
-  <script src="{{ url }}/assets/js/events.js"></script>
+	<script src="{{ url }}/assets/js/events.js"></script>
+	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/javascript.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -77,6 +78,10 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 		<script src="{{ '/assets/mediaelement_js/mediaelement-and-player.min.js' | relative_url }}"></script>
 		<link rel="stylesheet" href="{{ '/assets/mediaelement_js/mediaelementplayer.min.css' | relative_url }}">
+	{% endif %}
+
+	{% if page.learning_path_article %}
+		<script src="{{ url }}/assets/js/asciidoctor.min.js"></script>
 	{% endif %}
 
 	{% include _favicon.html %}
