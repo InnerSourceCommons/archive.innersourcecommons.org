@@ -43,10 +43,15 @@ format: post
 			{% if page.learning_path_article %}
 			<div id="learningPathArticle"></div>
 			<script>
-				function learningPathCallback (response) {
-					$('#learningPathArticle').html(Asciidoctor().convert(response))
-				}
-				$.get('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc', null, learningPathCallback)
+				fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc')
+					.then((response) => {
+						debugger
+						return response.text()
+					})
+					.then((text) => {
+						debugger
+						document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
+					})
 			</script>
 			{% endif %}
 
