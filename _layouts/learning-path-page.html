@@ -2,6 +2,27 @@
 layout: page
 ---
 
+
+<table>
+  <thead>
+    <tr>
+      <th>{{ page.learning_path_group }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign siblings = site.pages | where: "learning_path_group", page.learning_path_group | sort: "learning_path_position" %}
+    {% for item in siblings %}
+        <tr>
+          {% if item.url == page.url %}
+            <td>{{ item.learning_path_menu_title }}</td>
+          {% else %}
+            <td><a href="{{ item.url }}">{{ item.learning_path_menu_title}}</a></td>
+          {% endif %}
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
 {{ content }}
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
