@@ -40,22 +40,6 @@ format: post
 			{{ content }}
 			</div>
 
-			{% if page.learning_path_article %}
-			<div id="learningPathArticle"></div>
-			<script>
-				fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc')
-					.then((response) => {
-						debugger
-						return response.text()
-					})
-					.then((text) => {
-						debugger
-						document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
-					})
-			</script>
-			{% endif %}
-
-
 			{% if page.show_meta == true %}
 			{% include _meta_information.html %}
 			{% endif %}
