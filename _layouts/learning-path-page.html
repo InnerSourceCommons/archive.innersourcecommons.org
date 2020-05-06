@@ -4,7 +4,10 @@ layout: page
 
 {{ content }}
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
+
 <div id="learningPathArticle"></div>
+
 <script>
   fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc')
     .then((response) => {
