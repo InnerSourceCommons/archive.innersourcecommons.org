@@ -4,10 +4,11 @@ title: 'Upcoming InnerSource Events'
 ---
 
 ## Upcoming Events
-* [Commons Summit 10 - Spring 2020](isc-spring-2020)
-   - InnerSource Commons Summit 10 - Virtual, The Internet - April 14-16 **Details to be published here!**
+Details of the next InnerSource Commons Summit will be added as soon as they are available.
 
 ## Prior Events
+* [Commons Summit 10 - Spring 2020](isc-spring-2020)
+   - InnerSource Commons Summit 10 - Online - April 14-16; <a href="https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9">Click here to view all the session recordings!</a>
 * [Commons Summit 9 - Fall 2019](https://jacobgreen197.wixsite.com/mysite-1)
    - InnerSource Commons Summit 9 - Baltimore, MD, USA - September 17-19
 * [InnerSource Day at OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/full/innersource-day) (not organized by the InnerSource Commons)
