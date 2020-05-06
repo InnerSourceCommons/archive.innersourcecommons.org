@@ -16,7 +16,7 @@ Example of time differences in other timezones for the first day of conference:
 * Pacific Time: 6:50 am - 10:05 am 14th April
 
 
-### Agenda
+### Agenda (Click title to watch on our <a href="https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9">YouTube Channel</a>)
 
 
 <table class="schedule">
@@ -29,18 +29,17 @@ Example of time differences in other timezones for the first day of conference:
 
   <tr>
         <td class="time">15:50 - 16:05</td>
-        <td colspan="2">
-            Opening: Daniel Izquierdo Cortázar
+	<td class="author">Daniel Izquierdo Cortázar</td>
+        <td class="title"><a href="https://youtu.be/glYcE3CEELI">Welcome to InnerSource Commons Online Spring Summit 2020!</a>
         </td>
   </tr>
 
   <tr>
         <td class="time">16:05 - 16:25</td>
-        <td class="author">
-            <a href="/events/isc-spring-2020-speakers#danese_cooper">Danese Cooper</a><span class="affiliation"> (NearForm) </span></td>
-
-        <td class="title"> The Inevitability of InnerSource
-            <span class="keynoteTag">Keynote:</span>
+        <td class="author"><a href="/events/isc-spring-2020-speakers#danese_cooper">Danese Cooper</a><span class="affiliation"> (NearForm) </span>
+	</td>
+        <td class="title"><a href="https://youtu.be/75B63VTZmW0">The Inevitability of InnerSource</a>
+            <span class="keynoteTag">Keynote: </span>
             <span onClick="toggleAbstract('keynote-danese')" class="abstract-toggle">(<a id="keynote-danese-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="keynote-danese">
 Details appearing shortly 
@@ -54,8 +53,7 @@ Details appearing shortly
             <a href="/events/isc-spring-2020-speakers#michael_graf">Michael Graf</a> <span class="affiliation"> (SAP)</span> <br>
             <a href="/events/isc-spring-2020-speakers#guilherme_dellagustin">Guilherme Dellagustin</a> <span class="affiliation">(SAP)</span>
         </td>
-        <td class="title">Growing an InnerSource culture at SAP
-
+	<td class="title"><a href="https://youtu.be/2nhKMcv5STc">Growing an InnerSource culture at SAP</a>
             <span onClick="toggleAbstract('graf-1')" class="abstract-toggle">(<a id="graf-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="graf-1">
 In a multinational software corporation like SAP, that has recently grown to almost a hundred thousand employees, reuse and efficient collaboration across organizational borders is quite a challenge. Our development organization spreads across the globe and our products are implemented on a large variety of technology stacks. How can we establish an efficient development process and a collaboration culture at the same time? 
@@ -74,7 +72,7 @@ Along practical examples, we share our journey towards InnerSource and how we ar
         <td class="time">16:40 - 16:55</td>
         <td class="author">
            <a href="/events/isc-spring-2020-speakers#dmitrii_sugrobov">Dmitrii Sugrobov</a> <span class="affiliation"> (Leroy Merlin)</span></td>
-        <td class="title"> Global InnerSource adoption at once: lessons learned
+	<td class="title"><a href="https://youtu.be/Wzg8h30OhK8"> Global InnerSource adoption at once: lessons learned</a>
             <span onClick="toggleAbstract('sugrobov-1')" class="abstract-toggle">(<a id="sugrobov-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="sugrobov-1">
 The modern IT consists of constant transformations, product and feature teams, a large number of engineers, plenty of new roles and many business units that solve similar business cases every day. The complexity of business requires modern approaches in development and mature engineering culture. The choice to adopt InnerSource can cover most of the business needs. Usually, InnerSource adoption grows from a small experimental team. But what if to roll these principles to all teams and companies in the group at once? This talk will show our experience and key findings after one year of movement.
@@ -117,8 +115,8 @@ The modern IT consists of constant transformations, product and feature teams, a
         <td class="time">18:00 - 18:15</td>
         <td class="author">
            <a href="/events/isc-spring-2020-speakers#katrina_novakovic">Katrina Novakovic</a> <span class="affiliation"> (Red Hat)</span></td>
-        <td class="title">
-						Does your organisation need to change its culture to improve Inner Source adoption? 
+        <td class="title"><a href="https://youtu.be/1T5llwc2XQQ">
+		Does your organisation need to change its culture to improve Inner Source adoption? </a>
             <span onClick="toggleAbstract('novakovic-1')" class="abstract-toggle">(<a id="novakovic-1-link">Show Abstract</a>)</span> 
             <div style="display:none" class="abstract" id="novakovic-1">
 In this talk, we'll explore topics crucial to Inner Source culture, including:
@@ -133,10 +131,9 @@ This session offers an opportunity to participate in the conversation by asking 
 
    <tr>
         <td class="time">18:15 - 18:30</td>
-
         <td class="author"><a href="/events/isc-spring-2020-speakers#max_capraro">Max Capraro</a> <span class="affiliation"> (Friedrich-Alexander-University Erlangen-Nürnberg)</span><br>
         <a href="/events/isc-spring-2020-speakers#johannes_tigges">Johannes Tigges</a> <span class="affiliation"> (InnerSource Commons)</span></td>
-        <td class="title"> Introduction to InnerSource Patterns
+        <td class="title"> <a href="https://youtu.be/tA6onTUiMgU">Introduction to InnerSource Patterns</a>
             <span onClick="toggleAbstract('capraro-1')" class="abstract-toggle">(<a id="capraro-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="capraro-1">
 InnerSource adoption in your organization cannot happen magically by itself. Fear not! There are proven best practices you can follow to adopt InnerSource and run a successful program at your company. In the InnerSource Commons, we document such best practices in the form of InnerSource patterns. A pattern is a structured description of a repeatable and proven solution to a specific problem. This talk introduces the concept and format of patterns, presents a selection of the current (and growing) set of InnerSource patterns, and enables you to formulate best practices you know in the pattern format.
@@ -150,8 +147,7 @@ During the breakout groups following this talk, we are certain you can apply you
         <td class="time">18:30 - 18:50</td>
         <td class="author">
             <a href="/events/isc-spring-2020-speakers#nithya_ruff">Nithya Ruff</a><span class="affiliation"> (Comcast) </span></td>
-
-        <td class="title"> InnerSource at Comcast
+	<td class="title"><a href="https://youtu.be/msD-8-yrGfs"> InnerSource at Comcast</a>
             <span class="keynoteTag">Keynote:</span>
             <span onClick="toggleAbstract('keynote-ruff')" class="abstract-toggle">(<a id="keynote-ruff-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="keynote-ruff">
@@ -180,16 +176,18 @@ Details appearing shortly
 
   <tr>
         <td class="time">15:50 - 16:05</td>
-        <td colspan="2">
-            Opening: Danese Cooper & Georg Grütter
+        <td class="author">
+            Danese Cooper & Georg Grütter
         </td>
+	<td class="title"> <a href="https://youtu.be/5srdrwBvXPg">The Evolution of InnerSource Commons</a>
+	</td>
   </tr>
 
    <tr>
         <td class="time">16:05 - 16:25</td>
         <td class="author">
            <a href="/events/isc-spring-2020-speakers#isabel_drost_fromm">Isabel Drost-Fromm</a><span class="affiliation"> (Europace AG)</span></td>
-        <td class="title"> Dealing with Growth, How InnerSource helps
+        <td class="title"><a href="https://youtu.be/uLaNC_YbZBI"> Dealing with Growth, How InnerSource helps</a>
             <span class="keynoteTag">Keynote:</span>
             <span onClick="toggleAbstract('keynote-drost-1')" class="abstract-toggle">(<a id="keynote-drost-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="keynote-drost-1">
@@ -201,10 +199,8 @@ Details appearing shortly
 
    <tr>
         <td class="time">16:25 - 16:40</td>
-
-
         <td class="author"><a href="/events/isc-spring-2020-speakers#kristof_van_tomme">Kristof Van Tomme</a> <span class="affiliation">(Pronovix Group BVBA)</span></td>
-        <td class="title"> The role of InnerSourcing in Digital Transformation
+        <td class="title"><a href="https://youtu.be/ppkhSnjv4Mw"> The role of InnerSourcing in Digital Transformation</a>
             <span onClick="toggleAbstract('vantomme-1')" class="abstract-toggle">(<a id="vantomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="vantomme-1">
 Digital transformation is the process through which organizations learn to break free from over-complicated constraints and learn to accept and leverage their internal complexity. Many technologies and methodologies exist that contribute to that transformation, but individually they often fail to deliver a true transformation. InnerSourcing can play a key role in interlinking these strategies and the people that execute them to help companies to catalyze a phase change in an organization's behavior. In this talk I will discuss 5 objectives that help companies become complex adaptive systems, and how Innersourcing initiatives can contribute to them.
@@ -216,7 +212,7 @@ Digital transformation is the process through which organizations learn to break
    <tr>
         <td class="time">16:40 - 16:55</td>
         <td class="author"><a href="/events/isc-spring-2020-speakers#jerry_tan"> Jerry Tan</a> <span class="affiliation"> (Baidu)</span></td>
-        <td class="title"> Practice of InnerSource in several Chinese companies
+        <td class="title"> <a href="https://youtu.be/U8CaW0btJIU">Practice of InnerSource in several Chinese companies</a>
             <span onClick="toggleAbstract('tan-1')" class="abstract-toggle">(<a id="tan-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="tan-1">
 Unlike OpenSource, InnerSource is still a new thing in china. But several big companies already adopted InnerSource including Baidu. As the program manager of InnerSource in Baidu, I will talk about the journey of InnerSource in Baidu, from its first stage, then moved to the next, then next,  how I set policy, process and utility tools to support it. and I will introduce some other company's practice in China  as well.
@@ -257,13 +253,11 @@ Unlike OpenSource, InnerSource is still a new thing in china. But several big co
   </tr>
 
    <tr>
-  
- 
         <td class="time">18:00 - 18:15</td>
         <td class="author"><a href="/events/isc-spring-2020-speakers#ana_jimenez"> Ana Jiménez</a><span class="affiliation"> (Bitergia)</span><br>
         <a href="/events/isc-spring-2020-speakers#jose_manrique_lopez">José Manrique López</a> <span class="affiliation">(Bitergia)</span>
         </td>   
-        <td class="title"> DevRel inside corporate walls
+	<td class="title"> <a href="https://youtu.be/N8DmhTN_lfQ">DevRel inside corporate walls</a>
             <span onClick="toggleAbstract('jimenez-1')" class="abstract-toggle">(<a id="jimenez-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="jimenez-1">
 The role of DevRel has been key to spread corporation's technologies through engaged communities all around the World. DevRel programs are targeted to engage users and contributors to the communities they manage.
@@ -280,13 +274,12 @@ Project managers, InnerSource advocates, and of course, DevRels are welcome to t
         <td class="time">18:15 - 18:30</td>
         <td class="author">
            <a href="/events/isc-spring-2020-speakers#thomas_sadler">Thomas Sadler</a> <span class="affiliation"> (BBC)</span></td>
-        <td class="title"> Implementing InnerSource for a monolithic web client codebase
+        <td class="title"> <a href="https://youtu.be/MyYgk-jdjSw">Implementing InnerSource for a monolithic web client codebase</a>
             <span onClick="toggleAbstract('sadler-1')" class="abstract-toggle">(<a id="sadler-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="sadler-1">
 The BBC’s Connected TV client powers the iPlayer, Sport, News, and RedButton+ products, and is maintained by 6 development teams. In order to work together effectively on a single codebase, an InnerSource approach was adopted. This case study shows how this was implemented and evolved over time.
 
 This case study will start with the background of the problem. How did the BBC end up with a monolithic client that was a huge source of FUD for developers working on it? What sort of problems were they facing day by day when developing on it? What could be done to alleviate the FUD of working on this client, and re-enable innovation and rapid development in their products?
-
             </div>
         </td>
     </tr>
@@ -294,7 +287,7 @@ This case study will start with the background of the problem. How did the BBC e
    <tr>
         <td class="time">18:30 - 18:50</td>
         <td class="author"><a href="/events/isc-spring-2020-speakers#georg_grutter">Georg Grütter</a> <span class="affiliation">(Robert Bosch)</span></td>
-        <td class="title">  InnerSource and open source: The same but different?
+        <td class="title">  <a href="https://youtu.be/aN6K4vcnVuc">InnerSource and open source: The same but different?</a>
         <span class="keynoteTag">Keynote:</span>
             <span onClick="toggleAbstract('keynote-grutter-1')" class="abstract-toggle">(<a id="keynote-grutter-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="keynote-grutter-1">
