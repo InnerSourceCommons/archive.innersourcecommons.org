@@ -27,19 +27,21 @@ layout: page
 
 {{ content }}
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
+{% if page.learning_path_article %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
 
-<p id="learningPathArticle"></p>
+  <p id="learningPathArticle"></p>
 
-<script>
-  fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc')
-    .then((response) => {
-      return response.text()
-    })
-    .then((text) => {
-      document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
-    })
-</script>
+  <script>
+    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc')
+      .then((response) => {
+        return response.text()
+      })
+      .then((text) => {
+        document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
+      })
+  </script>
+{% endif %}
 
 {% assign prev_index = page.learning_path_position | minus: 2 %}
 {% assign prev = siblings[prev_index] %}
