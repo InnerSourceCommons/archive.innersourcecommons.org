@@ -3,12 +3,12 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Learning Path - Product Owner</title>
+	<title>Learning Path - Product Owner - Opening</title>
 	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
 	<script src="/assets/js/modernizr.min.js"></script>
-  <script src="/assets/js/events.js"></script>
+	<script src="/assets/js/events.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -34,7 +34,7 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Learning Path - Product Owner">
+	<meta property="og:title" content="Learning Path - Product Owner - Opening">
 	<meta property="og:description" content="InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy">
 	<meta property="og:url" content="/resources/learningpath/product-owner/">
 	<meta property="og:locale" content="en_EN">
@@ -415,7 +415,7 @@
 
 				<div itemprop="name">
 					
-					<h1>Learning Path - Product Owner</h1>
+					<h1>Learning Path - Product Owner - Opening</h1>
 				</div>
 			</header>
 
@@ -423,30 +423,86 @@
 			
 
 			<div itemprop="articleSection">
-			<h3 id="01---opening">01 - Opening</h3>
-<p><br /></p>
+			
+
+<p><a href="/resources/learningpath/">Back to Learning Path homepage</a></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Product Owner</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+        <tr>
+          
+            <td>01 - Opening</td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/02/">02 - How Difficult it is to be Middle Management</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/03/">03 - Major Benefits are Built into the InnerSource Process</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/04/">04 - New Roles and Responsibilities</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/05/">05 - Recap and Takeaways</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/06/">06 - Closing</a></td>
+          
+        </tr>
+    
+  </tbody>
+</table>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5DXUljspcA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<h3 id="02---how-difficult-it-is-to-be-middle-management">02 - How Difficult it is to be Middle Management</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qCGCNGHyx9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<h3 id="03---major-benefits-are-built-into-the-innersource-process">03 - Major Benefits are Built into the InnerSource Process</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CuycPf1DTVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
 
-<h3 id="04---new-roles-and-responsibilities">04 - New Roles and Responsibilities</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/35Ttvq1zEAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p id="learningPathArticle"></p>
 
-<h3 id="05---recap-and-takeaways">05 - Recap and Takeaways</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wxd-SiV5NSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<script>
+  fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/product-owner/01-opening-article.asciidoc')
+    .then((response) => {
+      return response.text()
+    })
+    .then((text) => {
+      document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
+    })
+</script>
 
-<h3 id="06---closing">06 - Closing</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qMGQVvoqrzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+
+
+
+
+<br />
+<p style="text-align: left">
+  
+  
+    <span style="float: right"><a href="/resources/learningpath/product-owner/02/" >Next</a></span>
+  
+</p>
 			</div>
 
 			

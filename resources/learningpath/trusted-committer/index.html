@@ -3,12 +3,12 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Learning Path - Trusted Committer</title>
+	<title>Learning Path - Trusted Committer - Introduction</title>
 	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
 	<script src="/assets/js/modernizr.min.js"></script>
-  <script src="/assets/js/events.js"></script>
+	<script src="/assets/js/events.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -34,7 +34,7 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Learning Path - Trusted Committer">
+	<meta property="og:title" content="Learning Path - Trusted Committer - Introduction">
 	<meta property="og:description" content="InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy">
 	<meta property="og:url" content="/resources/learningpath/trusted-committer/">
 	<meta property="og:locale" content="en_EN">
@@ -415,7 +415,7 @@
 
 				<div itemprop="name">
 					
-					<h1>Learning Path - Trusted Committer</h1>
+					<h1>Learning Path - Trusted Committer - Introduction</h1>
 				</div>
 			</header>
 
@@ -423,46 +423,98 @@
 			
 
 			<div itemprop="articleSection">
-			<h3 id="01---introduction">01 - Introduction</h3>
-<p><br /></p>
+			
+
+<p><a href="/resources/learningpath/">Back to Learning Path homepage</a></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Trusted Committer</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+        <tr>
+          
+            <td>01 - Introduction</td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/trusted-committer/02/">02 - Ensuring Product Quality</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/trusted-committer/03/">03 - Keeping the Community Healthy</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/trusted-committer/04/">04 - Uplevelling Community Members</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/trusted-committer/05/">05 - Lowering the Barriers to Entry</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/trusted-committer/06/">06 - Advocating for the Community's Needs</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/trusted-committer/07/">07 - Becoming a Trusted Committer</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/trusted-committer/08/">08 - Conclusion</a></td>
+          
+        </tr>
+    
+  </tbody>
+</table>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKdqjkPJWNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc">View the article (on GitHub)</a></p>
 
-<h3 id="02---ensuring-product-quality">02 - Ensuring Product Quality</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/06cVAAwgsZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/02-ensuring-product-quality.asciidoc">View the article (on GitHub)</a></p>
 
-<h3 id="03---keeping-the-community-healthy">03 - Keeping the Community Healthy</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/930UIbjiXZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/03-keeping-the-community-healthy.asciidoc">View the article (on GitHub)</a></p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
 
-<h3 id="04---uplevelling-community-members">04 - Uplevelling Community Members</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o7geZaX7i7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/04-uplevelling-community-members.asciidoc">View the article (on GitHub)</a></p>
+<p id="learningPathArticle"></p>
 
-<h3 id="05---lowering-the-barriers-to-entry">05 - Lowering the Barriers to Entry</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lnz54hlKC-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.asciidoc">View the article (on GitHub)</a></p>
+<script>
+  fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/trusted-committer/01-introduction.asciidoc')
+    .then((response) => {
+      return response.text()
+    })
+    .then((text) => {
+      document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
+    })
+</script>
 
-<h3 id="06---advocating-for-the-communitys-needs">06 - Advocating for the Community’s Needs</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ucQA8mp012Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/06-advocating-for-the-communitys-needs.asciidoc">View the article (on GitHub)</a></p>
 
-<h3 id="07---becoming-a-trusted-committer">07 - Becoming a Trusted Committer</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jA1p01FEHj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/07-becoming-a-trusted-committer.asciidoc">View the article (on GitHub)</a></p>
 
-<h3 id="08---conclusion">08 - Conclusion</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n982OcEfyQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/08-conclusion.asciidoc">View the article (on GitHub)</a></p>
 
+
+
+<br />
+<p style="text-align: left">
+  
+  
+    <span style="float: right"><a href="/resources/learningpath/trusted-committer/02/" >Next</a></span>
+  
+</p>
 			</div>
 
 			

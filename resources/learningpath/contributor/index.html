@@ -3,12 +3,12 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Learning Path - Contributor</title>
+	<title>Learning Path - Contributor - Introduction</title>
 	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
 	<script src="/assets/js/modernizr.min.js"></script>
-  <script src="/assets/js/events.js"></script>
+	<script src="/assets/js/events.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -34,7 +34,7 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Learning Path - Contributor">
+	<meta property="og:title" content="Learning Path - Contributor - Introduction">
 	<meta property="og:description" content="InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy">
 	<meta property="og:url" content="/resources/learningpath/contributor/">
 	<meta property="og:locale" content="en_EN">
@@ -415,7 +415,7 @@
 
 				<div itemprop="name">
 					
-					<h1>Learning Path - Contributor</h1>
+					<h1>Learning Path - Contributor - Introduction</h1>
 				</div>
 			</header>
 
@@ -423,36 +423,86 @@
 			
 
 			<div itemprop="articleSection">
-			<h3 id="01---introduction">01 - Introduction</h3>
-<p><br /></p>
+			
+
+<p><a href="/resources/learningpath/">Back to Learning Path homepage</a></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Contributor</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+        <tr>
+          
+            <td>01 - Introduction</td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/contributor/02/">02 - Becoming an InnerSource Contributor</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/contributor/03/">03 - The Contributor Ethos</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/contributor/04/">04 - Mechanics of Contributing</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/contributor/05/">05 - Benefits of Contribution</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/contributor/06/">06 - Conclusion</a></td>
+          
+        </tr>
+    
+  </tbody>
+</table>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_LNtwShi_XI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc">View the article (on GitHub)</a></p>
 
-<h3 id="02---becoming-an-innersource-contributor">02 - Becoming an InnerSource Contributor</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ofzSDF9EmPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/02-becoming-a-contributor-article.asciidoc">View the article (on GitHub)</a></p>
 
-<h3 id="03---the-contributor-ethos">03 - The Contributor Ethos</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PJEAQXcCh4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/03-contributor-ethos-article.asciidoc">View the article (on GitHub)</a></p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
 
-<h3 id="04---mechanics-of-contributing">04 - Mechanics of Contributing</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BxemepTtPz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc">View the article (on GitHub)</a></p>
+<p id="learningPathArticle"></p>
 
-<h3 id="05---benefits-of-contribution">05 - Benefits of Contribution</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6TGnjmX7zb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/05-benefits-of-contribution-article.asciidoc">View the article (on GitHub)</a></p>
+<script>
+  fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/contributor/01-introduction-article.asciidoc')
+    .then((response) => {
+      return response.text()
+    })
+    .then((text) => {
+      document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
+    })
+</script>
 
-<h3 id="06---conclusion">06 - Conclusion</h3>
-<p><br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_DimaLMLkyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/06-conclusion-article.asciidoc">View the article (on GitHub)</a></p>
 
+
+
+
+
+<br />
+<p style="text-align: left">
+  
+  
+    <span style="float: right"><a href="/resources/learningpath/contributor/02/" >Next</a></span>
+  
+</p>
 			</div>
 
 			

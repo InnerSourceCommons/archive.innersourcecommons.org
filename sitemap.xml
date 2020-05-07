@@ -1,13 +1,343 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 81 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 103 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>/resources/learningpath/introduction/02/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/contributor/02/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/trusted-committer/02/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/product-owner/02/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/introduction/03/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/contributor/03/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/trusted-committer/03/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/product-owner/03/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/introduction/04/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/contributor/04/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/trusted-committer/04/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/product-owner/04/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/introduction/05/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/contributor/05/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/trusted-committer/05/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/product-owner/05/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/introduction/06/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/contributor/06/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/trusted-committer/06/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/product-owner/06/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/trusted-committer/07/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/trusted-committer/08/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
 	<loc>/news/2020-02-19-press-isc-incorporation/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +352,7 @@
 	<url>
 	<loc>/404.html</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +367,7 @@
 	<url>
 	<loc>/news/PRESS-RELEASE-TEMPLATE/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -52,7 +382,7 @@
 	<url>
 	<loc>/about/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -67,7 +397,7 @@
 	<url>
 	<loc>/resources/books/adoptinginnersource/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -82,7 +412,7 @@
 	<url>
 	<loc>/resources/articles/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,7 +429,7 @@
 	<url>
 	<loc>/atom.xml</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +446,7 @@
 	<url>
 	<loc>/checklist/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +461,7 @@
 	<url>
 	<loc>/events/conduct/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +476,7 @@
 	<url>
 	<loc>/contact/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,22 +491,7 @@
 	<url>
 	<loc>/contribute/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/resources/learningpath/contributor/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +506,7 @@
 	<url>
 	<loc>/fallsummit2017/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +521,7 @@
 	<url>
 	<loc>/fallsummit2017_cfp/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +536,7 @@
 	<url>
 	<loc>/fallsummit2018/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +551,7 @@
 	<url>
 	<loc>/feed.xml</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +566,7 @@
 	<url>
 	<loc>/gdrive/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +581,7 @@
 	<url>
 	<loc>/getting-started/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -281,7 +596,7 @@
 	<url>
 	<loc>/ggroup/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -296,7 +611,7 @@
 	<url>
 	<loc>/humans.txt</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -311,7 +626,7 @@
 	<url>
 	<loc>/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -326,67 +641,7 @@
 	<url>
 	<loc>/events/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/resources/learningpath/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/resources/books/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/resources/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/news/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -401,7 +656,7 @@
 	<url>
 	<loc>/resources/learningpath/introduction/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -414,24 +669,9 @@
 
 	
 	<url>
-	<loc>/events/isc-fall-2016/</loc>
+	<loc>/resources/learningpath/contributor/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-fall-2017-agenda/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -444,399 +684,9 @@
 
 	
 	<url>
-	<loc>/events/isc-fall-2017-cfp/</loc>
+	<loc>/resources/learningpath/trusted-committer/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-fall-2017-speakers/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-fall-2017/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-fall-2018-agenda/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-fall-2018-cfp/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-fall-2018-speakers/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-fall-2018/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2016/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2017/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2018-agenda/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2018-cfp/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2018-speakers/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2018/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2019-agenda/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2019-cfp/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2019-speakers/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2019/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2020-agenda/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2020-cfp/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2020-coronavirus/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2020-speakers/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/isc-spring-2020/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/learningpath/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/oscon-us-2016/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/patterns-officehours/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/patterns/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/resources/patternsofficehours/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -851,7 +701,502 @@
 	<url>
 	<loc>/resources/learningpath/product-owner/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/learningpath/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/books/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/news/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-fall-2016/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-fall-2017-agenda/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-fall-2017-cfp/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-fall-2017-speakers/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-fall-2017/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-fall-2018-agenda/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-fall-2018-cfp/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-fall-2018-speakers/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-fall-2018/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2016/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2017/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2018-agenda/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2018-cfp/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2018-speakers/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2018/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2019-agenda/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2019-cfp/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2019-speakers/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2019/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2020-agenda/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2020-cfp/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2020-coronavirus/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2020-speakers/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/isc-spring-2020/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/learningpath/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/events/oscon-us-2016/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/patterns-officehours/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/patterns/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/resources/patternsofficehours/</loc>
+	
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -866,7 +1211,7 @@
 	<url>
 	<loc>/resources/research/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -881,7 +1226,7 @@
 	<url>
 	<loc>/robots.txt</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -900,7 +1245,7 @@
 	<url>
 	<loc>/search/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -915,7 +1260,7 @@
 	<url>
 	<loc>/sitemap.xml</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -930,7 +1275,7 @@
 	<url>
 	<loc>/slack/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -945,7 +1290,7 @@
 	<url>
 	<loc>/slackinvite/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -960,7 +1305,7 @@
 	<url>
 	<loc>/springsummit2018/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -975,7 +1320,7 @@
 	<url>
 	<loc>/springsummit2018_cfp/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -990,7 +1335,7 @@
 	<url>
 	<loc>/springsummit2018_cfposters/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1005,7 +1350,7 @@
 	<url>
 	<loc>/springsummit2019/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1020,7 +1365,7 @@
 	<url>
 	<loc>/springsummit2019_cfp/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1035,7 +1380,7 @@
 	<url>
 	<loc>/springsummit2020/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1050,7 +1395,7 @@
 	<url>
 	<loc>/assets/css/style.css</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1061,28 +1406,13 @@
 	</url>
 	
 
-	
-
-	
-	<url>
-	<loc>/resources/learningpath/trusted-committer/</loc>
-	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
 	
 
 	
 	<url>
 	<loc>/wiki/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1097,7 +1427,7 @@
 	<url>
 	<loc>/youtube/</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1112,7 +1442,7 @@
 	<url>
 	<loc>/redirects.json</loc>
 	
-		<lastmod>2020-05-06T19:01:53+00:00</lastmod>
+		<lastmod>2020-05-07T15:46:16+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
