@@ -489,19 +489,21 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06cVAAwgsZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
 
-<p id="learningPathArticle"></p>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
 
-<script>
-  fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/trusted-committer/02-ensuring-product-quality.asciidoc')
-    .then((response) => {
-      return response.text()
-    })
-    .then((text) => {
-      document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
-    })
-</script>
+  <p id="learningPathArticle"></p>
+
+  <script>
+    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/trusted-committer/02-ensuring-product-quality.asciidoc')
+      .then((response) => {
+        return response.text()
+      })
+      .then((text) => {
+        document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
+      })
+  </script>
+
 
 
 

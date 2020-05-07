@@ -478,19 +478,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qCGCNGHyx9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
 
-<p id="learningPathArticle"></p>
-
-<script>
-  fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/product-owner/02-how-difficult-it-is-to-be-a-middle-manager-article.asciidoc')
-    .then((response) => {
-      return response.text()
-    })
-    .then((text) => {
-      document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
-    })
-</script>
 
 
 
