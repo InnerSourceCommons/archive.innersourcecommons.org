@@ -2,6 +2,7 @@
 layout: page
 ---
 
+{% assign siblings = site.pages | where: "learning_path_group", page.learning_path_group | sort: "learning_path_position" %}
 
 <table>
   <thead>
@@ -10,7 +11,6 @@ layout: page
     </tr>
   </thead>
   <tbody>
-    {% assign siblings = site.pages | where: "learning_path_group", page.learning_path_group | sort: "learning_path_position" %}
     {% for item in siblings %}
         <tr>
           {% if item.url == page.url %}
@@ -27,7 +27,7 @@ layout: page
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
 
-<div id="learningPathArticle"></div>
+<p id="learningPathArticle"></p>
 
 <script>
   fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc')
@@ -38,3 +38,18 @@ layout: page
       document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
     })
 </script>
+
+{% assign prev_index = page.learning_path_position | minus: 2 %}
+{% assign prev = siblings[prev_index] %}
+{% assign next_index = page.learning_path_position %}
+{% assign next = siblings[next_index] %}
+
+<br />
+<p style="text-align: left">
+  {% if prev_index > -1 %}
+    <span style="float: left;"></span><a href="{{ prev.url }}" >Previous</a></span>
+  {% endif %}
+  {% if next_index < siblings.size %}
+    <span style="float: right"><a href="{{ next.url }}" >Next</a></span>
+  {% endif %}
+</p>
