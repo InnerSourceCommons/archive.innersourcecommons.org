@@ -4,7 +4,17 @@ show_meta: false
 title: 'Articles'
 ---
 
-Below is a historical list of various blog posts, talks, articles, and presentations on Inner Source. Note: This is in the process of being migrated from http://www.inner-sourcing.com/wiki/inner-source-wiki/
+Below is a list of blog posts, talks, articles, and presentations on InnerSource.
+
+2020:
+
+* [May 6, 2020] Danese Cooper, [Why InnerSource is a critical component of FOSS sustainability](https://www.youtube.com/watch?v=FhZTPM9ysWk&t=34625), GitHub Satellite Virtual 2020 (also see [Q&A after the talk](https://github.com/githubevents/satellite2020/discussions/6))
+* [Apr 24, 2020] Danese Cooper and Roy Fielding - The Journey to InnerSource - The Apache Way: [Part 1](https://podcasts.apple.com/ie/podcast/journey-to-innersource-apache-way-roy-fielding-part/id1461451498?i=1000472523024), [Part 2](https://podcasts.apple.com/ie/podcast/the-journey-to-innersource-the-apache-way-part-2/id1461451498?i=1000474233934)
+* [Jan 31, 2020] Enrico Hartung, [Europace's journey to InnerSource](https://www.slideshare.net/EnricoHartung/europaces-innersource-journey)
+
+2019:
+
+* [Nov 19, 2019] Isabel Drost-Fromm, [Running an InnerSource initiative](https://tech.europace.de/running-an-innersource-initiative-leading-by-example/)
 
 2018:
 
@@ -24,7 +34,7 @@ Below is a historical list of various blog posts, talks, articles, and presentat
 2015:
 
 * [Sep 10, 2015] [InnerSource: a practical application of open source techniques within organizational boundaries](http://www.openhealthnews.com/articles/2015/innersource-practical-application-open-source-techniques-within-organizational-boundar)
-* [Aug 27, 2015] 
+* [Aug 27, 2015]
 Issac Goldstand, [Why Your Organization Should Consider InnerSource](https://web.archive.org/web/20151109074225/http://developers.ironsrc.com:80/why-your-organization-should-consider-innersource/)
 * [Aug 14, 2015] [Learn why InnerSourced projects pay off for PayPal](https://tech.ebu.ch/news/2015/08/learn-why-innersourcing-projects)
 * [Aug 5, 2015] [How InnerSource Will Change Coding, with PayPal's Danese Cooper &amp; Arnold Goldberg](https://www.youtube.com/watch?v=GwsduTCiWIU)
