@@ -14,7 +14,7 @@ Below is a list of blog posts, talks, articles, and presentations on InnerSource
 
 2019:
 
-* [Nov, 19 2019] Isabel Drost-Fromm, [Running an InnerSource initiative](https://tech.europace.de/running-an-innersource-initiative-leading-by-example/)
+* [Nov 19, 2019] Isabel Drost-Fromm, [Running an InnerSource initiative](https://tech.europace.de/running-an-innersource-initiative-leading-by-example/)
 
 2018:
 
