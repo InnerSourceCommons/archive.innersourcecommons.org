@@ -12,13 +12,21 @@ We hope they help you on your journey to InnerSource!
  
 The InnerSource Learning Path covers the following sections:
 
-[Introduction]- Check out the Introduction to learn about the types of problems where InnerSource can help, how to do it, the types of benefits you can expect to see by participating, and the underlying principles that make it all work.
+### [Introduction]
+
+Check out the Introduction to learn about the types of problems where InnerSource can help, how to do it, the types of benefits you can expect to see by participating, and the underlying principles that make it all work.
  
-[Trusted Committer]- Visit this section to get an introduction to the crucial role of Trusted Committer, essential for a strong InnerSource implementation in any company. Learn about what it takes to fill the role and what the path towards being a Trusted Committer looks like.
+### [Trusted Committer]
+
+Visit this section to get an introduction to the crucial role of Trusted Committer, essential for a strong InnerSource implementation in any company. Learn about what it takes to fill the role and what the path towards being a Trusted Committer looks like.
  
-[Contributor]- The Contributor section covers what it means to be an InnerSource Contributor, the aspects of behaviour that will make you a successful Contributor, contribution mechanics and the benefits of InnerSource for your team and organization.
+### [Contributor]
+
+The Contributor section covers what it means to be an InnerSource Contributor, the aspects of behaviour that will make you a successful Contributor, contribution mechanics and the benefits of InnerSource for your team and organization.
  
-[Product Owner]- This section is for Product Owners or Program Managers and covers the basic InnerSource techniques that will save countless management and developer hours.
+### [Product Owner]
+
+This section is for Product Owners or Program Managers and covers the basic InnerSource techniques that will save countless management and developer hours.
 
 
 The videos are becoming available on our YouTube channel: [YouTubeChannel]
