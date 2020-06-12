@@ -14,6 +14,7 @@ The InnerSource Learning Path covers the following sections:
 
 ### [Introduction]
 
+![Thumbnail](/assets/img/thumbnail4.jpg)
 Check out the Introduction to learn about the types of problems where InnerSource can help, how to do it, the types of benefits you can expect to see by participating, and the underlying principles that make it all work.
  
 ### [Trusted Committer]
@@ -43,4 +44,6 @@ If you would like to get involved with the Learning Path work at InnerSource Com
 [Trusted Committer]: ./trusted-committer 
 [Contributor]: ./contributor
 [YouTubeChannel]: https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA
+
+[example thumbnail]: ./assets/img/thumbnail4.jpg
 
