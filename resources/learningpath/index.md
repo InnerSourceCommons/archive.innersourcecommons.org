@@ -51,6 +51,3 @@ If you would like to get involved with the Learning Path work at InnerSource Com
 [Trusted Committer]: ./trusted-committer 
 [Contributor]: ./contributor
 [YouTubeChannel]: https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA
-
-[example thumbnail]: ./assets/img/thumbnail4.jpg
-
