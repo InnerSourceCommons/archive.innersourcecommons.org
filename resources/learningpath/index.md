@@ -4,35 +4,50 @@ show_meta: false
 title: 'Learning Path'
 ---
 
-The InnerSource Learning Path is a series of short videos and articles explaining and teaching various aspects of InnerSource.
-Their production was kindly sponsored by PayPal. 
-
+The InnerSource Commons Learning Path community is focused on creating a set of resources explaining and teaching various aspects of InnerSource. This curated set of videos and articles cover patterns that have been adopted by many organisations and have been proven to lead to successful InnerSource practices. The video production was kindly sponsored by PayPal.
+ 
+Many of our community use these resources within their organisations to increase awareness and build competencies around InnerSource.
+ 
+We hope they help you on your journey to InnerSource!
+ 
 The InnerSource Learning Path covers the following sections:
 
-| O'Reilly | ISC |
-| ------- | ---- |
-| [Introduction][Introduction on O'Reilly Safari] | [Introduction]  |
-| [Product Owner][Product Owner on O'Reilly Safari] | [Product Owner] |
-| [Trusted Committer][Trusted Committer on O'Reilly Safari] | [Trusted Committer] |
-| [Contributor][Contributor on O'Reilly Safari] | [Contributor] |
+### [Introduction]
 
-The videos are becoming available on YouTube part by part.
-See our channel here: [YouTubeChannel]
+<img src="/assets/img/LP_thumbnail_introduction.jpg" alt="Learning Path Introduction Thumbnail" width="200"/>
+
+Check out the Introduction to learn about the types of problems where InnerSource can help, how to do it, the types of benefits you can expect to see by participating, and the underlying principles that make it all work.
+ 
+### [Trusted Committer]
+
+<img src="/assets/img/LP_thumbnail_trustedcommitter.jpg" alt="Learning Path Trusted Committer Thumbnail" width="200"/>
+
+Visit this section to get an introduction to the crucial role of Trusted Committer, essential for a strong InnerSource implementation in any company. Learn about what it takes to fill the role and what the path towards being a Trusted Committer looks like.
+ 
+### [Contributor]
+
+<img src="/assets/img/LP_thumbnail_contributor.jpg" alt="Learning Path Contributor Thumbnail" width="200"/>
+
+The Contributor section covers what it means to be an InnerSource Contributor, the aspects of behaviour that will make you a successful Contributor, contribution mechanics and the benefits of InnerSource for your team and organization.
+ 
+### [Product Owner]
+
+<img src="/assets/img/LP_thumbnail_productowner.jpg" alt="Learning Path Product Owner Thumbnail" width="200"/>
+
+This section is for Product Owners or Program Managers and covers the basic InnerSource techniques that will save countless management and developer hours.
+
+
+The videos are becoming available on our YouTube channel: [YouTubeChannel]
 
 ## Contribute to the InnerSource Learning Paths!
 
-We invite you to help us finishing the InnerSource Learning Paths. Checkout the [README.md of the Learning Path Repository](https://github.com/InnerSourceCommons/InnerSourceLearningPath/) or join our Slack channel via the signup link in the left bar of this website and ask to join the [#learning-path] _Slack_ channel.
+If you would like to get involved with the Learning Path work at InnerSource Commons, checkout the [README.md of the Learning Path Repository](https://github.com/InnerSourceCommons/InnerSourceLearningPath/) or join our Slack channel via the signup link in the left bar of this website and ask to join the [#learning-path] _Slack_ channel. Once there you'll see the conversations we're having about producing this content and can join the work. 
 
 [InnerSource Commons]: https://www.innersourcecommons.org/
-[#learning-path]: https://paypalflow.slack.com/messages/CARTU4XV2
-[Trusted Committer on O'Reilly Safari]: https://learning.oreilly.com/learning-paths/learning-path-innersource/0636920438137/9781492047599-video323925
-[Introduction]: ./introduction
-[Introduction on O'Reilly Safari]: https://learning.oreilly.com/learning-paths/learning-path-innersource/0636920438137/9781492041504-video321606 
+[#learning-path]: https://innersourcecommons-inviter.herokuapp.com/
 
-[Product Owner on O'Reilly Safari]: https://learning.oreilly.com/learning-paths/learning-path-innersource/0636920438137/9781492046707-video325229
+[Introduction]: ./introduction
 [Product Owner]: ./product-owner
 [Trusted Committer]: ./trusted-committer 
 [Contributor]: ./contributor
-[http://bit.ly/inner-source-learning-path]: http://bit.ly/inner-source-learning-path
 [YouTubeChannel]: https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA
-[Contributor on O'Reilly Safari]: https://learning.oreilly.com/learning-paths/learning-path-innersource/0636920438137/0636920338802-video329499
