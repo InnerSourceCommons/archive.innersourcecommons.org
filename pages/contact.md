@@ -22,7 +22,7 @@ Add yourself via [pull request](https://github.com/InnerSourceCommons/innersourc
 | Max Capraro | [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/) | Scientific Staff | Germany | - | Y |
 | Danese Cooper | [NearForm](https://www.nearform.com/) | VP Special Initiatives | Worldwide | Y | Y |
 | Isabel Drost-Fromm | [Europace AG](https://www.europace.de/) | Open Source Strategist | Germany | - | Y |
-| Georg Gruetter | [Bosch Software Innovations](https://www.bosch.com/) | Chief Expert | Germany | Y | Y |
+| Georg Gruetter | [Bosch.IO](https://bosch.io) | Chief Expert | Germany | Y | Y |
 | Daniel Izquierdo Cortázar | [Bitergia](https://bitergia.com) | Chief Data Officer | Spain/Worldwide | Y | Y |
 | Johannes Nicolai | [GitHub](https://github.com) | Principal Solutions Engineer | Germany | Y | Y |
 | Russ Rutledge | [Nike](https://www.nike.com) | Director of Community and Inner Source | United States | Y | Y |
