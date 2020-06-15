@@ -16,16 +16,14 @@ title: 'Terse Notes from Board Meeting on 2020-06-10'
 - Danese Cooper (President)
 - Maximilian Capraro
 - Isabel Drost-Fromm
-- Jacob Green
 - Georg Grütter (Vice President)
 - Daniel Izquierdo
 - Russel Rutledge (Secretary)
-- Klaas-Jan Stol
-- Johannes Tigges
 
 #### Directors Absent
 
 - Cedric Williams (Treasurer)
+- Timothy H-J. Yao
 
 #### Members Present
 
