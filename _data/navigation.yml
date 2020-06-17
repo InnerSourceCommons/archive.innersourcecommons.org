@@ -55,6 +55,8 @@
   dropdown:
   - title: "Contact"
     url: "/contact/"
+  - title: "Board"
+    url: "/board/"
 
 - title: "Wiki"
   url: "/wiki/"
