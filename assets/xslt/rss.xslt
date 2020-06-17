@@ -327,6 +327,11 @@
 
                       <li><a  href="/contact/" >Contact</a></li>
                     
+
+                      
+
+                      <li><a  href="/board/" >Board</a></li>
+                    
                   </ul>
 
               </li>
