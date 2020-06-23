@@ -27,6 +27,7 @@ comprised of:
 ## Public Board Meeting Notes
 
 - [2020-06-10]({{ site.baseurl}}/board/2020-06-10-terse-notes/)
+- [2020-05-13]({{ site.baseurl}}/board/2020-05-13-terse-notes/)
 
 
 
