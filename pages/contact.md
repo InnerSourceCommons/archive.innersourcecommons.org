@@ -24,6 +24,7 @@ Add yourself via [pull request](https://github.com/InnerSourceCommons/innersourc
 | Isabel Drost-Fromm | [Europace AG](https://www.europace.de/) | Open Source Strategist | Germany | - | Y |
 | Georg Gruetter | [Bosch.IO](https://bosch.io) | Chief Expert | Germany | Y | Y |
 | Daniel Izquierdo Cortázar | [Bitergia](https://bitergia.com) | Chief Data Officer | Spain/Worldwide | Y | Y |
+| Mekki MacAulay | [IBM](https://ibm.com) | Senior Open Source Strategy Advisor | Canada/Worldwide | Y | Y |
 | Johannes Nicolai | [GitHub](https://github.com) | Principal Solutions Engineer | Germany | Y | Y |
 | Russ Rutledge | [Nike](https://www.nike.com) | Director of Community and Inner Source | United States | Y | Y |
 | Klaas-Jan Stol | [Lero](https://www.lero.ie) | Lecturer | Ireland | Y | Y |
