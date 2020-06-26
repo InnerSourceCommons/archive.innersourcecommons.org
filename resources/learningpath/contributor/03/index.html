@@ -476,39 +476,48 @@
           
         </tr>
     
+        <tr>
+          
+            <td><a href="/resources/learningpath/contributor/workbook/">Contributor Workbook</a></td>
+          
+        </tr>
+    
   </tbody>
 </table>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.13.1/js-yaml.min.js"></script>
 
-<div id="learningPathVideo"></div>
 
-<script>
-  let tag = document.createElement('script');
+  <div id="learningPathVideo"></div>
 
-  tag.src = "https://www.youtube.com/iframe_api";
-  const firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  <script>
+    let tag = document.createElement('script');
 
-  let player;
-  function onYouTubeIframeAPIReady() {
-    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/config/urls.yaml')
-      .then(response => response.text())
-      .then(jsyaml.safeLoad)
-      .then((urls) => {
-        const firstEntryOfGroupIndex = urls.findIndex(entry => entry.section === 'Contributor'.toLowerCase())
-        const currentPageIndexOffset = 2
-        const youtubeUrl = urls[firstEntryOfGroupIndex + currentPageIndexOffset].video.youtube
-        const videoId = youtubeUrl.replace('https://www.youtube.com/watch?v=', '')
+    tag.src = "https://www.youtube.com/iframe_api";
+    const firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-        player = new YT.Player('learningPathVideo', {
-          height: '315',
-          width: '560',
-          videoId
-        });
-      })
-  }
-</script>
+    let player;
+    function onYouTubeIframeAPIReady() {
+      fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/config/urls.yaml')
+        .then(response => response.text())
+        .then(jsyaml.safeLoad)
+        .then((urls) => {
+          const firstEntryOfGroupIndex = urls.findIndex(entry => entry.section === 'Contributor'.toLowerCase())
+          const currentPageIndexOffset = 2
+          const youtubeUrl = urls[firstEntryOfGroupIndex + currentPageIndexOffset].video.youtube
+          const videoId = youtubeUrl.replace('https://www.youtube.com/watch?v=', '')
+
+          player = new YT.Player('learningPathVideo', {
+            height: '315',
+            width: '560',
+            videoId
+          });
+        })
+    }
+  </script>
+
+
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>

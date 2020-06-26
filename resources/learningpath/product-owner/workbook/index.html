@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Learning Path - Contributor - Introduction</title>
+	<title>Learning Path - Product Owner - Workbook</title>
 	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
@@ -34,9 +34,9 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Learning Path - Contributor - Introduction">
+	<meta property="og:title" content="Learning Path - Product Owner - Workbook">
 	<meta property="og:description" content="InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy">
-	<meta property="og:url" content="/resources/learningpath/contributor/">
+	<meta property="og:url" content="/resources/learningpath/product-owner/workbook/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="InnerSource Commons">
@@ -420,7 +420,7 @@
 
 				<div itemprop="name">
 					
-					<h1>Learning Path - Contributor - Introduction</h1>
+					<h1>Learning Path - Product Owner - Workbook</h1>
 				</div>
 			</header>
 
@@ -435,50 +435,50 @@
 <table>
   <thead>
     <tr>
-      <th>Contributor</th>
+      <th>Product Owner</th>
     </tr>
   </thead>
   <tbody>
     
         <tr>
           
-            <td>01 - Introduction</td>
+            <td><a href="/resources/learningpath/product-owner/">01 - Opening</a></td>
           
         </tr>
     
         <tr>
           
-            <td><a href="/resources/learningpath/contributor/02/">02 - Becoming an InnerSource Contributor</a></td>
+            <td><a href="/resources/learningpath/product-owner/02/">02 - How Difficult it is to be Middle Management</a></td>
           
         </tr>
     
         <tr>
           
-            <td><a href="/resources/learningpath/contributor/03/">03 - The Contributor Ethos</a></td>
+            <td><a href="/resources/learningpath/product-owner/03/">03 - Major Benefits are Built into the InnerSource Process</a></td>
           
         </tr>
     
         <tr>
           
-            <td><a href="/resources/learningpath/contributor/04/">04 - Mechanics of Contributing</a></td>
+            <td><a href="/resources/learningpath/product-owner/04/">04 - New Roles and Responsibilities</a></td>
           
         </tr>
     
         <tr>
           
-            <td><a href="/resources/learningpath/contributor/05/">05 - Benefits of Contribution</a></td>
+            <td><a href="/resources/learningpath/product-owner/05/">05 - Recap and Takeaways</a></td>
           
         </tr>
     
         <tr>
           
-            <td><a href="/resources/learningpath/contributor/06/">06 - Conclusion</a></td>
+            <td><a href="/resources/learningpath/product-owner/06/">06 - Closing</a></td>
           
         </tr>
     
         <tr>
           
-            <td><a href="/resources/learningpath/contributor/workbook/">Contributor Workbook</a></td>
+            <td>Product Owner Workbook</td>
           
         </tr>
     
@@ -488,35 +488,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.13.1/js-yaml.min.js"></script>
 
 
-  <div id="learningPathVideo"></div>
-
-  <script>
-    let tag = document.createElement('script');
-
-    tag.src = "https://www.youtube.com/iframe_api";
-    const firstScriptTag = document.getElementsByTagName('script')[0];
-    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-    let player;
-    function onYouTubeIframeAPIReady() {
-      fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/config/urls.yaml')
-        .then(response => response.text())
-        .then(jsyaml.safeLoad)
-        .then((urls) => {
-          const firstEntryOfGroupIndex = urls.findIndex(entry => entry.section === 'Contributor'.toLowerCase())
-          const currentPageIndexOffset = 0
-          const youtubeUrl = urls[firstEntryOfGroupIndex + currentPageIndexOffset].video.youtube
-          const videoId = youtubeUrl.replace('https://www.youtube.com/watch?v=', '')
-
-          player = new YT.Player('learningPathVideo', {
-            height: '315',
-            width: '560',
-            videoId
-          });
-        })
-    }
-  </script>
-
 
 
 
@@ -525,7 +496,7 @@
   <p id="learningPathArticle"></p>
 
   <script>
-    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/contributor/01-introduction-article.asciidoc')
+    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/workbook/03-product-owner.asciidoc')
       .then((response) => {
         return response.text()
       })
@@ -543,8 +514,8 @@
 <br />
 <p style="text-align: left">
   
+    <span style="float: left;"></span><a href="/resources/learningpath/product-owner/06/" >Previous</a></span>
   
-    <span style="float: right"><a href="/resources/learningpath/contributor/02/" >Next</a></span>
   
 </p>
 			</div>
