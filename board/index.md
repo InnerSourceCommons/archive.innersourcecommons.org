@@ -15,7 +15,7 @@ comprised of:
 | Name | Email |
 |------|-------|
 | Danese Cooper (as President) | |
-| Georg Gruetter (as Vice President | |
+| Georg Gruetter (as Vice President) | |
 | Russel Rutldege (as Secretary) | |
 | Cedric Williams (as Treasurer) | | 
 | Silona Irene Bonewald | | 
@@ -28,6 +28,3 @@ comprised of:
 
 - [2020-06-10]({{ site.baseurl}}/board/2020-06-10-terse-notes/)
 - [2020-05-13]({{ site.baseurl}}/board/2020-05-13-terse-notes/)
-
-
-
