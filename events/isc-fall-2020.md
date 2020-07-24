@@ -8,7 +8,7 @@ Welcome to the 11th InnerSource Commons Summit! Thanks to the success of the <a 
 
 We continue to explore new ways to get together and keep advancing in the body of knowledge of InnerSource. Nowadays and in this industry, it is more and more important to successfully work remotely and across different geographical areas. This online event has this in mind and we hope to learn from each other, what it is working and what it is not.
 
-The summit consists of two days, each a three hour slot: from noon East Coast US / 9 am West Coast US / 6pm Europe / 5pm UK & Ireland / 9:30pm Mumbai / midnight Singapore & Bejing.
+The summit consists of two days, each a three hour slot: from noon East Coast US / 9 am West Coast US / 6pm Europe / 5pm UK & Ireland / 9:30pm Mumbai / midnight Singapore & Bejing (4pm UTC).
 
 We are a global community, but because our Fall Summit usually takes place in North America, it will take place slightly later than our Spring Summit (traditionally EU). 
 
@@ -17,11 +17,11 @@ We are hoping to host an online summit later in the year to fit with the timezon
 
 ### Call For Presentations
 
-[Call For Presentations is live now!](https://forms.gle/G5qWjqzSmqCkQ29i9)
+[Call For Presentations is live now!](https://forms.gle/G5qWjqzSmqCkQ29i9) Deadline for proposals is 25th August 2020.
 
 ### Call For Sponsorship
 
-We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Clare Dillon for more details (clare.dillon@live.ie).
+We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. You can find our sponsorship propsoal [here](https://drive.google.com/file/d/12y2LG71MbWud-_xDYRNEg9cqVMcrSqxK/view?usp=sharing). If interested in sponsoring this event, please contact Clare Dillon for more details (clare.dillon@live.ie).
 
 
 ### Registration
