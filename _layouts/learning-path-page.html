@@ -65,7 +65,7 @@ layout: page
   <p id="learningPathArticle"></p>
 
   <script>
-    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc')
+    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}')
       .then((response) => {
         return response.text()
       })
