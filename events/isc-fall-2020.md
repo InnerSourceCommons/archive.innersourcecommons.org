@@ -20,7 +20,7 @@ We are hoping to host an online summit later in the year to fit with the timezon
 
 ### Agenda and Speakers
 
-We are deligthed to welcome Danese Cooper (VP of Special Initiatives at NearForm), Martin Woodward (Director of Developer Relations at GitHub), James McLeod (Director of Community at FINOS, the Fintech Open Source Foundation), and Silona Bonewald (Executive Director at IEEE) as our first confirmed keynote speakers. 
+We are deligthed to welcome Danese Cooper (VP of Special Initiatives at NearForm), Martin Woodward (Director of Developer Relations at GitHub), James McLeod (Director of Community at FINOS, the Fintech Open Source Foundation), and Silona Bonewald (Executive Director at IEEE SA Open) as our first confirmed keynote speakers. 
 
 We will be updating this list over the next few weeks as new speakers are confirmed. The full agenda will be available after our CFP closes. Stay tuned!
 
