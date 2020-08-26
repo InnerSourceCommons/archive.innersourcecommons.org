@@ -56,6 +56,7 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 ### Keynote Speaker Bios
 
+<img alt="Silona Bonewald photo" src="/assets/img/silona_bonewald.jpg" width="200" align="right"/>
 
 **Silona Bonewald**
 
@@ -67,13 +68,21 @@ Silona Bonewald is the Executive Director of IEEE SA Open. Previously, Silona se
 
 Danese Cooper is the Chairperson of InnerSource Commons and Vice President of Special Initiatives at NearForm, an Irish tech firm. Previously, she was Head of Open Source software at PayPal, CTO of Wikipedia, Chief Open Source Evangelist for Sun, and Senior Director of Open Source Strategies for Intel. Danese was also the inaugural chairperson of the Node.js Foundation. She concentrates on creating healthy open source communities and has served on the boards of Drupal Association, the Open Source Initiative, the Open Source Hardware Association, and she’s advised Mozilla and the Apache Software Foundation. Danese also runs a successful open source consultancy that counts the Bill & Melinda Gates Foundation, the SETI Institute, Harris, and Numenta as clients. She’s been known to knit through meetings.
 
+<img alt="James McLeod photo" src="/assets/img/james-mcleod.png" width="200" align="right"/>
+
 **James McLeod**
 
 James is the Director of Community at FINOS and wholeheartedly believes the transformation of Financial Services can only be fulfilled if Open Source is embraced under the three pillars of Contribution, Consumption and Community. James has a twenty year career in software engineering having worked for telecommunication startups, the gaming industry, digital streaming platforms and financial services. Prior to joining FINOS James worked at Lloyds Banking Group where he focused on building engineering communities for Lloyds Bank, Halifax, Bank of Scotland, Scottish Widows and other LBG banks. While at Lloyds Banking Group, James also drove the adoption of Inner Source and Open Source partly through the creation of engineering guilds providing in-person and remote educational sessions and large hackathon events. James also spent a number of years consulting on software engineering projects for RBS, NatWest and Barclays.
 
+
+<img alt="Tim O'Reilly photo" src="/assets/img/Tim_Oreilly.jpg" width="200" align="right"/>
+
 **Tim O'Reilly**
 
 Tim O’Reilly is the founder, CEO, and Chairman of O'Reilly Media, the company that has been providing the picks and shovels of learning to the Silicon Valley goldrush for the past thirty-five years. The company's online learning and knowledge-on-demand platform at oreilly.com is used by thousands of enterprises and millions of individuals worldwide. O'Reilly has a history of convening conversations that reshape the computer industry. If you've heard the term "open source software", "web 2.0", "the Maker movement","government as a platform", or "the WTF economy", he's had a hand in framing each of those big ideas. Tim is also a partner at early stage venture firm O'Reilly AlphaTech Ventures (OATV), and on the boards of Code for America, PeerJ, Civis Analytics, and PopVox. He is the author of many technical books published by O'Reilly Media, and most recently WTF? What's the Future and Why It's Up to Us (Harper Business, 2017). He is working on a new book about why we need to rethink antitrust in the era of internet-scale platforms.
+
+
+<img alt="Martin Woodward photo" src="/assets/img/Martin_Woodward.jpg" width="200" align="right"/>
 
 **Martin Woodward**
 
