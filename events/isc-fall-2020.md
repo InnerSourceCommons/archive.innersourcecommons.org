@@ -14,6 +14,8 @@ We are delighted to announce that **Tim O'Reilly** (Founder, CEO, and Chairman o
 
 Tim will join **Danese Cooper** (VP of Special Initiatives at NearForm), **James McLeod** (Director of Community at FINOS, the Fintech Open Source Foundation), **Martin Woodward** (Director of Developer Relations at GitHub), and **Silona Bonewald** (Executive Director at IEEE SA Open) in the keynote sessions. 
 
+The Summit agenda is available [here](https://innersourcecommons.org/events/isc-fall-2020-agenda/).
+
 ### About the Event
 
 The summit consists of two days, each a 3.5 hour slot: running from noon East Coast US / 9 am West Coast US / 6pm Europe / 5pm UK & Ireland / 9:30pm Mumbai / midnight Singapore & Bejing (4pm UTC). 
@@ -82,7 +84,7 @@ James is the Director of Community at FINOS and wholeheartedly believes the tran
 Tim O’Reilly is the founder, CEO, and Chairman of O'Reilly Media, the company that has been providing the picks and shovels of learning to the Silicon Valley goldrush for the past thirty-five years. The company's online learning and knowledge-on-demand platform at oreilly.com is used by thousands of enterprises and millions of individuals worldwide. O'Reilly has a history of convening conversations that reshape the computer industry. If you've heard the term "open source software", "web 2.0", "the Maker movement","government as a platform", or "the WTF economy", he's had a hand in framing each of those big ideas. Tim is also a partner at early stage venture firm O'Reilly AlphaTech Ventures (OATV), and on the boards of Code for America, PeerJ, Civis Analytics, and PopVox. He is the author of many technical books published by O'Reilly Media, and most recently WTF? What's the Future and Why It's Up to Us (Harper Business, 2017). He is working on a new book about why we need to rethink antitrust in the era of internet-scale platforms.
 
 
-<img alt="Martin Woodward photo" src="/assets/img/Martin_Woodward.jpg" width="200" align="right"/>
+<img alt="Martin Woodward photo" src="/assets/img/Martin_Woodward.png" width="200" align="right"/>
 
 **Martin Woodward**
 
