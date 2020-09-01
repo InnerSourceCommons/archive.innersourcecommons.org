@@ -14,6 +14,8 @@ We are delighted to announce that **Tim O'Reilly** (Founder, CEO, and Chairman o
 
 Tim will join **Danese Cooper** (VP of Special Initiatives at NearForm), **James McLeod** (Director of Community at FINOS, the Fintech Open Source Foundation), **Martin Woodward** (Director of Developer Relations at GitHub), and **Silona Bonewald** (Executive Director at IEEE SA Open) in the keynote sessions. 
 
+The Summit agenda is available [here](https://innersourcecommons.org/events/isc-fall-2020-agenda/).
+
 ### About the Event
 
 The summit consists of two days, each a 3.5 hour slot: running from noon East Coast US / 9 am West Coast US / 6pm Europe / 5pm UK & Ireland / 9:30pm Mumbai / midnight Singapore & Bejing (4pm UTC). 
