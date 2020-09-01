@@ -84,7 +84,7 @@ James is the Director of Community at FINOS and wholeheartedly believes the tran
 Tim O’Reilly is the founder, CEO, and Chairman of O'Reilly Media, the company that has been providing the picks and shovels of learning to the Silicon Valley goldrush for the past thirty-five years. The company's online learning and knowledge-on-demand platform at oreilly.com is used by thousands of enterprises and millions of individuals worldwide. O'Reilly has a history of convening conversations that reshape the computer industry. If you've heard the term "open source software", "web 2.0", "the Maker movement","government as a platform", or "the WTF economy", he's had a hand in framing each of those big ideas. Tim is also a partner at early stage venture firm O'Reilly AlphaTech Ventures (OATV), and on the boards of Code for America, PeerJ, Civis Analytics, and PopVox. He is the author of many technical books published by O'Reilly Media, and most recently WTF? What's the Future and Why It's Up to Us (Harper Business, 2017). He is working on a new book about why we need to rethink antitrust in the era of internet-scale platforms.
 
 
-<img alt="Martin Woodward photo" src="/assets/img/Martin_Woodward.jpg" width="200" align="right"/>
+<img alt="Martin Woodward photo" src="/assets/img/Martin_Woodward.png" width="200" align="right"/>
 
 **Martin Woodward**
 
