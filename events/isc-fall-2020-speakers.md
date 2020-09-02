@@ -167,11 +167,25 @@ Stemming from German roots, Arno settled in the nineties in Seattle working with
 <div style="clear:both;"></div>
 
 
+
+<a name="dianne_mueller">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <b>Dianne Mueller</b>
+    <p>
+Diane Mueller leads Community Development at Red Hat for the Cloud Platform Group focusing on OpenShift and Cloud Native ecosystem. She is the driving force behind both customer, partner and developer community initiatives helping to ensure the success of OpenShift, the world's leading Open Source Platform as a Service along with Operators, ServiceMesh, Quay, OKD, OpenStack and other Cloud Native technology initiatives at Red Hat for the past 8 years.
+
+She has been designing and implementing products and applications embedded into mission critical financial and manufacturing systems at F500 corporations for over 30 years. She has had a long career in software development spanning multiple industries and open source initiatives from Financial Services, Manufacturing, Education and Government. 
+</p>
+  </div>
+<div style="clear:both;"></div>
+
+
 <a name="tim_oreilly">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-    <img alt="Tim O'Reilly" width="200" src="/assets/img/Tim_Oreilly.jpg"/> i
+    <img alt="Tim O'Reilly" width="200" src="/assets/img/Tim_Oreilly.jpg"/>
     </div>
     <b>Tim O'Reilly</b>
     <p>
@@ -185,7 +199,7 @@ Tim O’Reilly is the founder, CEO, and Chairman of O'Reilly Media, the company 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-    <img alt="Russ Rutledge" width="200" src="/assets/img/russ-rutledge.jpeg"/> i
+    <img alt="Russ Rutledge" width="200" src="/assets/img/russ-rutledge.jpeg"/>
     </div>
     <b>Russ Rutledge</b>
     <p>
@@ -203,8 +217,9 @@ Previously, he ran another successful startup delivering JavaScript continuous d
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-    <img alt="Thomas Sadler" width="200" src="/assets/img/thomas_sadler.jpg"/> i
+    <img alt="Thomas Sadler" width="200" src="/assets/img/thomas_sadler.jpg"/>
     </div>
+    <br>
     <b>Thomas Sadler</b>
     <p>
 Tom Sadler is a Software Engineering Team Lead for BBC iPlayer, specialising in media playback for connected TV browsers. He has advocated for supporting open source projects, including the BBC’s TV Application Layer and bigscreen-player, and lead on collaboration between teams.
@@ -217,7 +232,7 @@ Tom Sadler is a Software Engineering Team Lead for BBC iPlayer, specialising in 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-    <img alt="Sebastian Spier" width="200" src="/assets/img/Sebastian-Spier.jpg"/> i
+    <img alt="Sebastian Spier" width="200" src="/assets/img/Sebastian-Spier.jpg"/> 
     </div>
     <b>Sebastian Spier</b>
     <p>
@@ -225,4 +240,22 @@ Implement. Learn. Repeat. #people #teams #business #technology  https://spier.hu
   </p>
   </div>
 <div style="clear:both;"></div>
+
+
+
+<a name="martin_woodward">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+    <img alt="Martin Woodward" width="200" src="/assets/img/Martin_Woodward.png"/> 
+    </div>
+    <b>Martin Woodward</b>
+    <p>
+Martin Woodward is the Director of Developer Relations for GitHub. Before that Martin was Executive Director of the .NET Foundation helping drive Microsoft’s move towards open source and was a Principal Group Program Manager of the team building tooling and policy to help support innersource communities inside the company.
+  </p>
+  </div>
+<div style="clear:both;"></div>
+
+
+
 
