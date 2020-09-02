@@ -152,7 +152,7 @@ With creative collaboration across organizational borders and by sharing our exp
 
   <tr>
         <td class="time"> 11:50 - 12:05</td>
-        <td class="author"> </b>Joe Chavez</b> (Cognitive Software Services) </td>
+        <td class="author"> <b>Joe Chavez</b> (Cognitive Software Services) </td>
         <td class="title"> InnerSource at Scale
             <span onClick="toggleAbstract('chavez')" class="abstract-toggle">(<a id="chavez-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="chavez">
