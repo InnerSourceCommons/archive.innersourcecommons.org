@@ -28,6 +28,8 @@ We are hoping to host an online summit later in the year to fit with the timezon
 
 [Click here to register](https://www.eventbrite.ie/e/innersource-commons-fall-2020-virtual-summit-tickets-117435975163) for the InnerSource Commons Fall 2020 Virtual Summit. Ticket price is $35, inclusive of all taxes. Ticket price also includes a T-shirt to celebrate the event, which we will be send out afterwards.
 
+If, for any reason, you find the associated fee prohibits you from attending - please email us at <summit@innersourcecommons.org>, as we have a number of complementary tickets we can allocate. 
+
 ### Agenda and Speakers
 
 We will be updating our agenda over the next few weeks as new speakers are confirmed. The full agenda will be available after our CFP closes. Stay tuned!
