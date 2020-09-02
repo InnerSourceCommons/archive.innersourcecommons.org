@@ -10,11 +10,10 @@ title: 'InnerSource Commons Fall Online Summit 2020 Agenda'
 The following agenda is based in **Pacific Time** and this will take place between 9:00 am and 12:30 pm (3.5 hours in total). Both days, 15th and 16th of September will use the timeslot. By the time of the conference, the following are some examples of translated times to other timezones:
 
 Example of time differences in other timezones for the first day of conference:
-* China Standard Time: 12:00 am 16th September - 03:30 am 16th September
+* Eastern Time: 12:00 pm - 3:30 pm 15th September
 * Coordinated Universal Time: 4:00 pm - 7:30 pm 15th September
 * Central European Time: 6:00 pm - 9:30 pm 15th September
-* Eastern Time: 12:00 pm - 3:30 pm 15th September
-* Pacific Time: 6:50 am - 10:05 am 15th September
+* China Standard Time: 12:00 am 16th September - 03:30 am 16th September
 
 
 ### Agenda
@@ -31,7 +30,7 @@ Example of time differences in other timezones for the first day of conference:
   <tr>
         <td class="time">08:45 - 09:00</td>
 	<td class="author">Lobby Hangout & Chat</td>
-        <td class="title">Welcome to InnerSource Commons Online Fall Summit 2020!
+        <td class="title">Join us for some informal chat and introductions before the summit begins!
         </td>
   </tr>
 
@@ -39,18 +38,23 @@ Example of time differences in other timezones for the first day of conference:
   <tr>
         <td class="time">09:00 - 09:10</td>
         <td colspan="2">Welcome and Logistics</td>
-  </tr>
+  </tr> 
+  
 
 
   <tr>
         <td class="time">09:10 - 09:50</td>
-        <td colspan="2">Live Discussion: Tim O'Reilly and Danese Cooper</td>
+	  <td class="author">
+		<b>Tim O'Reilly</b> (O'Reilly Media) <br>
+		<b>Danese Cooper</b> (NearForm)
+       <td class="title"> <b>Keynote</b>: Live Discussion </td>
+       </td>
   </tr>
 
 
   <tr>
         <td class="time"> 09:50 - 10:05</td>
-        <td class="author"> Russ Rutledge (Nike) </span>
+	<td class="author"> <b>Russ Rutledge</b> (Nike) 
 	</td>
         <td class="title"> InnerSource Culture Change at Scale
             <span onClick="toggleAbstract('rutledge')" class="abstract-toggle">(<a id="rutledge-link">Show Abstract</a>)</span>
@@ -64,7 +68,7 @@ InnerSource is more than telling someone the mechanics of code and community man
 
   <tr>
         <td class="time"> 10:05 - 10:20</td>
-        <td class="author"> Brittany Erica Istenes (Comcast) </span>
+	<td class="author"> <b>Brittany Erica Istenes</b> (Comcast) 
         </td>
         <td class="title"> InnerSource is established, now what? 
             <span onClick="toggleAbstract('istenes')" class="abstract-toggle">(<a id="istenes-link">Show Abstract</a>)</span>
@@ -107,7 +111,7 @@ The goal of my talk is to walk through how at the last summit we talked about cu
 
   <tr>
         <td class="time"> 11:25 - 11:35</td>
-        <td class="author"> Sebastien Spier (InnerSource Commons Community) </span>
+	<td class="author"> <b>Sebastien Spier</b> (InnerSource Commons Community) 
         </td>
         <td class="title"> My 1st year in the InnerSource Commons community
             <span onClick="toggleAbstract('spier')" class="abstract-toggle">(<a id="spier-link">Show Abstract</a>)</span>
@@ -126,8 +130,8 @@ Let me make the argument for you: Convince yourself (and your manager) of the be
   <tr>
         <td class="time">11:35 - 11:50</td>
         <td class="author">
-            Michael Graf (SAP) <br>
-            Harish B. (SAP)
+		<b>Michael Graf</b> (SAP) <br>
+		<b>Harish B.</b> (SAP)
         </td>
         <td class="title"> The Unexpected Path of Applying InnerSource Patterns
             <span onClick="toggleAbstract('graf')" class="abstract-toggle">(<a id="graf-link">Show Abstract</a>)</span>
@@ -148,7 +152,7 @@ With creative collaboration across organizational borders and by sharing our exp
 
   <tr>
         <td class="time"> 11:50 - 12:05</td>
-        <td class="author"> Joe Chavez (Cognitive Software Services) </td>
+        <td class="author"> </b>Joe Chavez</b> (Cognitive Software Services) </td>
         <td class="title"> InnerSource at Scale
             <span onClick="toggleAbstract('chavez')" class="abstract-toggle">(<a id="chavez-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="chavez">
@@ -159,10 +163,10 @@ What good is source code sitting a repo? No much, might as well be ideas on the 
 
   <tr>
         <td class="time">12:05 - 12:25</td>
-        <td class="author"> Martin Woodward (GitHub) 
+	<td class="author"> <b>Martin Woodward</b> (GitHub) 
         </td>
         <td class="title"> Details appearing shortly
-            <span class="keynoteTag">Keynote:</span>
+            <span class="keynoteTag"> Keynote </span>
             <span onClick="toggleAbstract('keynote-woodward')" class="abstract-toggle">(<a id="keynote-woodward-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="keynote-woodward">
 Details appearing shortly 
@@ -191,7 +195,7 @@ Details appearing shortly
   <tr>
         <td class="time">08:45 - 09:00</td>
         <td class="author">Lobby Hangout & Chat</td>
-        <td class="title">Welcome to InnerSource Commons Online Fall Summit 2020!
+        <td class="title">Join us for some informal chat and introductions before the summit begins!
         </td>
   </tr>
 
@@ -201,17 +205,20 @@ Details appearing shortly
         <td colspan="2">Welcome and Logistics</td>
   </tr>
 
-
-  <tr>
+ <tr>
         <td class="time">09:10 - 09:50</td>
-        <td colspan="2">Panel Discussion: Financial Services</td>
+	  <td class="author">
+		<b>Silona Bonewald</b> (IEEE) <br>
+		<b>James McLeod</b> (FINOS)
+       <td class="title"> <b>Panel Discussion</b>: InnerSource in Financial Services</td>
+       </td>
   </tr>
-
+  
 
    <tr>
         <td class="time">09:50 - 10:05</td>
         <td class="author">
-           Isabel Drost-Fromm<span class="affiliation"> (Europace AG)</span></td>
+		<b>Isabel Drost-Fromm</b> (Europace AG)</td>
         <td class="title"> Remote First - what you can learn from Open Source</a>
             <span onClick="toggleAbstract('drost')" class="abstract-toggle">(<a id="drost-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="drost">
@@ -223,7 +230,7 @@ In 2020 a lot of companies moved to a remote first setting in a hurry - and with
 
   <tr>
         <td class="time"> 10:05 - 10:20</td>
-        <td class="author"> Arno Mihm (Microsoft) </td>
+	<td class="author"> <b>Arno Mihm</b> (Microsoft) </td>
         <td class="title"> InnerSource at Microsoft
             <span onClick="toggleAbstract('mihm')" class="abstract-toggle">(<a id="mihm-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="mihm">
@@ -265,7 +272,7 @@ Details appearing shortly
 
   <tr>
         <td class="time"> 11:25 - 11:35</td>
-        <td class="author"> Clare Dillon (InnerSource Commons Community) </td>
+	<td class="author"> <b>Clare Dillon</b> (InnerSource Commons Community) </td>
         <td class="title"> Why the world needs more InnerSourcerers
             <span onClick="toggleAbstract('dillon')" class="abstract-toggle">(<a id="dillon-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="dillon">
@@ -278,7 +285,7 @@ Many InnerSource practitioners have spoken about how InnerSource can be a great 
    <tr>
         <td class="time">11:35 - 11:50</td>
         <td class="author">
-           Thomas Sadler (BBC)</td>
+		<b>Thomas Sadler</b> (BBC)</td>
         <td class="title"> Using internal RFCs to enhance collaboration
             <span onClick="toggleAbstract('sadler')" class="abstract-toggle">(<a id="sadler-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="sadler">
@@ -293,7 +300,7 @@ InnerSource leverages Open Source practices internally to enable collaboration, 
    <tr>
         <td class="time">11:50 - 12:05</td>
         <td class="author">
-           Agustin Benito Bethencourt (Daimler Group)</td>
+		<b>Agustin Benito Bethencourt</b> (Daimler Group)</td>
         <td class="title"> 
             <span onClick="toggleAbstract('bethencourt')" class="abstract-toggle">(<a id="bethencourt-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bethencourt">
@@ -308,21 +315,20 @@ The goal of the talk is to introduce the audience in such software delivery proc
 
    <tr>
         <td class="time">12:05 - 12:25</td>
-        <td class="author">Diane Mueller <span class="affiliation">(Red Hat)</span></td>
+	<td class="author"><b>Diane Mueller</b> <span class="affiliation">(Red Hat)</span></td>
         <td class="title"> Community Development in the Age of Continuous Connection
-        <span class="keynoteTag">Keynote:</span>
+        <span class="keynoteTag">Keynote</span>
             <span onClick="toggleAbstract('keynote-mueller')" class="abstract-toggle">(<a id="keynote-mueller-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="keynote-mueller">
 
 A seismic shift has occurred across open source ecosystems that has given rise to more "connected strategies" of community development efforts and improved models for cross-ecosystem engagement. To paraphrase Leonard Cohen, “There is a crack in everything. That's how the light gets in.”  The new virtual reality we live in has created opportunities for more open innovative community collaboration, introduced new ways of connecting end users, enterprises, and open source initiatives. The new world that we've awoken to is now one of continous connection.  In this keynote, Diane Mueller will discuss how to leverage these new connected strategies, emerging trends towards 'virtuous' cycle of collaboration between end users, vendors, enterprises and open source initiatives that has emerged as a result, and how to bring this new model and strategies,  values and ways of connecting and collaborating both internally (InnerSource), externally (Open Source) to your organizations' development efforts. 
-
             </div>
         </td>
     </tr>
 
   <tr>
         <td class="time">12:25 - 12:35</td>
-        <td colspan="2">Wrap Up: Summit Summary, Highlights, and Asian hand-off</td>
+        <td colspan="2">Wrap Up: Summit Summary, Highlights, and next Summit news!</td>
   </tr>
 
 </table>
