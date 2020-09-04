@@ -32,7 +32,7 @@ If, for any reason, you find the associated fee prohibits you from attending - p
 
 ### Agenda and Speakers
 
-We will be updating our agenda over the next few weeks as new speakers are confirmed. The full agenda will be available after our CFP closes. Stay tuned!
+The Summit agenda is available [here](https://innersourcecommons.org/events/isc-fall-2020-agenda/).
 
 ### Call For Presentations
 
