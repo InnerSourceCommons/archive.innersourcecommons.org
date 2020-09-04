@@ -51,6 +51,9 @@ Silona Bonewald joined IEEE SA Open after serving as vice president of community
 <a name="joe_chavez">&nbsp;</a>
 <hr/>
 <div style="width:100%">
+     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Joe Chavez" width="200" src="/assets/img/Joe-Chavez.jpg"/>
+    </div>
     <b>Joe Chavez</b>
     <p>
 Joe Chavez is a technologist with a deep background in software architecture, design, development and operations. Currently Joe is focused on digital transformation of California's Medi-Cal information technology infrastructure and applications. Leveraging and creating open source software is an integral part of this work. In the past, Joe has helped launch and operate a space telescope for NASA, built enterprise class software, and launched several mobile and IoT startups. 
@@ -171,6 +174,9 @@ Stemming from German roots, Arno settled in the nineties in Seattle working with
 <a name="dianne_mueller">&nbsp;</a>
 <hr/>
 <div style="width:100%">
+     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Diane Mueller" width="200" src="/assets/img/Diane-Mueller.jpg"/>
+    </div>
     <b>Dianne Mueller</b>
     <p>
 Diane Mueller leads Community Development at Red Hat for the Cloud Platform Group focusing on OpenShift and Cloud Native ecosystem. She is the driving force behind both customer, partner and developer community initiatives helping to ensure the success of OpenShift, the world's leading Open Source Platform as a Service along with Operators, ServiceMesh, Quay, OKD, OpenStack and other Cloud Native technology initiatives at Red Hat for the past 8 years.
