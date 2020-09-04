@@ -7,7 +7,7 @@ title: 'InnerSource Commons Fall Online Summit 2020 Agenda'
 
 ### Notes
 
-The following agenda is based in **Pacific Time** and this will take place between 9:00 am and 12:30 pm (3.5 hours in total). Both days, 15th and 16th of September will use the timeslot. By the time of the conference, the following are some examples of translated times to other timezones:
+The following agenda is based in **Pacific Time** and this will take place between 9:00 am and 12:30 pm (3.5 hours in total). Both days, 15th and 16th of September will use the timeslot. 
 
 Example of time differences in other timezones for the first day of conference:
 * Eastern Time: 12:00 pm - 3:30 pm 15th September
@@ -45,8 +45,8 @@ Example of time differences in other timezones for the first day of conference:
   <tr>
         <td class="time">09:10 - 09:50</td>
 	  <td class="author">
-		<b>Tim O'Reilly</b> (O'Reilly Media) <br>
-		<b>Danese Cooper</b> (NearForm)
+		  <b><a href="/events/isc-fall-2020-speakers#tim_oreilly">Tim O'Reilly</a></b> (O'Reilly Media) <br>
+		  <b><a href="/events/isc-fall-2020-speakers#danese_cooper">Danese Cooper</a></b> (NearForm)
        <td class="title"> <b>Keynote</b>: Live Discussion </td>
        </td>
   </tr>
@@ -54,7 +54,7 @@ Example of time differences in other timezones for the first day of conference:
 
   <tr>
         <td class="time"> 09:50 - 10:05</td>
-	<td class="author"> <b>Russ Rutledge</b> (Nike)
+	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#russ_rutledge">Russ Rutledge</a></b> (Nike) 
 	</td>
         <td class="title"> InnerSource Culture Change at Scale
             <span onClick="toggleAbstract('rutledge')" class="abstract-toggle">(<a id="rutledge-link">Show Abstract</a>)</span>
@@ -68,7 +68,7 @@ InnerSource is more than telling someone the mechanics of code and community man
 
   <tr>
         <td class="time"> 10:05 - 10:20</td>
-	<td class="author"> <b>Brittany Erica Istenes</b> (Comcast)
+	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#brittany_istenes">Brittany Erica Istenes</a></b> (Comcast) 
         </td>
         <td class="title"> InnerSource is established, now what?
             <span onClick="toggleAbstract('istenes')" class="abstract-toggle">(<a id="istenes-link">Show Abstract</a>)</span>
@@ -111,7 +111,7 @@ The goal of my talk is to walk through how at the last summit we talked about cu
 
   <tr>
         <td class="time"> 11:25 - 11:35</td>
-	<td class="author"> <b>Sebastian Spier</b> (Meltwater)
+	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#sebastian_spier">Sebastien Spier</a></b> (Meltwater) 
         </td>
         <td class="title"> 1 year in the InnerSource Commons community: Getting your money's worth.
             <span onClick="toggleAbstract('spier')" class="abstract-toggle">(<a id="spier-link">Show Abstract</a>)</span>
@@ -125,8 +125,8 @@ Let me make the argument for you: Convince yourself (and your manager) of the be
   <tr>
         <td class="time">11:35 - 11:50</td>
         <td class="author">
-		<b>Michael Graf</b> (SAP) <br>
-		<b>Harish B.</b> (SAP)
+		<b><a href="/events/isc-fall-2020-speakers#michael_graf">Michael Graf</a></b> (SAP) <br>
+		<b><a href="/events/isc-fall-2020-speakers#harish_b">Harish B.</a></b> (SAP)
         </td>
         <td class="title"> The Unexpected Path of Applying InnerSource Patterns
             <span onClick="toggleAbstract('graf')" class="abstract-toggle">(<a id="graf-link">Show Abstract</a>)</span>
@@ -147,8 +147,8 @@ With creative collaboration across organizational borders and by sharing our exp
 
   <tr>
         <td class="time"> 11:50 - 12:05</td>
-        <td class="author"> <b>Joe Chavez</b> (Cognitive Software Services) </td>
-        <td class="title"> InnerSource at Scale
+        <td class="author"> <b><a href="/events/isc-fall-2020-speakers#joe_chavez">Joe Chavez</a></b> (Cognitive Software Services) </td>
+        <td class="title"> InnerSource in Government: our 18 month journey
             <span onClick="toggleAbstract('chavez')" class="abstract-toggle">(<a id="chavez-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="chavez">
 What good is source code sitting a repo? No much, might as well be ideas on the back of a napkin. In this session I present the 18 month journey of design implementing and operating a development pipeline within classic government organization stuck on legacy technologies, business process spaghetti and data stuffed into silos. The solution is a mix of open source software, open software development and of course a DevOps pipeline to move code from repos to production at lightening speed.
@@ -158,7 +158,7 @@ What good is source code sitting a repo? No much, might as well be ideas on the 
 
   <tr>
         <td class="time">12:05 - 12:25</td>
-	<td class="author"> <b>Martin Woodward</b> (GitHub)
+	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#martin_woodward">Martin Woodward</a></b> (GitHub) 
         </td>
         <td class="title"> Details appearing shortly
             <span class="keynoteTag"> Keynote </span>
@@ -203,8 +203,8 @@ Details appearing shortly
  <tr>
         <td class="time">09:10 - 09:50</td>
 	  <td class="author">
-		<b>Silona Bonewald</b> (IEEE) <br>
-		<b>James McLeod</b> (FINOS)
+		  <b><a href="/events/isc-fall-2020-speakers#silona_bonewald">Silona Bonewald</a></b> (IEEE) <br>
+		  <b><a href="/events/isc-fall-2020-speakers#james_mcleod">James McLeod</a></b> (FINOS)
        <td class="title"> <b>Panel Discussion</b>: InnerSource in Financial Services</td>
        </td>
   </tr>
@@ -213,8 +213,8 @@ Details appearing shortly
    <tr>
         <td class="time">09:50 - 10:05</td>
         <td class="author">
-		<b>Isabel Drost-Fromm</b> (Europace AG)</td>
-        <td class="title"> Remote First - what you can learn from Open Source
+		<b><a href="/events/isc-fall-2020-speakers#isabel_drost_fromm">Isabel Drost-Fromm</a></b> (Europace AG)</td>
+        <td class="title"> Remote First - what you can learn from Open Source</a>
             <span onClick="toggleAbstract('drost')" class="abstract-toggle">(<a id="drost-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="drost">
 In 2020 a lot of companies moved to a remote first setting in a hurry - and with varying success. In this talk we will look deeper into what types of communication happen in-office, how to transform those in a remote-first environment. We will see just how much can be transformed. A lot of the emerging patterns have been applied successfully within Open Source projects for decades. We will see how with a combination InnerSource patterns and Open Organization principles these practices can help organizations move to more transparency, faster innovation - all the while providing a lot of opportunities for junior developers to learn from their peers by watching over their shoulders.
@@ -225,7 +225,7 @@ In 2020 a lot of companies moved to a remote first setting in a hurry - and with
 
   <tr>
         <td class="time"> 10:05 - 10:20</td>
-	<td class="author"> <b>Arno Mihm</b> (Microsoft) </td>
+	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#arno_mihm">Arno Mihm</a></b> (Microsoft) </td>
         <td class="title"> InnerSource at Microsoft
             <span onClick="toggleAbstract('mihm')" class="abstract-toggle">(<a id="mihm-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="mihm">
@@ -267,7 +267,7 @@ Details appearing shortly
 
   <tr>
         <td class="time"> 11:25 - 11:35</td>
-	<td class="author"> <b>Clare Dillon</b> (InnerSource Commons Community) </td>
+	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#clare_dillon">Clare Dillon</a></b> (InnerSource Commons Community) </td>
         <td class="title"> Why the world needs more InnerSourcerers
             <span onClick="toggleAbstract('dillon')" class="abstract-toggle">(<a id="dillon-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="dillon">
@@ -280,13 +280,12 @@ Many InnerSource practitioners have spoken about how InnerSource can be a great 
    <tr>
         <td class="time">11:35 - 11:50</td>
         <td class="author">
-		<b>Thomas Sadler</b> (BBC)</td>
+		<b><a href="/events/isc-fall-2020-speakers#thomas_sadler">Thomas Sadler</a></b> (BBC)</td>
         <td class="title"> Using internal RFCs to enhance collaboration
             <span onClick="toggleAbstract('sadler')" class="abstract-toggle">(<a id="sadler-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="sadler">
 
 InnerSource leverages Open Source practices internally to enable collaboration, and Requests for Comments (RFCs) are no exception. This talk explores how BBC iPlayer & Sounds adopted RFCs to scale up collaborative decision making, and empower teams and individuals to make an impact outside their organisational silos.
-
             </div>
         </td>
   </tr>
@@ -295,8 +294,8 @@ InnerSource leverages Open Source practices internally to enable collaboration, 
    <tr>
         <td class="time">11:50 - 12:05</td>
         <td class="author">
-		<b>Agustin Benito Bethencourt</b> (Daimler Group)</td>
-        <td class="title">
+		<b><a href="/events/isc-fall-2020-speakers#agustin_benito">Agustin Benito Bethencourt</a></b> (Daimler Group)</td>
+        <td class="title"> 
             <span onClick="toggleAbstract('bethencourt')" class="abstract-toggle">(<a id="bethencourt-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bethencourt">
 
@@ -310,7 +309,7 @@ The goal of the talk is to introduce the audience in such software delivery proc
 
    <tr>
         <td class="time">12:05 - 12:25</td>
-	<td class="author"><b>Diane Mueller</b> (Red Hat)</td>
+	<td class="author"><b><a href="/events/isc-fall-2020-speakers#diane_mueller">Diane Mueller</a></b> <span class="affiliation">(Red Hat)</span></td>
         <td class="title"> Community Development in the Age of Continuous Connection
         <span class="keynoteTag">Keynote</span>
             <span onClick="toggleAbstract('keynote-mueller')" class="abstract-toggle">(<a id="keynote-mueller-link">Show Abstract</a>)</span>

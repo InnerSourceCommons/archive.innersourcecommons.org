@@ -168,10 +168,10 @@ Stemming from German roots, Arno settled in the nineties in Seattle working with
 
 
 
-<a name="dianne_mueller">&nbsp;</a>
+<a name="diane_mueller">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-    <b>Dianne Mueller</b>
+    <b>Diane Mueller</b>
     <p>
 Diane Mueller leads Community Development at Red Hat for the Cloud Platform Group focusing on OpenShift and Cloud Native ecosystem. She is the driving force behind both customer, partner and developer community initiatives helping to ensure the success of OpenShift, the world's leading Open Source Platform as a Service along with Operators, ServiceMesh, Quay, OKD, OpenStack and other Cloud Native technology initiatives at Red Hat for the past 8 years.
 
