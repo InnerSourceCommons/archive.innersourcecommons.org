@@ -309,7 +309,7 @@ The goal of the talk is to introduce the audience in such software delivery proc
 
    <tr>
         <td class="time">12:05 - 12:25</td>
-	<td class="author"><b><a href="/events/isc-fall-2020-speakers#diane_mueller">Diane Mueller</a></b> <span class="affiliation">(Red Hat)</span></td>
+	<td class="author"><b><a href="/events/isc-fall-2020-speakers#diane_mueller">Diane Mueller</a></b> (Red Hat)</td>
         <td class="title"> Community Development in the Age of Continuous Connection
         <span class="keynoteTag">Keynote</span>
             <span onClick="toggleAbstract('keynote-mueller')" class="abstract-toggle">(<a id="keynote-mueller-link">Show Abstract</a>)</span>
