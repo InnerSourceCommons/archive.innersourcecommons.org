@@ -171,7 +171,7 @@ Stemming from German roots, Arno settled in the nineties in Seattle working with
 
 
 
-<a name="dianne_mueller">&nbsp;</a>
+<a name="diane_mueller">&nbsp;</a>
 <hr/>
 <div style="width:100%">
      <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
