@@ -295,7 +295,7 @@ InnerSource leverages Open Source practices internally to enable collaboration, 
         <td class="time">11:50 - 12:05</td>
         <td class="author">
 		<b><a href="/events/isc-fall-2020-speakers#agustin_benito">Agustin Benito Bethencourt</a></b> (Daimler Group)</td>
-        <td class="title"> 
+        <td class="title"> You can go fast by going together: software delivery process performance metrics
             <span onClick="toggleAbstract('bethencourt')" class="abstract-toggle">(<a id="bethencourt-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bethencourt">
 
