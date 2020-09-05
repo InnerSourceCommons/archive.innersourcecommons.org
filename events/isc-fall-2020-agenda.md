@@ -111,7 +111,7 @@ The goal of my talk is to walk through how at the last summit we talked about cu
 
   <tr>
         <td class="time"> 11:25 - 11:35</td>
-	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#sebastian_spier">Sebastien Spier</a></b> (Meltwater) 
+	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#sebastian_spier">Sebastian Spier</a></b> (Meltwater) 
         </td>
         <td class="title"> 1 year in the InnerSource Commons community: Getting your money's worth.
             <span onClick="toggleAbstract('spier')" class="abstract-toggle">(<a id="spier-link">Show Abstract</a>)</span>
@@ -295,7 +295,7 @@ InnerSource leverages Open Source practices internally to enable collaboration, 
         <td class="time">11:50 - 12:05</td>
         <td class="author">
 		<b><a href="/events/isc-fall-2020-speakers#agustin_benito">Agustin Benito Bethencourt</a></b> (Daimler Group)</td>
-        <td class="title"> 
+        <td class="title"> You can go fast by going together: software delivery process performance metrics
             <span onClick="toggleAbstract('bethencourt')" class="abstract-toggle">(<a id="bethencourt-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bethencourt">
 
@@ -309,7 +309,7 @@ The goal of the talk is to introduce the audience in such software delivery proc
 
    <tr>
         <td class="time">12:05 - 12:25</td>
-	<td class="author"><b><a href="/events/isc-fall-2020-speakers#diane_mueller">Diane Mueller</a></b> <span class="affiliation">(Red Hat)</span></td>
+	<td class="author"><b><a href="/events/isc-fall-2020-speakers#diane_mueller">Diane Mueller</a></b> (Red Hat)</td>
         <td class="title"> Community Development in the Age of Continuous Connection
         <span class="keynoteTag">Keynote</span>
             <span onClick="toggleAbstract('keynote-mueller')" class="abstract-toggle">(<a id="keynote-mueller-link">Show Abstract</a>)</span>

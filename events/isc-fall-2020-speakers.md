@@ -162,6 +162,9 @@ James has a twenty year career in software engineering having worked for telecom
 <a name="arno_mihm">&nbsp;</a>
 <hr/>
 <div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Arno Mihm" width="200" src="/assets/img/Arno-Mihm.png"/>
+    </div>
     <b>Arno Mihm</b>
     <p>
 Stemming from German roots, Arno settled in the nineties in Seattle working with Microsoft on operating system improvements while in parallel helping to drive a industry wide systems management framework through the DMTF. Living German and American cultures and the exposure to diverse company cultures in industry standardization organizations formed his strong believe that collaboration is a key factor for success in business and in life.  As Microsoft formalized the approach to collaboration through the foundation of the Microsoft Open Source Programs Office, Arno joined the team focusing on open source process improvements before turning his attention inwards to drive InnerSource at Microsoft.
