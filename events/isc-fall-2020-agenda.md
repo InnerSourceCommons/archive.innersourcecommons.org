@@ -111,7 +111,7 @@ The goal of my talk is to walk through how at the last summit we talked about cu
 
   <tr>
         <td class="time"> 11:25 - 11:35</td>
-	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#sebastian_spier">Sebastien Spier</a></b> (Meltwater) 
+	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#sebastian_spier">Sebastian Spier</a></b> (Meltwater) 
         </td>
         <td class="title"> 1 year in the InnerSource Commons community: Getting your money's worth.
             <span onClick="toggleAbstract('spier')" class="abstract-toggle">(<a id="spier-link">Show Abstract</a>)</span>
