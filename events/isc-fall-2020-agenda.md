@@ -214,7 +214,7 @@ Details appearing shortly
         <td class="time">09:50 - 10:05</td>
         <td class="author">
 		<b><a href="/events/isc-fall-2020-speakers#isabel_drost_fromm">Isabel Drost-Fromm</a></b> (Europace AG)</td>
-        <td class="title"> Remote First - what you can learn from Open Source</a>
+        <td class="title"> Remote First - what you can learn from Open Source
             <span onClick="toggleAbstract('drost')" class="abstract-toggle">(<a id="drost-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="drost">
 In 2020 a lot of companies moved to a remote first setting in a hurry - and with varying success. In this talk we will look deeper into what types of communication happen in-office, how to transform those in a remote-first environment. We will see just how much can be transformed. A lot of the emerging patterns have been applied successfully within Open Source projects for decades. We will see how with a combination InnerSource patterns and Open Organization principles these practices can help organizations move to more transparency, faster innovation - all the while providing a lot of opportunities for junior developers to learn from their peers by watching over their shoulders.
