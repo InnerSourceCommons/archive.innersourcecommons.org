@@ -94,11 +94,11 @@ The goal of my talk is to walk through how at the last summit we talked about cu
         <td class="time">10:40 - 11:20</td>
         <td>Open Discussions and Breakout Sessions</td>
         <td><ul>
-              <li>Channel 1: TBC</li>
-              <li>Channel 2: TBC</li>
-              <li>Channel 3: TBC</li>
-              <li>Channel 4: TBC</li>
-              <li>Channel 5: TBC</li>
+              <li>Channel 1: Bootcamp 101</li>
+              <li>Channel 2: Convincing Leadership / Stakeholder Management</li>
+              <li>Channel 3: Patterns: proven solutions to existing problems</li>
+              <li>Channel 4: Cultural change: remote first</li>
+              <li>Channel 5: InnerSource Community: how to get involved</li>
             </ul>
         </td>
   </tr>
@@ -250,11 +250,11 @@ Details appearing shortly
         <td class="time">10:40 - 11:20</td>
         <td>Open Discussions and Breakout Sessions</td>
         <td><ul>
-              <li>Channel 1: TBC</li>
-              <li>Channel 2: TBC</li>
-              <li>Channel 3: TBC</li>
-              <li>Channel 4: TBC</li>
-              <li>Channel 5: TBC</li>
+              <li>Channel 1: The Apache Way</li>
+              <li>Channel 2: InnerSource Metrics: Community, Collaboration, and Delivery</li>
+              <li>Channel 3: Patterns: proven solutions to existing problems</li>
+              <li>Channel 4: Cultural change: initial steps in your InnerSource journey</li>
+              <li>Channel 5: InnerSource in regulated environments: collaboration, management, taxes</li>
             </ul>
         </td>
   </tr>
