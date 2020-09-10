@@ -5,6 +5,20 @@ title: 'InnerSource Commons Fall 2020 Virtual Summit Speakers'
 [[Return to the Fall Summit 2020 page](/events/isc-fall-2020/)]
 
 
+<a name="andrew_aitken">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Andrew Aitken" width="200" src="/assets/img/andrew-aitken.JPG"/>
+    </div>
+    <b>Andrew Aitken</b>
+    <p>
+Andrew and his team are responsible for crafting and executing Wipro’s open source consulting, go-to-market and solutions strategy. Andrew has served as an open source expert to the White House and California Senate and as a guest lecturer at Stanford’s Entrepreneur program. He is an investor in Mautic and on the Board of Advisors of various open source companies. He is past Board Member of OSEHRA, an initiative spearheaded by the U.S. Department of Veterans Affairs to provide open source-based cost effective healthcare solutions for veterans. He has personally worked with organizations such as Capital One, Fidelity, Microsoft, the U.S. Navy, and many startups, assisting them with developing their open source strategies. Andrew has been a pioneer in the development of open source adoption, governance and commercialization models and is a frequent international speaker on a variety of open source-related topics.
+  </p>
+  </div>
+<div style="clear:both;"></div>
+
+
 <a name="harish_b">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -118,6 +132,29 @@ Michael is software developer at SAP and Open Source enthusiast. He loves evange
 </div>
 <div style="clear:both;"></div>
 
+<a name="russell_green">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Russell Green" width="200" src="/assets/img/russell-green.jpg"/>
+    </div>
+    <b>Russell Green</b>
+    <p>
+Russell currently leads Deutsche Bank’s (DB) Group Architecture function, where he is responsible for ensuring that the bank’s architecture practice is comprehensive, operational and efficient. 
+ 
+This includes co-ordinating the group-wide architecture roadmap, ensuring an effective governance process for programmes and technology and developing the architecture foundations that underpin the strategy. Group Architecture also plays a central role in articulating the current technology landscape and measuring progress towards DB’s target state.
+ 
+Russell chairs a number of key forums that define the future direction of DB’s IT practice. These include the Global CTO Council, which oversees the operational and future state of DBs architecture practice; the Technology Architecture Council (TAC), which controls the organisation’s technology portfolio and the Open Source Review Council, which oversees the bank’s engagement with the global open source community. 
+ 
+Russell joined DB in 2015 as CTO for the Control Functions, where he established the architecture control practice and led work to define the target state. 
+Prior to DB, he has spent over 15 years in various architecture roles across the banking sector including LCH, UBS, Barclays and most recently RBC. Before moving into financial services, Russell developed high performance billing applications for the telecoms industry. 
+ 
+Russell attained his PhD from Imperial College in 1994 and this expertise forms the basis of his analytical approach to architecture and knowledge management. He believes that the establishment of a world class architecture function is needed to enable global organisations such as DB to execute in a coordinated and efficient manner.  
+  </p>
+</div>
+<div style="clear:both;"></div>
+
+
 <a name="brittany_istenes">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -172,6 +209,19 @@ Stemming from German roots, Arno settled in the nineties in Seattle working with
   </div>
 <div style="clear:both;"></div>
 
+
+<a name="vitor_monteiro">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Vitor Monteiro" width="200" src="/assets/img/vitor-monteiro.JPG"/>
+    </div>
+    <b>Vitor Monteiro</b>
+    <p>
+Strategic Architect at GitHub for the past 5 years, Vitor has a computer science and finance background having worked multiple years in banking in the city. InnerSource in particular is a topic Vitor speaks particularly often about, being one of his passions within the industry. 
+</p>
+  </div>
+<div style="clear:both;"></div>
 
 
 <a name="diane_mueller">&nbsp;</a>
