@@ -179,6 +179,24 @@ teams through best InnerSource practices.
 </div>
 <div style="clear:both;"></div>
 
+<a name="dov_katz">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Dov Katz" width="200" src="/assets/img/dov-katz.JPG"/>
+    </div>
+    <b>Dov Katz</b>
+    <p>
+Dov Katz is a Managing Director and Distinguished Engineer at Morgan Stanley. He has been at the Firm for 18 years, involved in a wide array of technologies ranging from instant messaging, to client facing electronic trading, to web platforms and toolkits, and has most recently been driving the Firm's DevOps efforts. He currently leads the Morgan Stanley Developer Environment (MSDE) organization which is responsible for driving developer productivity and delivering key elements of the DevOps pipeline and tool-chain.
+
+Within the Firm's Institutional Securities Tech division, Dov led the delivery and architecture of the Firm's award-winning Matrix electronic trading, pricing and analytics platform, serving the Institutional sales and trading desks and the Firm's clients. He has been directly involved in the creation and execution of the Firm's broader strategy around client-facing technology, and infrastructure needed to support it. Prior to leading Matrix, Dov created a web platform Application Infrastructure team, and was responsible for internal collaboration products.
+
+Dov holds a BSc in Computer Science from Columbia University and an MBA from New York University.
+</p>
+  </div>
+<div style="clear:both;"></div>
+
+
 
 <a name="james_mcleod">&nbsp;</a>
 <hr/>
