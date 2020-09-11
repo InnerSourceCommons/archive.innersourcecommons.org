@@ -203,12 +203,12 @@ Details appearing shortly
  <tr>
         <td class="time">09:10 - 09:50</td>
 	  <td class="author">
-		  <b><a hred="/events/isc-fall-2020-speakers#andrew_aitken">Andrew Aitken</a></b> (Wipro) <br>
+		  <b><a href="/events/isc-fall-2020-speakers#andrew_aitken">Andrew Aitken</a></b> (Wipro) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#silona_bonewald">Silona Bonewald</a></b> (IEEE) <br>
 		  <b>Alex Chittock</b> (Lloyds Banking Group) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#russell_green">Russell Green</a></b> (Deutsche Bank) <br>
 		  <b>Dov Katz</b> (Morgan Stanley) <br>
-		  <b><a href="/events/isc-fall-2020-speakers#james_mcleod">James McLeod</a></b> (FINOS)
+		  <b><a href="/events/isc-fall-2020-speakers#james_mcleod">James McLeod</a></b> (FINOS) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#vitor_monteiro">Vitor Monteiro</a></b> (GitHub)
        <td class="title"> <b>Panel Discussion</b>: InnerSource in Financial Services</td>
        </td>
