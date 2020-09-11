@@ -160,11 +160,11 @@ What good is source code sitting a repo? No much, might as well be ideas on the 
         <td class="time">12:05 - 12:25</td>
 	<td class="author"> <b><a href="/events/isc-fall-2020-speakers#martin_woodward">Martin Woodward</a></b> (GitHub) 
         </td>
-        <td class="title"> Details appearing shortly
+        <td class="title"> The Top 5 Myths of InnerSource
             <span class="keynoteTag"> Keynote </span>
             <span onClick="toggleAbstract('keynote-woodward')" class="abstract-toggle">(<a id="keynote-woodward-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="keynote-woodward">
-Details appearing shortly
+In this session, Martin Woodward from GitHub explains some of the biggest myths that he runs across when organizations attempt to adopt InnerSource practices and will pass along some of the surprising lessons he has learnt about what really does and doesn't make a difference.
         </div>
         </td>
   </tr>
@@ -234,7 +234,7 @@ In 2020 a lot of companies moved to a remote first setting in a hurry - and with
         <td class="title"> InnerSource at Microsoft
             <span onClick="toggleAbstract('mihm')" class="abstract-toggle">(<a id="mihm-link">Show Abstract</a>)</span>
         <div style="display:none" class="abstract" id="mihm">
-Details appearing shortly
+In this session, Arno Mihm (Program Manager InnerSource at Microsoft) will talk though key learnings practicing InnerSource collaboration at Microsoft. This includes insights from a Programs Office perspective as well as tips what successful InnerSource projects at Microsoft focus on.
         </div>
         </td>
   </tr>
