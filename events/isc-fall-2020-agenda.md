@@ -47,7 +47,7 @@ Example of time differences in other timezones for the first day of conference:
 	  <td class="author">
 		  <b><a href="/events/isc-fall-2020-speakers#tim_oreilly">Tim O'Reilly</a></b> (O'Reilly Media) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#danese_cooper">Danese Cooper</a></b> (NearForm)
-       <td class="title"> <b>Keynote</b>: Live Discussion </td>
+       <td class="title"> <b>Keynote</b>: Tim O'Reilly joins ISC Chairperson, Danese Cooper, for a 1:1 discussion on InnerSource, Open Source and future trends in software development </td>
        </td>
   </tr>
 
@@ -210,7 +210,7 @@ In this session, Martin Woodward from GitHub explains some of the biggest myths 
 		  <b>Dov Katz</b> (Morgan Stanley) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#james_mcleod">James McLeod</a></b> (FINOS) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#vitor_monteiro">Vitor Monteiro</a></b> (GitHub)
-       <td class="title"> <b>Panel Discussion</b>: InnerSource in Financial Services</td>
+       <td class="title"> <b>Panel Discussion</b>: InnerSource in Financial Services </td>
        </td>
   </tr>
 
