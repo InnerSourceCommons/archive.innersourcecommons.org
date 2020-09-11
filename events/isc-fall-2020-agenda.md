@@ -205,9 +205,9 @@ In this session, Martin Woodward from GitHub explains some of the biggest myths 
 	  <td class="author">
 		  <b><a href="/events/isc-fall-2020-speakers#andrew_aitken">Andrew Aitken</a></b> (Wipro) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#silona_bonewald">Silona Bonewald</a></b> (IEEE) <br>
-		  <b>Alex Chittock</b> (Lloyds Banking Group) <br>
+		  <b><a href="/events/isc-fall-2020-speakers#alex_chittock">Alex Chittock</a></b> (Lloyds Banking Group) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#russell_green">Russell Green</a></b> (Deutsche Bank) <br>
-		  <b>Dov Katz</b> (Morgan Stanley) <br>
+		  <b><a href="/events/isc-fall-2020-speakers#dov_katz">Dov Katz</a></b> (Morgan Stanley) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#james_mcleod">James McLeod</a></b> (FINOS) <br>
 		  <b><a href="/events/isc-fall-2020-speakers#vitor_monteiro">Vitor Monteiro</a></b> (GitHub)
        <td class="title"> <b>Panel Discussion</b>: InnerSource in Financial Services </td>
