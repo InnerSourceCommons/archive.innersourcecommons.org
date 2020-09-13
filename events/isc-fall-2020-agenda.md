@@ -94,7 +94,7 @@ The goal of my talk is to walk through how at the last summit we talked about cu
         <td class="time">10:40 - 11:20</td>
         <td>Open Discussions and Breakout Sessions</td>
         <td><ul>
-		<li>Channel 1: InnerSource Bootcamp 101</li>
+		<li>Channel 1: InnerSource Bootcamp 101 with <a href="/events/isc-fall-2020-speakers#danese_cooper">Danese Cooper</a></li>
 		<li>Channel 2: Metrics, Maturity Models & Tooling</li>
               	<li>Channel 3: Patterns: Proven Solutions to Existing Problems</li>
 		<li>Channel 4: Cultural Change: Scaling InnerSource</li>
@@ -255,7 +255,7 @@ In this session, Arno Mihm (Program Manager InnerSource at Microsoft) will talk 
         <td class="time">10:40 - 11:20</td>
         <td>Open Discussions and Breakout Sessions</td>
         <td><ul>
-              <li>Channel 1: The Apache Way and InnerSource</li>
+              <li>Channel 1: The Apache Way and InnerSource with <a href="/events/isc-fall-2020-speakers#jim_jagielski">Jim Jagielski</a></li>
               <li>Channel 2: InnerSource Commons Community: How to Get Involved!</li>
               <li>Channel 3: Patterns: Proven Solutions to Existing Problems</li>
               <li>Channel 4: Cultural Change: Initial Steps on your InnerSource Journey</li>
