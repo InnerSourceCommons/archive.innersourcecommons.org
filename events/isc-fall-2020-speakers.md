@@ -168,6 +168,20 @@ Russell attained his PhD from Imperial College in 1994 and this expertise forms 
 </div>
 <div style="clear:both;"></div>
 
+<a name="georg_grutter">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Georg Gruetter" width="200" src="/assets/img/Georg Gruetter.jpg"/>
+    </div>
+    <b>Georg Grütter</b>
+    <p>
+Georg Grütter is a social coding evangelist and developer advocate at Bosch.IO. He cofounded and led the first InnerSource community at Bosch. Georg is a passionate software developer with over 30 years of experience. Previously, he held various positions and roles at Bosch, Line Information, the Zurich System House, and DaimlerChrysler. Georg has created two open source projects, "XHSI":http://xhsi.sourceforge.net and "stashNotifier":https://wiki.jenkins-ci.org/display/JENKINS/StashNotifier+Plugin. He's an avid recumbent cyclist and mountain biker who also loves photography and chocolate.
+
+  </p>
+</div>
+<div style="clear:both;"></div>
+
 
 <a name="brittany_istenes">&nbsp;</a>
 <hr/>
@@ -192,6 +206,21 @@ teams through best InnerSource practices.
   </p>
 </div>
 <div style="clear:both;"></div>
+
+<a name="jim_jagielski">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Jim Jagielski" width="200" src="/assets/img/Jim Jagielski.png"/>
+    </div>
+    <b>Jim Jagielski</b>
+    <p>
+Jim Jagielski is co-founder of the ASF and OSPO Lead at Uber.
+  </p>
+</div>
+<div style="clear:both;"></div>
+
+
 
 <a name="dov_katz">&nbsp;</a>
 <hr/>
