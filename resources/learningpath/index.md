@@ -18,7 +18,7 @@ The InnerSource Learning Path covers the following sections:
 
 Check out the Introduction to learn about the types of problems where InnerSource can help, how to do it, the types of benefits you can expect to see by participating, and the underlying principles that make it all work.
 
-View in [English][Introduction], [German][German Introduction], [Japanese][Japanese Introduction], or [Chinese][Chinese Introduction]
+View in [English][Introduction], [German][German Introduction], [日本語][Japanese Introduction], or [Chinese][Chinese Introduction]
  
 ### [Trusted Committer]
 
@@ -34,7 +34,7 @@ View in [English][Trusted Committer], [German][German Trusted Committer], or [Ch
 
 The Contributor section covers what it means to be an InnerSource Contributor, the aspects of behaviour that will make you a successful Contributor, contribution mechanics and the benefits of InnerSource for your team and organization.
 
-View in [English][Contributor], [Japanese][Japanese Contributor] or [Chinese][Chinese Contributor]
+View in [English][Contributor], [日本語][Japanese Contributor] or [Chinese][Chinese Contributor]
  
 ### [Product Owner]
 
