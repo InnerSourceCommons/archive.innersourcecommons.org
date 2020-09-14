@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% assign siblings = site.pages | where: "learning_path_group", page.learning_path_group | sort: "learning_path_position" %}
+{% assign siblings = site.pages | where: "learning_path_group", page.learning_path_group | where: "learning_path_translation", page.learning_path_translation | sort: "learning_path_position" %}
 
 <p><a href="/resources/learningpath/">Back to Learning Path homepage</a></p>
 
@@ -65,7 +65,7 @@ layout: page
   <p id="learningPathArticle"></p>
 
   <script>
-    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}.asciidoc')
+    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/{{ page.learning_path_article }}')
       .then((response) => {
         return response.text()
       })
