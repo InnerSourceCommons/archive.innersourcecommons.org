@@ -37,7 +37,7 @@ Example of time differences in other timezones for the first day of conference:
 
   <tr>
         <td class="time">09:00 - 09:10</td>
-        <td colspan="2">Welcome and Logistics</td>
+        <td colspan="2">Welcome to the Summit, including an address by <a href="/events/isc-fall-2020-speakers#danese_cooper">Danese Cooper</a>, ISC President</td>
   </tr>
 
 
