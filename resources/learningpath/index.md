@@ -18,7 +18,7 @@ The InnerSource Learning Path covers the following sections:
 
 Check out the Introduction to learn about the types of problems where InnerSource can help, how to do it, the types of benefits you can expect to see by participating, and the underlying principles that make it all work.
 
-View in [English][Introduction], [Deutsch (German)][German Introduction], [日本語 (Japanese)][Japanese Introduction], or [中文 (Chinese)][Chinese Introduction]
+View in [English][Introduction], [Deutsch (German)][German Introduction], [日本語 (Japanese)][Japanese Introduction], [中文 (Chinese)][Chinese Introduction], or [Italiano (Italian)][Italian Introduction].
  
 ### [Trusted Committer]
 
@@ -59,6 +59,7 @@ If you would like to get involved with the Learning Path work at InnerSource Com
 [German Introduction]: ./introduction/de
 [Japanese Introduction]: ./introduction/ja
 [Chinese Introduction]: ./introduction/zh
+[Italian Introduction]: ./introduction/it
 [German Trusted Committer]: ./trusted-committer/de
 [Chinese Trusted Committer]: ./trusted-committer/zh
 [Japanese Contributor]: ./contributor/ja
