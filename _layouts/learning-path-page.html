@@ -93,6 +93,10 @@ layout: page
 <h4>Thank you to this article's contributors!</h4>
 <ul>
   {% for contributor in page.contributors %}
-      <li>{{ contributor }}</li>
+    {% if contributor.url %}
+      <li><a href={{ contributor.url }}> {{ contributor.name }}</a></li>
+    {% else %}
+      <li>{{ contributor.name }}</li>
+    {% endif %}
   {% endfor %}
 </ul>
