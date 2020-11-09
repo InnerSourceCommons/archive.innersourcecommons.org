@@ -89,3 +89,14 @@ layout: page
     <span style="float: right"><a href="{{ next.url }}" >Next</a></span>
   {% endif %}
 </p>
+
+<h4>Thank you to this article's contributors!</h4>
+<ul>
+  {% for contributor in page.contributors %}
+    {% if contributor.url %}
+      <li><a href={{ contributor.url }}> {{ contributor.name }}</a></li>
+    {% else %}
+      <li>{{ contributor.name }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
