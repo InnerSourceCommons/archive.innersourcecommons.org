@@ -24,7 +24,7 @@ comprised of:
 | Isabel Drost-Fromm | | 
 | Timothy H-J. Yao | | 
 
-## Invorporation Documents
+## Incorporation Documents
 
 - [Bylaws]({{ site.baseurl}}/resources/incorporation/bylaws.pdf)
 
