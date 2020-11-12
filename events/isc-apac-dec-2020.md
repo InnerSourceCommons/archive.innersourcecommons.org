@@ -2,6 +2,7 @@
 layout: page
 title: 'InnerSource Commons APAC 2020 Virtual Summit'
 ---
+
 ### 2nd and 3rd December 2020, online - [register now](https://eventyay.com/e/3dbaaa50)! 
 
 Welcome to the 12th InnerSource Commons Summit! Thanks to the success of the <a href="https://youtu.be/0YzOz94cNec">ISC 
