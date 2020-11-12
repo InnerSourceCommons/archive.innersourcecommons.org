@@ -42,6 +42,8 @@ View in [English][Contributor], [日本語 (Japanese)][Japanese Contributor] or 
 
 This section is for Product Owners or Program Managers and covers the basic InnerSource techniques that will save countless management and developer hours.
 
+View in [中文 (Chinese)][Chinese Product Owner]
+
 The videos are becoming available on our YouTube channel: [YouTubeChannel]
 
 ## Contribute to the InnerSource Learning Paths!
@@ -64,3 +66,4 @@ If you would like to get involved with the Learning Path work at InnerSource Com
 [Chinese Trusted Committer]: ./trusted-committer/zh
 [Japanese Contributor]: ./contributor/ja
 [Chinese Contributor]: ./contributor/zh
+[Chinese Product Owner]: ./product-owner/zh
