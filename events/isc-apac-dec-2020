@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Learning Path - Introduction - I principi dell&#39;InnerSource</title>
+	<title>InnerSource Commons APAC 2020 Virtual Summit</title>
 	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
@@ -34,9 +34,9 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Learning Path - Introduction - I principi dell&#39;InnerSource">
+	<meta property="og:title" content="InnerSource Commons APAC 2020 Virtual Summit">
 	<meta property="og:description" content="InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy">
-	<meta property="og:url" content="/resources/learningpath/introduction/it/05/">
+	<meta property="og:url" content="/events/isc-apac-dec-2020">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="InnerSource Commons">
@@ -430,7 +430,7 @@
 
 				<div itemprop="name">
 					
-					<h1>Learning Path - Introduction - I principi dell'InnerSource</h1>
+					<h1>InnerSource Commons APAC 2020 Virtual Summit</h1>
 				</div>
 			</header>
 
@@ -438,101 +438,54 @@
 			
 
 			<div itemprop="articleSection">
-			
+			### 2nd and 3rd December 2020, online - [register now](https://eventyay.com/e/3dbaaa50)! 
 
-<p><a href="/resources/learningpath/">Back to Learning Path homepage</a></p>
+Welcome to the 12th InnerSource Commons Summit! Thanks to the success of the <a href="https://youtu.be/0YzOz94cNec">ISC 
+Online Fall Summit 2020</a>, we are staying online for our first summit timed for our growing APAC community. 
 
-<table>
-  <thead>
-    <tr>
-      <th>Introduction</th>
-    </tr>
-  </thead>
-  <tbody>
-    
-        <tr>
-          
-            <td><a href="/resources/learningpath/introduction/it/">01 - Introduzione</a></td>
-          
-        </tr>
-    
-        <tr>
-          
-            <td><a href="/resources/learningpath/introduction/it/02/">02 - Quali problemi l'InnerSource risolve?</a></td>
-          
-        </tr>
-    
-        <tr>
-          
-            <td><a href="/resources/learningpath/introduction/it/03/">03 - Come funziona l'InnerSource?</a></td>
-          
-        </tr>
-    
-        <tr>
-          
-            <td><a href="/resources/learningpath/introduction/it/04/">04 - Quali sono i benefici dell'InnerSource?</a></td>
-          
-        </tr>
-    
-        <tr>
-          
-            <td>05 - I principi dell'InnerSource</td>
-          
-        </tr>
-    
-        <tr>
-          
-            <td><a href="/resources/learningpath/introduction/it/06/">06 - Conclusione</a></td>
-          
-        </tr>
-    
-  </tbody>
-</table>
+We continue to explore new ways to get together and keep advancing in the body of knowledge of InnerSource. Nowadays, particularly in this industry, it 
+is more important than ever to successfully work remotely and across different geographical areas. This online event has this in mind and we hope to learn from 
+each other, what it is working and what it is not.
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.13.1/js-yaml.min.js"></script>
+### About the Event
 
+The summit consists of two days, each a 3 hour slot: running from 10:30 IST / 13:00 SGT & CST / 16:00 AEDT (5am UTC). 
 
+This is our first summit planned for our APAC audience, so the schedule is planned with that in mind, but we welcome participants from all over the world. 
 
+### Registration
 
+[Click here to register](https://eventyay.com/e/3dbaaa50) for the InnerSource Commons APAC 2020 Virtual Summit. Ticket price is $35 (including T-shirt) or $10, inclusive of all taxes. T-shirts will be sent out after the event.
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
+If, for any reason, you find the associated fee prohibits you from attending - please email us at <summit@innersourcecommons.org>, as we have a number of complementary tickets we can allocate. 
 
-  <p id="learningPathArticle"></p>
+### Call For Sponsorship
 
-  <script>
-    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/introduction/it/05-principles.asciidoc')
-      .then((response) => {
-        return response.text()
-      })
-      .then((text) => {
-        document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
-      })
-  </script>
+We invite interested organisations and companies to sponsor our summits. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact our Sponsorship team for more details (sponsor@innersourcecommons.org).
 
+### What is the InnerSource Commons?
 
-
-
-
-
-
-<br />
-<p style="text-align: left">
+The InnerSource Commons ([InnerSourceCommons.org](http://innersourcecommons.org)) aka ISC is a consortium of representatives from almost a hundred companies and institutions. It utilizes open source methods to provide organizations pursuing inner sourcing a forum for discussing and improving the practice of InnerSource through the sharing of experiences (under the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule)), creation and review of InnerSource patterns, and the open exchange of ideas.
   
-    <span style="float: left;"></span><a href="/resources/learningpath/introduction/it/04/" >Previous</a></span>
-  
-  
-    <span style="float: right"><a href="/resources/learningpath/introduction/it/06/" >Next</a></span>
-  
-</p>
+### Who should attend?
 
-<h4>Thank you to this article's contributors!</h4>
-<ul>
-  
-    
-      <li><a href=https://github.com/OpenPj> Piergiorgio Lucidi</a></li>
-    
-  
-</ul>
+The InnerSource Common Summits welcomes software professionals at all levels, from executive level manager to software developer. The program targets software development managers and executive managers in particular because adopting InnerSource requires significant efforts to make changes in the organization—whether these are implemented top-down or bottom-up. If you or your organization is adopting, or considering adopting, InnerSource, then attending the InnerSource Summit is the best thing you can do.
+   
+### What will I get from this event?
+
+The three key reasons to attend the InnerSource Common Summits are:
+
+* Learn from others who are on the journey of InnerSource adoption
+* Share your experiences and get help with your challenges
+* Network, network, network! The InnerSource Commons is an excellent place to network with likeminded people, all of whom are passionate about making InnerSource a success in their respective organizations!
+
+### [Code of Conduct](/events/conduct/)
+
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
+
+All related conversations in the InnerSource Slack Channel will still be considered to fall under [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed can be shared but not attributed.
+
+Interested in getting involved? Email <summit@innersourcecommons.org> or join the conversation on the [#innersourcecommons](https://innersourcecommons-inviter.herokuapp.com/) slack channel!
 
 			</div>
 
