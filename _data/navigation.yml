@@ -10,7 +10,7 @@
   url: "/events/"
   side: left
   dropdown:
-   - title: "APAC Summit Dec 2020"
+  - title: "APAC Summit Dec 2020"
     url: "/events/isc-apac-dec-2020"
   - title: "US Summit Fall 2020"
     url: "/events/isc-fall-2020"
