@@ -46,6 +46,20 @@ Danese Cooper is vice president of special initiatives at NearForm, an Irish tec
   </div>
 <div style="clear:both;"></div>
 
+
+<a name="daniel_izquierdo_cortázar">&nbsp;</a>
+<hr/>
+  <div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Daniel Izquierdo Cortázar" width="200" src="/assets/img/Daniel_Izquierdo.jpg"/>
+    </div>
+    <b>Daniel Izquierdo Cortázar</b>
+    <p>
+Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a company that provides software analytics for open source ecosystems. Currently the chief data officer at Bitergia, he is focused on the quality of the data, research of new metrics, analysis, and studies of interest for Bitergia customers via data mining and processing. Daniel holds a PhD in free software engineering from the Universidad Rey Juan Carlos in Madrid, where he focused on the analysis of buggy developers activity patterns in the Mozilla community. Daniel serves on the board and is a Member of the InnerSource Commons.
+  </p>
+  </div>
+<div style="clear:both;"></div>
+
 <a name="diane_mueller">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -119,7 +133,7 @@ Mr. Harish Pillay serves as Head of Community Architecture and Leadership at Red
     </div>
     <b>Jerry Tan</b>
     <p>
-Committer of apache.org, mozilla.org, gnome.org PPMC of apache brpc incubating project, InnerSourceCommon Foundation member, InnerSource china group organizer, more than 20 years of Open Source Experience
+Jerry Tan now works with Tencent. He is a committer at apache.org, mozilla.org, gnome.org PPMC of apache brpc incubating project, member of the InnerSource Commons community, InnerSource China group organizer, and has more than 20 years of Open Source Experience
 </p>
   </div>
 <div style="clear:both;"></div>
@@ -132,7 +146,7 @@ Committer of apache.org, mozilla.org, gnome.org PPMC of apache brpc incubating p
     </div>
     <b>Kanchana Welagedara</b>
     <p>
-A long-time open source enthusiast and community contributor, Kanchana Welagedara is a member of The Apache Software Foundation, and a contributor for Apache Axis C++, Geronimo, and other open source projects. Kanchana's experience includes being Lead Developer at JPMorgan Chase. Previously, she was an innersource evangelist at PayPal. Kanchana is also the proud mother of a geeky 5-year-old boy and a smart and beautiful baby girl.
+A long-time open source enthusiast and community contributor, Kanchana Welagedara is a member of The Apache Software Foundation, and a contributor for Apache Axis C++, Geronimo, and other open source projects. Kanchana's experience includes being Lead Developer at JPMorgan Chase. Previously, she was an InnerSource evangelist at PayPal. Kanchana is also the proud mother of a geeky 5-year-old boy and a smart and beautiful baby girl.
 </p>
   </div>
 <div style="clear:both;"></div>
@@ -239,8 +253,6 @@ Tapajit Dey is a Post-Doctoral Researcher at Lero, the Science Foundation Irelan
     <p>
 Willem Jiang is the technical expert of Huawei, a member of the Apache Software Foundation, he worked on many Apache projects like Camel, CXF, ServiceMix and ServiceComb. Before joining Huawei, Willem was the principle engineer of RedHat working on Fuse ESB, he also worked for FuseSource, IONA and Travelsky.inc.
 Willem gave talks about Open Source, Apache Camel in several conferences, like KubeCon Shanghai, CosCon and ArchSummit, etc.
- 
-Long Li is a system reliability expert and HA architect of Huawei. He has design experience in system reliability, overload control, ISSU, and fault management. He is currently responsible for building the DFX design platform and DFX inner source community.
 </p>
   </div>
 <div style="clear:both;"></div>
