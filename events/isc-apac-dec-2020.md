@@ -12,15 +12,19 @@ We continue to explore new ways to get together and keep advancing in the body o
 is more important than ever to successfully work remotely and across different geographical areas. This online event has this in mind and we hope to learn from 
 each other, what it is working and what it is not.
 
+Check out our full list of speakers [here](/events/isc-apac-2020-speakers/). 
+
 ### About the Event
 
 The summit consists of two days, each a 3 hour slot: running from 10:30 IST / 13:00 SGT & CST / 16:00 AEDT (5am UTC). 
 
 This is our first summit planned for our APAC audience, so the schedule is planned with that in mind, but we welcome participants from all over the world. 
 
-### Supported By
+### Kindly Supported By
 
-Tentcent
+<img alt="Tencent" src="/assets/img/Tencent-Logo.jpg" width="200" align="left"/>
+<p>
+
 
 ### Registration
 
