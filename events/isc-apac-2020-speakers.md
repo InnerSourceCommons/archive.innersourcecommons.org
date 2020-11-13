@@ -249,7 +249,6 @@ Long Li is a system reliability expert and HA architect of Huawei. He has design
 <a name="yoshitake_kobayashi">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-
     <b>Yoshitake Kobayashi</b>
     <p>
 Yoshitake Kobayashi is the Senior Manager of The Advanced Collaborative Software Development Technology Department at Toshiba Corporation. The department provides open source technologies and services as a role of Open Source Program Office (OSPO). His research interests include operating systems, distributed systems, and dynamically reconfigurable systems. Additionally, he is the Chair of the Technical Steering Committee for the Civil Infrastructure Platform.
