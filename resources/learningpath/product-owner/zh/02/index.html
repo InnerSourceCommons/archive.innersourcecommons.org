@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Learning Path</title>
+	<title>Learning Path - Product Owner - 成为中层管理人员有多困难</title>
 	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
@@ -34,9 +34,9 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Learning Path">
+	<meta property="og:title" content="Learning Path - Product Owner - 成为中层管理人员有多困难">
 	<meta property="og:description" content="InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy">
-	<meta property="og:url" content="/resources/learningpath/">
+	<meta property="og:url" content="/resources/learningpath/product-owner/zh/02/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="InnerSource Commons">
@@ -430,7 +430,7 @@
 
 				<div itemprop="name">
 					
-					<h1>Learning Path</h1>
+					<h1>Learning Path - Product Owner - 成为中层管理人员有多困难</h1>
 				</div>
 			</header>
 
@@ -438,52 +438,97 @@
 			
 
 			<div itemprop="articleSection">
-			<p>The InnerSource Commons Learning Path community is focused on creating a set of resources explaining and teaching various aspects of InnerSource. This curated set of videos and articles cover patterns that have been adopted by many organisations and have been proven to lead to successful InnerSource practices. The video production was kindly sponsored by PayPal.</p>
+			
 
-<p>Many of our community use these resources within their organisations to increase awareness and build competencies around InnerSource.</p>
+<p><a href="/resources/learningpath/">Back to Learning Path homepage</a></p>
 
-<p>We hope they help you on your journey to InnerSource!</p>
+<table>
+  <thead>
+    <tr>
+      <th>Product Owner</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/zh/">01 - 开场</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td>02 - 成为中层管理人员有多困难</td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/zh/03/">03 - InnerSource 中内建的主要收益</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/zh/04/">04 - 新角色和新职责</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/zh/05/">05 - 总结和要点</a></td>
+          
+        </tr>
+    
+        <tr>
+          
+            <td><a href="/resources/learningpath/product-owner/zh/06/">06 - 闭幕</a></td>
+          
+        </tr>
+    
+  </tbody>
+</table>
 
-<p>The InnerSource Learning Path covers the following sections:</p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.13.1/js-yaml.min.js"></script>
 
-<h3 id="introduction"><a href="./introduction">Introduction</a></h3>
 
-<p><img src="/assets/img/LP_thumbnail_introduction.jpg" alt="Learning Path Introduction Thumbnail" width="200" /></p>
 
-<p>Check out the Introduction to learn about the types of problems where InnerSource can help, how to do it, the types of benefits you can expect to see by participating, and the underlying principles that make it all work.</p>
 
-<p>View in <a href="./introduction">English</a>, <a href="./introduction/de">Deutsch (German)</a>, <a href="./introduction/ja">日本語 (Japanese)</a>, <a href="./introduction/zh">中文 (Chinese)</a>, or <a href="./introduction/it">Italiano (Italian)</a>.</p>
 
-<h3 id="trusted-committer"><a href="./trusted-committer">Trusted Committer</a></h3>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/asciidoctor.js/1.5.9/asciidoctor.min.js"></script>
 
-<p><img src="/assets/img/LP_thumbnail_trustedcommitter.jpg" alt="Learning Path Trusted Committer Thumbnail" width="200" /></p>
+  <p id="learningPathArticle"></p>
 
-<p>Visit this section to get an introduction to the crucial role of Trusted Committer, essential for a strong InnerSource implementation in any company. Learn about what it takes to fill the role and what the path towards being a Trusted Committer looks like.</p>
+  <script>
+    fetch('https://raw.githubusercontent.com/InnerSourceCommons/InnerSourceLearningPath/master/product-owner/zh/02-how-difficult-it-is-to-be-a-middle-manager-article-zh.asciidoc')
+      .then((response) => {
+        return response.text()
+      })
+      .then((text) => {
+        document.getElementById('learningPathArticle').innerHTML = Asciidoctor().convert(text)
+      })
+  </script>
 
-<p>View in <a href="./trusted-committer">English</a>, <a href="./trusted-committer/de">Deutsch (German)</a>, or <a href="./trusted-committer/zh">中文 (Chinese)</a></p>
 
-<h3 id="contributor"><a href="./contributor">Contributor</a></h3>
 
-<p><img src="/assets/img/LP_thumbnail_contributor.jpg" alt="Learning Path Contributor Thumbnail" width="200" /></p>
 
-<p>The Contributor section covers what it means to be an InnerSource Contributor, the aspects of behaviour that will make you a successful Contributor, contribution mechanics and the benefits of InnerSource for your team and organization.</p>
 
-<p>View in <a href="./contributor">English</a>, <a href="./contributor/ja">日本語 (Japanese)</a> or <a href="./contributor/zh">中文 (Chinese)</a></p>
 
-<h3 id="product-owner"><a href="./product-owner">Product Owner</a></h3>
 
-<p><img src="/assets/img/LP_thumbnail_productowner.jpg" alt="Learning Path Product Owner Thumbnail" width="200" /></p>
+<br />
+<p style="text-align: left">
+  
+    <span style="float: left;"></span><a href="/resources/learningpath/product-owner/zh/" >Previous</a></span>
+  
+  
+    <span style="float: right"><a href="/resources/learningpath/product-owner/zh/03/" >Next</a></span>
+  
+</p>
 
-<p>This section is for Product Owners or Program Managers and covers the basic InnerSource techniques that will save countless management and developer hours.</p>
-
-<p>View in <a href="./product-owner/zh">中文 (Chinese)</a></p>
-
-<p>The videos are becoming available on our YouTube channel: <a href="https://www.youtube.com/channel/UCoSPSd6Or4F_vpjo4SmyoEA">YouTubeChannel</a></p>
-
-<h2 id="contribute-to-the-innersource-learning-paths">Contribute to the InnerSource Learning Paths!</h2>
-
-<p>If you would like to get involved with the Learning Path work at InnerSource Commons, checkout the <a href="https://github.com/InnerSourceCommons/InnerSourceLearningPath/">README.md of the Learning Path Repository</a> or join our Slack channel via the signup link in the left bar of this website and ask to join the <a href="https://innersourcecommons-inviter.herokuapp.com/">#learning-path</a> <em>Slack</em> channel. Once there you’ll see the conversations we’re having about producing this content and can join the work.</p>
-
+<h4>Thank you to this article's contributors!</h4>
+<ul>
+  
+</ul>
 
 			</div>
 
