@@ -18,6 +18,10 @@ The summit consists of two days, each a 3 hour slot: running from 10:30 IST / 13
 
 This is our first summit planned for our APAC audience, so the schedule is planned with that in mind, but we welcome participants from all over the world. 
 
+### Supported By
+
+Tentcent
+
 ### Registration
 
 [Click here to register](https://eventyay.com/e/3dbaaa50) for the InnerSource Commons APAC 2020 Virtual Summit. Ticket price is $35 (including T-shirt) or $10, inclusive of all taxes. T-shirts will be sent out after the event.
