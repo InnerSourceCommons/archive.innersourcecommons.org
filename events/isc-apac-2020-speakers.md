@@ -155,9 +155,6 @@ Minchene Tang is a Program Manager leading strategic initiatives at VMware’s O
 <a name="mishari_muqbil">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-    
-    </div>
     <b>Mishari Muqbil</b>
     <p>
 Being part of Open Source communities for 25+ years, I coach organizations in best practices and lessons learned from the Open Source world to build teams and organizations that are anti-fragile (embracing uncertainty and being stronger because of it), dynamic (have the ability to self-organize to take on challenges), and innovative (constantly upskilling and apply new knowledge in the organization).
@@ -222,7 +219,7 @@ Implement. Learn. Repeat. #people #teams #business #technology  https://spier.hu
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-    <img alt="Tapajit Dey" width="200" src="/assets/img/tapajit-dey.jpg"/> 
+    <img alt="Tapajit Dey" width="200" src="/assets/img/tapajit-dey.jpeg"/> 
     </div>
     <b>Tapajit Dey</b>
     <p>
@@ -252,9 +249,7 @@ Long Li is a system reliability expert and HA architect of Huawei. He has design
 <a name="yoshitake_kobayashi">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
- 
-    </div>
+
     <b>Yoshitake Kobayashi</b>
     <p>
 Yoshitake Kobayashi is the Senior Manager of The Advanced Collaborative Software Development Technology Department at Toshiba Corporation. The department provides open source technologies and services as a role of Open Source Program Office (OSPO). His research interests include operating systems, distributed systems, and dynamically reconfigurable systems. Additionally, he is the Chair of the Technical Steering Committee for the Civil Infrastructure Platform.
