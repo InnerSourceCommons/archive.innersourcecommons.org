@@ -1,12 +1,15 @@
 ---
 layout: page
-title: 'Upcoming InnerSource Events'
+title: 'InnerSource Commons Events'
 ---
 
 ## Upcoming Events
-Details of the next InnerSource Commons Summit will be added as soon as they are available.
-
+* [Commons Summit 12 - APAC 2020](https://bit.ly/2Gl2pUR)
+   - InnerSource Commons Summit 12 - Virtual - December 2-3 2020; <a href="https://bit.ly/2Gl2pUR">Click here to submit your presentation proposal!</a>
+   
 ## Prior Events
+* [Commons Summit 11 - Fall 2020](isc-fall-2020)
+   - InnerSource Commons Summit 11 - Virtual - September 15-16 2020; <a href="https://bit.ly/3iii04O">Click here to view all the session recordings!</a> 
 * [Commons Summit 10 - Spring 2020](isc-spring-2020)
    - InnerSource Commons Summit 10 - Online - April 14-16; <a href="https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9">Click here to view all the session recordings!</a>
 * [Commons Summit 9 - Fall 2019](https://jacobgreen197.wixsite.com/mysite-1)

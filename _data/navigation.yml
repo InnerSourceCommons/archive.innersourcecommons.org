@@ -10,6 +10,8 @@
   url: "/events/"
   side: left
   dropdown:
+  - title: "US Summit Fall 2020"
+    url: "/events/isc-fall-2020"
   - title: "EU Summit Spring 2020"
     url: "/events/isc-spring-2020"
   - title: "US Summit Fall 2019"
