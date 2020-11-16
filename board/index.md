@@ -24,6 +24,10 @@ comprised of:
 | Isabel Drost-Fromm | | 
 | Timothy H-J. Yao | | 
 
+## Incorporation Documents
+
+- [Bylaws]({{ site.baseurl}}/resources/incorporation/bylaws.pdf)
+
 ## Public Board Meeting Notes
 
 - [2020-06-10]({{ site.baseurl}}/board/2020-06-10-terse-notes/)
