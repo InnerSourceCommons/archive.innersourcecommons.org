@@ -32,3 +32,4 @@ comprised of:
 
 - [2020-06-10]({{ site.baseurl}}/board/2020-06-10-terse-notes/)
 - [2020-05-13]({{ site.baseurl}}/board/2020-05-13-terse-notes/)
+- [2020-11-18]({{ site.baseurl}}/board/2020-11-18-terse-notes/)
