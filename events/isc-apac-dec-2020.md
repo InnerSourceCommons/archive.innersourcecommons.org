@@ -12,7 +12,11 @@ We continue to explore new ways to get together and keep advancing in the body o
 is more important than ever to successfully work remotely and across different geographical areas. This online event has this in mind and we hope to learn from
 each other, what it is working and what it is not.
 
-Check out our full list of speakers [here](/events/isc-apac-2020-speakers/).
+### Agenda and speakers
+
+Check out our full list of speakers [here](https://eventyay.com/e/3dbaaa50/speakers).
+
+Agenda is available [here](https://eventyay.com/e/3dbaaa50/schedule).
 
 ### About the Event
 
