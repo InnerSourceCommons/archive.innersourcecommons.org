@@ -4,7 +4,7 @@ layout: page
 
 {% assign siblings = site.pages | where: "learning_path_group", page.learning_path_group | where: "learning_path_translation", page.learning_path_translation | sort: "learning_path_position" %}
 
-<p><a href="/resources/learningpath/">Back to Learning Path homepage</a></p>
+<p><a href="/resources/learningpath/">{{ site.data.learning_path[page.learning_path_translation].home | default: site.data.learning_path.en.home }}</a></p>
 
 <table>
   <thead>
@@ -83,14 +83,14 @@ layout: page
 <br />
 <p style="text-align: left">
   {% if prev_index > -1 %}
-    <span style="float: left;"></span><a href="{{ prev.url }}" >Previous</a></span>
+    <span style="float: left;"></span><a href="{{ prev.url }}" >{{ site.data.learning_path[page.learning_path_translation].prev | default: site.data.learning_path.en.prev }}</a></span>
   {% endif %}
   {% if next_index < siblings.size %}
-    <span style="float: right"><a href="{{ next.url }}" >Next</a></span>
+    <span style="float: right"><a href="{{ next.url }}" >{{ site.data.learning_path[page.learning_path_translation].next | default: site.data.learning_path.en.next }}</a></span>
   {% endif %}
 </p>
 
-<h4>Thank you to this article's contributors!</h4>
+<h4>{{ site.data.learning_path[page.learning_path_translation].thanks | default: site.data.learning_path.en.thanks }}</h4>
 <ul>
   {% for contributor in page.contributors %}
     {% if contributor.url %}
