@@ -7,4 +7,4 @@ permalink: '/resources/books/'
   * [Getting Started With InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp)
   * [Understanding the InnerSource Checklist]({{ site.baseurl }}/checklist/)
   * [Adopting InnerSource - Principles and Case Studies](adoptinginnersource)
-  * [Managing InnerSource Projects](https://legacy.gitbook.com/book/dicortazar/managing-inner-source-projects/details)
+  * [Managing InnerSource Projects](https://dicortazar.gitbook.io/managing-inner-source-projects/)
