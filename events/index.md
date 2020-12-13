@@ -4,10 +4,13 @@ title: 'InnerSource Commons Events'
 ---
 
 ## Upcoming Events
+
+* To Be Announced
+
+## Prior Events
+
 * [Commons Summit 12 - APAC 2020](http://innersourcecommons.org/events/isc-apac-dec-2020/)
    - InnerSource Commons Summit 12 - Virtual - December 2-3 2020
-   
-## Prior Events
 * [Commons Summit 11 - Fall 2020](isc-fall-2020)
    - InnerSource Commons Summit 11 - Virtual - September 15-16 2020 – <a href="https://bit.ly/3iii04O">Session recordings</a> 
 * [Commons Summit 10 - Spring 2020](isc-spring-2020)

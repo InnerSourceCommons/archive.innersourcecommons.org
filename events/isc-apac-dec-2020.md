@@ -3,7 +3,7 @@ layout: page
 title: 'InnerSource Commons APAC 2020 Virtual Summit'
 ---
 
-### 2nd and 3rd December 2020, online - [register now](https://eventyay.com/e/3dbaaa50)!
+### 2nd and 3rd December 2020, online - [event site](https://eventyay.com/e/3dbaaa50)!
 
 Welcome to the 12th InnerSource Commons Summit! Thanks to the success of the <a href="https://youtu.be/0YzOz94cNec">ISC
 Online Fall Summit 2020</a>, we are staying online for our first summit timed for our growing APAC community.
@@ -29,12 +29,6 @@ This is our first summit planned for our APAC audience, so the schedule is plann
 <p>
 <img alt="Tencent" src="/assets/img/Tencent-Logo.jpg" width="200"/>
 </p>
-
-### Registration
-
-[Click here to register](https://eventyay.com/e/3dbaaa50) for the InnerSource Commons APAC 2020 Virtual Summit. Ticket price is $35 (including T-shirt) or $10, inclusive of all taxes. T-shirts will be sent out after the event.
-
-If, for any reason, you find the associated fee prohibits you from attending - please email us at <summit@innersourcecommons.org>, as we have a number of complementary tickets we can allocate.
 
 ### Call For Sponsorship
 
