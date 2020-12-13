@@ -1,0 +1,25 @@
+en:
+  home: "Back to Learning Path homepage"
+  next: "Next"
+  prev: "Previous"
+  thanks: "Thank you to this article's contributors!"
+de:
+  home: "Zurück zur Homepage des Learning Path"
+  next: "Nächstes Kapitel"
+  prev: "Vorheriges Kapitel"
+  thanks: "Wir danken für die Mitarbeit an diesem Artikel:"
+it:
+  home: "Torna alla home del Learning Path"
+  next: "Prossimo"
+  prev: "Precedente"
+  thanks: "Grazie ai contributori di questo articolo!"
+ja:
+  home: "Learning Pathホームページに戻る"
+  next: "次へ"
+  prev: "前へ"
+  thanks: "この文書に貢献いただいた方々"
+zh:
+  home: "回到Learning Path主页"
+  next: "下一页"
+  prev: "上一页"
+  thanks: "感谢你对这篇文章的贡献"
