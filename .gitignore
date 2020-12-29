@@ -5,3 +5,4 @@ build.sh
 vendor/
 .bundle/
 .jekyll-cache/
+Gemfile.lock
