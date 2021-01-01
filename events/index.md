@@ -10,7 +10,7 @@ title: 'InnerSource Commons Events'
 ## Prior Events
 
 * [Commons Summit 12 - APAC 2020](isc-apac-dec-2020)
-   - InnerSource Commons Summit 12 - Virtual - December 2-3 2020 - [Session recordings](https://bit.ly/3moel7B)
+   - InnerSource Commons Summit 12 - Virtual - December 2-3 2020 - [Session recordings](https://www.youtube.com/playlist?list=PLCH-i0B0otNSA4KltJHgcQB6450VI-8pG)
 * [Commons Summit 11 - Fall 2020](isc-fall-2020)
    - InnerSource Commons Summit 11 - Virtual - September 15-16 2020 – [Session recordings](https://bit.ly/3iii04O)
 * [Commons Summit 10 - Spring 2020](isc-spring-2020)
