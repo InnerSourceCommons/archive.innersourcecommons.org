@@ -1,12 +1,12 @@
 ---
 layout: page
 show_meta: false
-title: 'Terse Notes from Board Meeting on 2020-11-18'
+title: 'Terse Notes from Board Meeting on 2020-12-16`
 ---
 
 ### Date and Time of Meeting
 
-2020-11-18, 6 p.m - 7 p.m. CET / 9 a.m. - 10 a.m. PT
+2020-12-16, 6 p.m - 7 p.m. CET / 9 a.m. - 10 a.m. PT
 
 ### Role Call
 
@@ -15,7 +15,6 @@ title: 'Terse Notes from Board Meeting on 2020-11-18'
 - Silona Bonewald
 - Danese Cooper (President)
 - Maximilian Capraro
-- Isabel Drost-Fromm
 - Georg Grütter (Vice President)
 - Daniel Izquierdo
 - Russel Rutledge (Secretary)
@@ -23,10 +22,10 @@ title: 'Terse Notes from Board Meeting on 2020-11-18'
 - Timothy H-J. Yao
 
 #### Directors Absent
+- Isabel Drost-Fromm
 
 #### Members Present
 
-- Jacob Green
 - Johannes Tigges
 
 ### Votes Taken

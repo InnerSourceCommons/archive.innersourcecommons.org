@@ -9,12 +9,12 @@ title: 'InnerSource Commons Events'
 
 ## Prior Events
 
-* [Commons Summit 12 - APAC 2020](http://innersourcecommons.org/events/isc-apac-dec-2020/)
-   - InnerSource Commons Summit 12 - Virtual - December 2-3 2020
+* [Commons Summit 12 - APAC 2020](isc-apac-dec-2020)
+   - InnerSource Commons Summit 12 - Virtual - December 2-3 2020 - [Session recordings](https://www.youtube.com/playlist?list=PLCH-i0B0otNSA4KltJHgcQB6450VI-8pG)
 * [Commons Summit 11 - Fall 2020](isc-fall-2020)
-   - InnerSource Commons Summit 11 - Virtual - September 15-16 2020 – <a href="https://www.youtube.com/playlist?list=PLCH-i0B0otNQZQt_QzGR9Il_kE4C6cQRy">Session recordings</a>
+   - InnerSource Commons Summit 11 - Virtual - September 15-16 2020 – [Session recordings](https://www.youtube.com/playlist?list=PLCH-i0B0otNQZQt_QzGR9Il_kE4C6cQRy)
 * [Commons Summit 10 - Spring 2020](isc-spring-2020)
-   - InnerSource Commons Summit 10 - Online - April 14-16 – <a href="https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9">Session recordings</a>
+   - InnerSource Commons Summit 10 - Online - April 14-16 – [Session recordings](https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9)
 * [Commons Summit 9 - Fall 2019](https://jacobgreen197.wixsite.com/mysite-1)
    - InnerSource Commons Summit 9 - Baltimore, MD, USA - September 17-19
 * [InnerSource Day at OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/full/innersource-day) (not organized by the InnerSource Commons)
@@ -47,4 +47,5 @@ title: 'InnerSource Commons Events'
     - InnerSource Commons Summit 1 - London, England, April 21-22 2016
 
 ## Help us inform the ISC members!
+
 Know of additional InnerSource events? Send us a [pull request](https://github.com/InnerSourceCommons/innersourcecommons.org/pulls) or open an [issue](https://github.com/InnerSourceCommons/innersourcecommons.org/issues).
