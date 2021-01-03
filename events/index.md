@@ -23,6 +23,8 @@ title: 'InnerSource Commons Events'
    - InnerSource Commons Summit 8 - Galway, Ireland - April 9-11
 * [Commons Summit 7 - Fall 2018](isc-fall-2018)
     - InnerSource Commons Summit 7 - New York, USA - Oct 3-5
+* [InnerSource Day at OSCON 2018](https://conferences.oreilly.com/oscon/oscon-or-2018/public/schedule/full/innersource-day.html) (not organized by the InnerSource Commons)
+   - Portland, OR, USA - July 17
 * [Commons Summit 6 - Spring 2018](isc-spring-2018)
     - InnerSource Commons Summit 6 - Germany - May 16-18
 * [Commons Summit 5 - Fall 2017](isc-fall-2017)
@@ -33,12 +35,14 @@ title: 'InnerSource Commons Events'
     - Duration: Approximately 60 minutes.
     - Cost: Free
     - Questions? Please send email to webcast@oreilly.com
+* [InnerSource at OSCON 2017](https://web.archive.org/web/20170102075116/http://conferences.oreilly.com/oscon/oscon-tx/public/schedule/grid/public) (not organized by the InnerSource Commons)
+   - Austin, TX, USA - May 8
 * [Commons Summit 4 - Spring 2017](isc-spring-2017)
     - InnerSource Commons Summit 4 - Geneva, Switzerland April 18-20 2017
 * [Commons Summit 3 - Fall 2016](isc-fall-2016)
     - InnerSource Commons Summit 3 - Boston, US, September 28-30 2016
 * [InnerSource @ OSCon US](oscon-us-2016)
-    - OSCon conference included inner source material, May 16-19, 2016 in Austin, Texas
+    - OSCon conference included InnerSource material, May 16-19, 2016 in Austin, Texas
 * [Commons Summit 1 - Spring 2016](isc-spring-2016)
     - InnerSource Commons Summit 1 - London, England, April 21-22 2016
 
