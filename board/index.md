@@ -34,3 +34,4 @@ comprised of:
 - [2020-05-13]({{ site.baseurl}}/board/2020-05-13-terse-notes/)
 - [2020-11-18]({{ site.baseurl}}/board/2020-11-18-terse-notes/)
 - [2020-12-16]({{ site.baseurl}}/board/2020-12-16-terse-notes/)
+- [2021-01-20]({{ site.baseurl}}/board/2021-01-20-terse-notes/)
