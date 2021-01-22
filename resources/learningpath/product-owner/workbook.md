@@ -9,6 +9,8 @@ learning_path_position: 7
 learning_path_translation: ""
 no_video: true
 contributors:
+  - name: Jason Nguyen
+    url: https://github.com/GoFightNguyen
   - name: Johannes Tigges
     url: https://github.com/lenucksi
 ---
