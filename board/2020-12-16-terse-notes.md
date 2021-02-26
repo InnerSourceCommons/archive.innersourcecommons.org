@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: 'Terse Notes from Board Meeting on 2020-12-16`
+title: 'Terse Notes from Board Meeting on 2020-12-16'
 ---
 
 ### Date and Time of Meeting
