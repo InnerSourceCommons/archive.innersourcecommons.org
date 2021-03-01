@@ -14,15 +14,15 @@ comprised of:
 
 | Name | Email |
 |------|-------|
-| Danese Cooper (as President) | |
-| Georg Gruetter (as Vice President) | |
-| Russel Rutldege (as Secretary) | |
-| Cedric Williams (as Treasurer) | |
-| Silona Irene Bonewald | |
+| Danese Cooper | |
+| Georg Gruetter | |
+| Russell Rutledge | |
+| Cedric Williams  | |
+| Jacob Green | |
 | Max Capraro | | |
 | Daniel Izquierdo Cortázar | |
 | Isabel Drost-Fromm | |
-| Timothy H-J. Yao | |
+| Johannes Tigges | |
 
 ## Incorporation Documents
 
