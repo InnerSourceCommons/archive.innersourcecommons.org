@@ -18,7 +18,7 @@ The InnerSource Learning Path covers the following sections:
 
 Check out the Introduction to learn about the types of problems where InnerSource can help, how to do it, the types of benefits you can expect to see by participating, and the underlying principles that make it all work.
 
-View in [English][Introduction], [Deutsch (German)][German Introduction], [日本語 (Japanese)][Japanese Introduction], [中文 (Chinese)][Chinese Introduction], [Italiano (Italian)][Italian Introduction], or [русский язык (Russian)][Russian Introduction]].
+View in [English][Introduction], [Deutsch (German)][German Introduction], [日本語 (Japanese)][Japanese Introduction], [中文 (Chinese)][Chinese Introduction], [Italiano (Italian)][Italian Introduction], [русский язык (Russian)][Russian Introduction]], or [Español (Spanish)][Spanish Introduction].
 
 ### [Trusted Committer]
 
@@ -26,7 +26,7 @@ View in [English][Introduction], [Deutsch (German)][German Introduction], [日�
 
 Visit this section to get an introduction to the crucial role of Trusted Committer, essential for a strong InnerSource implementation in any company. Learn about what it takes to fill the role and what the path towards being a Trusted Committer looks like.
 
-View in [English][Trusted Committer], [Deutsch (German)][German Trusted Committer], or [中文 (Chinese)][Chinese Trusted Committer]
+View in [English][Trusted Committer], [Deutsch (German)][German Trusted Committer], [中文 (Chinese)][Chinese Trusted Committer], or [日本語 (Japanese)][Japanese Trusted Committer]
 
 ### [Contributor]
 
@@ -34,7 +34,7 @@ View in [English][Trusted Committer], [Deutsch (German)][German Trusted Committe
 
 The Contributor section covers what it means to be an InnerSource Contributor, the aspects of behaviour that will make you a successful Contributor, contribution mechanics and the benefits of InnerSource for your team and organization.
 
-View in [English][Contributor], [日本語 (Japanese)][Japanese Contributor] or [中文 (Chinese)][Chinese Contributor]
+View in [English][Contributor], [日本語 (Japanese)][Japanese Contributor], [中文 (Chinese)][Chinese Contributor], [Italiano (Italian)][Italian Contributor], or [Deutsch (German)][German Contributor]
 
 ### [Product Owner]
 
@@ -63,8 +63,12 @@ If you would like to get involved with the Learning Path work at InnerSource Com
 [Chinese Introduction]: ./introduction/zh
 [Italian Introduction]: ./introduction/it
 [Russian Introduction]: ./introduction/ru
+[Spanish Introduction]: ./introduction/es
 [German Trusted Committer]: ./trusted-committer/de
 [Chinese Trusted Committer]: ./trusted-committer/zh
+[Japanese Trusted Committer]: ./trusted-committer/ja
 [Japanese Contributor]: ./contributor/ja
 [Chinese Contributor]: ./contributor/zh
+[Italian Contributor]: ./contributor/it
+[German Contributor]: ./contributor/de
 [Chinese Product Owner]: ./product-owner/zh
