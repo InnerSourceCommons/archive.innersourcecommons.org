@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>/</id>
+	<title>InnerSource Commons</title>
+	<updated>2021-03-11T09:35:10+00:00</updated>
+
+	<subtitle>InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Cedric Williams</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
+
+	
+</feed>
